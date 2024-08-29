@@ -28,7 +28,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 
 # 💻 Research Interest
-1. <b><font color='blue'>Trustworthy Intelligent Education</front></b>
+1. <b> <font color='blue'>Trustworthy Intelligent Education</front></b>
   - Generalized Cognitive Diagnosis (Fairness)
   - Interpretable Cognitive Diagnosis (Interpretability)
   - Federated Cognitive Diagnosis (Privacy)
@@ -37,7 +37,7 @@ My research interest includes neural machine translation and computer vision. I 
   - Neural Architecture Search
   - Automatic Algorithm Design
   - Symbolic Regression
-3. <b><font color='blue'>Evolutionary Multiobjective Optimization for 1️⃣ & 2️⃣</front></b>
+3. <b><font color='blue'>Evolutionary Multiobjective Optimization for 1️⃣ & 2️⃣</font> </b>
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
