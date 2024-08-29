@@ -35,11 +35,15 @@ My research interest includes neural machine translation and computer vision. I 
     font-size: xx-large;
 
     font-style: italic;
+
+    <p><em><strong><span style="color: #FF0000;">这段文字将显示为斜体、加粗并且红色。</span></strong></em></p>
+
+    <p><span style="font-style: italic; color: #ff0000;">这段文本是斜体且颜色为红色的。</span></p>
     -->
-<p><span style="font-style: italic; color: #ff0000;">这段文本是斜体且颜色为红色的。</span></p>
+
 
 # 💻 Research Interest
-1. <strong color:#00F9A5>Trustworthy Intelligent Education</strong> 
+1. <p><em><strong><span style="color: #FF0000;">Trustworthy Intelligent Education</span></strong></em></p>
   - Generalized Cognitive Diagnosis (Fairness)
   - Interpretable Cognitive Diagnosis (Interpretability)
   - Federated Cognitive Diagnosis (Privacy)
