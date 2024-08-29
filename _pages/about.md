@@ -22,12 +22,29 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences.
 <!--with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
-# 📖 Educations
+# 📖 Educations & Experiences
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💻 Internships
+- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+# 💻 Research Interest
+1.Trustworthy Intelligent Education
+- Generalized Cognitive Diagnosis (Fairness)
+
+- Interpretable Cognitive Diagnosis (Interpretability)
+
+- Federated Cognitive Diagnosis (Privacy)
+
+- Robust Cognitive Diagnosis (Robustness)
+2.   Automated X
+
+- Neural Architecture Search
+
+- Automatic Algorithm Design 
+
+- Symbolic Regression
+  
+3. Evolutionary Multiobjective Optimization for 1️⃣ & 2️⃣
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -40,6 +57,12 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 -->
 
+# 💬 Fundings
+- The Postdoctoral Fellowship Program (Grade B) of China Postdoctoral Science Foundation under Grant Number GZB20240002  (A two-year support started in 2024, only 1000 people won, and about 500 people won Grade A) ；
+
+- The China Postdoctoral Science Foundation (74th Batch of General Funding)，2023-2025 (at a funding rate of about 17% )；
+
+- The National Natural Science Foundation of China (Youth Project)，2024-2026；
 
 
 # 🔥 News
