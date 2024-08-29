@@ -37,7 +37,7 @@ My research interest includes neural machine translation and computer vision. I 
     font-style: italic;
     -->
 # 💻 Research Interest
-1. <strong color='red'>Trustworthy Intelligent Education</strong> 
+1. <strong color:#00F9A5>Trustworthy Intelligent Education</strong> 
   - Generalized Cognitive Diagnosis (Fairness)
   - Interpretable Cognitive Diagnosis (Interpretability)
   - Federated Cognitive Diagnosis (Privacy)
