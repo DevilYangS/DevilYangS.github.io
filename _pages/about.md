@@ -33,7 +33,7 @@ My research interest includes neural machine translation and computer vision. I 
   - Interpretable Cognitive Diagnosis (Interpretability)
   - Federated Cognitive Diagnosis (Privacy)
   - Robust Cognitive Diagnosis (Robustness)
-2. <font color='red'>Automated X**</font>
+2. <b><font color='red'>Automated X</font> </b>
   - Neural Architecture Search
   - Automatic Algorithm Design
   - Symbolic Regression
