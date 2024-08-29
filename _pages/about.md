@@ -36,6 +36,8 @@ My research interest includes neural machine translation and computer vision. I 
 
     font-style: italic;
     -->
+<p><span style="font-style: italic; color: #ff0000;">这段文本是斜体且颜色为红色的。</span></p>
+
 # 💻 Research Interest
 1. <strong color:#00F9A5>Trustworthy Intelligent Education</strong> 
   - Generalized Cognitive Diagnosis (Fairness)
