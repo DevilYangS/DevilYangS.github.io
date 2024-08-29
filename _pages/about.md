@@ -36,26 +36,35 @@ My research interest includes neural machine translation and computer vision. I 
 
     font-style: italic;
 
+
+    example:
+    easy
+    <strong><font color='blue'>Automated X</font> </strong>
+    <b><font color='blue'>Evolutionary Multiobjective Optimization for 1️⃣ & 2️⃣</font> </b>
+
+    profissional
+
     <p><em><strong><span style="color: #FF0000;">这段文字将显示为斜体、加粗并且红色。</span></strong></em></p>
 
     <p><span style="font-style: italic; color: #ff0000;">这段文本是斜体且颜色为红色的。</span></p>
 
     <span style="font-style: italic; text-decoration: underline; color: red;">红色下划线并斜体文本</span>
+    
     -->
 
 
 
 # 💻 Research Interest
-1. <em><strong><span style="color: red; text-decoration: underline;">Trustworthy Intelligent Education</span></strong></em>
+1. <em><strong><span style="color: blue; text-decoration: underline;">Trustworthy Intelligent Education</span></strong></em>
   - Generalized Cognitive Diagnosis (Fairness)
   - Interpretable Cognitive Diagnosis (Interpretability)
   - Federated Cognitive Diagnosis (Privacy)
   - Robust Cognitive Diagnosis (Robustness)
-2. <strong><font color='blue'>Automated X</font> </strong>
+2. <em><strong><span style="color: blue; text-decoration: underline;">Automated X</span></strong></em> 
   - Neural Architecture Search
   - Automatic Algorithm Design
   - Symbolic Regression
-3. <b><font color='blue'>Evolutionary Multiobjective Optimization for 1️⃣ & 2️⃣</font> </b>
+3. <em><strong><span style="color: blue; text-decoration: underline;">Evolutionary Multiobjective Optimization for 1️⃣ & 2️⃣</span></strong></em> 
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
