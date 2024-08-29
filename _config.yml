@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shangshang Yang"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "I got PhD degree of C.S. at Anhui University, and I am a Postdoctoral at the School of AI at Anhui University."
 repository               : "DevilYangS/DevilYangS.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -20,7 +20,7 @@ bing_site_verification   :  # get bing_site_verification from https://www.bing.c
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
-author:
+  author:
   name             : "Shangshang Yang"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Anhui University"
