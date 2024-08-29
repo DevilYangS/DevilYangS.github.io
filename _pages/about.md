@@ -30,20 +30,13 @@ My research interest includes neural machine translation and computer vision. I 
 # 💻 Research Interest
 1. **Trustworthy Intelligent Education**
   - Generalized Cognitive Diagnosis (Fairness)
-
   - Interpretable Cognitive Diagnosis (Interpretability)
-
   - Federated Cognitive Diagnosis (Privacy)
-
   - Robust Cognitive Diagnosis (Robustness)
 2. **Automated X**
-
-- Neural Architecture Search
-
-- Automatic Algorithm Design 
-
-- Symbolic Regression
-  
+  - Neural Architecture Search
+  - Automatic Algorithm Design
+  - Symbolic Regression
 3. **Evolutionary Multiobjective Optimization for 1️⃣ & 2️⃣**
 
 # 🎖 Honors and Awards
