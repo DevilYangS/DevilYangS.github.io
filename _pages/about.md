@@ -28,7 +28,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 
 # 💻 Research Interest
-1. <b> <font color='blue'>Trustworthy Intelligent Education</front></b>
+1. <strong color='red'>Trustworthy Intelligent Education</strong> 
   - Generalized Cognitive Diagnosis (Fairness)
   - Interpretable Cognitive Diagnosis (Interpretability)
   - Federated Cognitive Diagnosis (Privacy)
