@@ -23,7 +23,7 @@ My research interest includes neural machine translation and computer vision. I 
 <!--with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 📖 Educations & Experiences
-- **Ph.D.**: *Sep 2017 - Dec 2022*, Computer Science and Technology, Anhui University, [Xingyi Zhang](https://bimk.ahu.edu.cn/2018/0116/c12971a141932/page.htm) (<font color ='red'>Supervisor</font>)
+- **Ph.D.**: *Sep. 2017 - Dec. 2022*, Computer Science and Technology, Anhui University, [Xingyi Zhang](https://bimk.ahu.edu.cn/2018/0116/c12971a141932/page.htm) (<font color ='red'>Supervisor</font>)
 - **Visiting Ph.D.**: *Mar. 2022 - Oct. 2022*, Bielefeld University, Germany, [Yaochu Jin](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=308725127) (<font color = 'green'>Co-Supervisor</font>)
 - **Intern-researcher**: *Jul. 2021 - Oct. 2021*, Tencent Technology (Beijing) Co., Ltd
 - **B.E**:  *Sep. 2013 - Jun. 2017*, Network Engineering, Anhui University
