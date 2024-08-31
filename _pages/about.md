@@ -79,9 +79,9 @@ My research interest includes neural machine translation and computer vision. I 
 -->
 
 # 💬 Fundings 
-- The Postdoctoral Fellowship Program (Grade B) of China Postdoctoral Science Foundation under Grant Number GZB20240002  (A two-year support started in 2024, only 1000 people won, and about 500 people won Grade A) ；
+- The Postdoctoral Fellowship Program (Grade B) of China Postdoctoral Science Foundation under Grant Number GZB20240002  (<em><font color='blue'>A two-year support started in 2024, only 1000 people won, and about 500 people won Grade A</font></em>) ；
 
-- The China Postdoctoral Science Foundation (74th Batch of General Funding)，2023-2025 (at a funding rate of about 17% )；
+- The China Postdoctoral Science Foundation (74th Batch of General Funding)，2023-2025 (<font color='blue'>at a funding rate of about 17% </font>)；
 
 - The National Natural Science Foundation of China (Youth Project)，2024-2026；
 
