@@ -91,7 +91,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2024.07.7*: &nbsp;🎉🎉  Our work ([EMO-NAS-CD](https://ieeexplore.ieee.org/abstract/document/10599558/)) on using NAS for cognitive diagnosis has been accepted by IEEE TEVC. 
+- *2024.07.07*: &nbsp;🎉🎉  Our work ([EMO-NAS-CD](https://ieeexplore.ieee.org/abstract/document/10599558/)) on using NAS for cognitive diagnosis has been accepted by IEEE TEVC. 
 - *2024.07.01*: &nbsp;🎉🎉 I received the support of Postdoctoral Fellowship Program (Grade B) from China China Postdoctoral Science Foundation, only 500 people won Grade A and 1,000 people got the Grade B.  
 
 
