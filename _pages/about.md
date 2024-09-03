@@ -120,10 +120,9 @@ I am   the recipient of the **2023 International Conference on Data-driven Optim
 [An Evolutionary Multi-Objective Neural Architecture Search Approach to Advancing Cognitive Diagnosis in Intelligent Education](https://ieeexplore.ieee.org/abstract/document/10599558/)
 
 
-**Shangshang Yang**, Haiping Ma, Ying Bi, Ye Tian, Limiao Zhang*, Yaochu Jin, an Xingyi Zhang^*
+**Shangshang Yang**, Haiping Ma, Ying Bi, Ye Tian, Limiao Zhang*, Yaochu Jin, and Xingyi Zhang^*
 
 *IEEE Transactions on Evolutionary Computation*, 2024
-
 
 [**Project**](https://github.com/DevilYangS/EMO-NAS-CD) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - The source code of the proposed EMO-NAS-CD approach, providing found models and the search approach to search for what you need  models.
@@ -131,6 +130,7 @@ I am   the recipient of the **2023 International Conference on Data-driven Optim
 </div>
 
 
-- [Hybrid Architecture-based Evolutionary Robust Neural Architecture Search](https://www.researchgate.net/publication/380402160_Hybrid_Architecture-based_Evolutionary_Robust_Neural_Architecture_Search?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InByb2ZpbGUiLCJwYWdlIjoicHJvZmlsZSIsInByZXZpb3VzUGFnZSI6ImhvbWUiLCJwb3NpdGlvbiI6InBhZ2VDb250ZW50In19). **Shangshang Yang**, Xiangkun Sun, Ke Xu, Yuanchao Liu, Ye Tian*, Xingyi Zhang*, *IEEE Transactions on Emerging Topics in Computational Intelligence*, 2024. 
+
+- [Hybrid Architecture-based Evolutionary Robust Neural Architecture Search](https://www.researchgate.net/publication/380402160_Hybrid_Architecture-based_Evolutionary_Robust_Neural_Architecture_Search?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InByb2ZpbGUiLCJwYWdlIjoicHJvZmlsZSIsInByZXZpb3VzUGFnZSI6ImhvbWUiLCJwb3NpdGlvbiI6InBhZ2VDb250ZW50In19). **Shangshang Yang**, Xiangkun Sun, Ke Xu, Yuanchao Liu, Ye Tian*, and Xingyi Zhang*, *IEEE Transactions on Emerging Topics in Computational Intelligence*, 2024. 
 
 
