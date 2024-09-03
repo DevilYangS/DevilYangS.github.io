@@ -138,7 +138,7 @@ I am   the recipient of the **2023 International Conference on Data-driven Optim
 - ["Evolutionary Neural Architecture Search for Transformer in Knowledge Tracing"](https://proceedings.neurips.cc/paper_files/paper/2023/hash/3e53d82a1113e3d240059a9195668edc-Abstract-Conference.html). **Shangshang Yang**, Xiaoshan Yu, Ye Tian, Xueming Yan, Haiping Ma\*, and Xingyi Zhang\*, *in the Proceedings of the Thirty-seventh Conference on Neural Information Processing Systems* (**NeurIPS 2023, CCF A**), 2023.
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DOCS 2024 Best Paper</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DOCS 2024 Best Paper</div><img src='images/docs2023.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ["Evolutionary Multi-Objective Neural Architecture Search for Generalized Cognitive Diagnosis Models"](https://ieeexplore.ieee.org/abstract/document/10294588/)
