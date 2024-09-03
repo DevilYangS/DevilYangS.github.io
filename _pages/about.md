@@ -20,7 +20,7 @@ redirect_from:
 I work  at Anhui University <img src='./images/anhui.png' style='width: 6em;'> as a postdoctoral  now in China. 
 
 
-I graduated from [Computer Science and Technology](https://cs.ahu.edu.cn/), Anhui University  with a bachelor's degree and with a  doctor's degree, advised by [Xingyi Zhang (张兴义)](https://bimk.ahu.edu.cn/2018/0116/c12971a141932/page.htm). I was also  a Visiting Ph.D. student at Bielefeld University  <img src='./images/bielefeld.png' style='width: 6em;'> , Germany in 2022, co-supervised by [Yaochu Jin (金耀初)](https://scholar.google.com.hk/citations?user=B5WAkz4AAAAJ).
+I graduated from [Computer Science and Technology](https://cs.ahu.edu.cn/), Anhui University  with a bachelor's degree and with a  doctor's degree, advised by [Xingyi Zhang (张兴义)](https://bimk.ahu.edu.cn/2018/0116/c12971a141932/page.htm). I was also  a Visiting Ph.D. student at Bielefeld University  <img src='./images/bielefeld.png' style='width: 6em;'>, Germany in 2022, co-supervised by [Yaochu Jin (金耀初)](https://scholar.google.com.hk/citations?user=B5WAkz4AAAAJ).
 
 
 
@@ -81,9 +81,9 @@ Systems Best Paper Award** and I got   the *Postdoctoral Fellowship Program (Gra
 3. <em><strong><span style="color: blue; text-decoration: underline;">Evolutionary Multiobjective Optimization for 1️⃣ & 2️⃣</span></strong></em> 
 
 # 🎖 Honors and Awards
-- *2024.07*  The <b><font color='red'>Winner</font></b> of the  Competition on "*Large-scale Multiobjective Optimization for Status Assessment of Measuring Equipment*" at the <em><b>2024 IEEE World Conference on Computational Intelligence</b></em>.
+- *2024.07*  The <b><font color='red'>Winner</font></b> of the  Competition on "*Large-scale Multiobjective Optimization for Status Assessment of Measuring Equipment*" at the <em><strong>2024 IEEE World Conference on Computational Intelligence</strong></em>.
 - *2023.9* The <b><font color='red'>Best Paper</font></b> of the **2023 International Conference on Data-driven Optimization of Complex Systems (DOCS 2023)**: the paper  entitled "<font color='blue'>Evolutionary Multi-Objective Neural Architecture Search for Generalized Cognitive Diagnosis Models</font>"
-- *2023.6* The <b><font color='red'>Winner</font></b>  of the Competition on "*Large-scale Continuous Optimization for Non-contact Measurement - MO Optimization*" at the <em><b>2023 IEEE Congress on Evolutionary Computation</b></em>.
+- *2023.6* The <b><font color='red'>Winner</font></b>  of the Competition on "*Large-scale Continuous Optimization for Non-contact Measurement - MO Optimization*" at the <em><strong>2023 IEEE Congress on Evolutionary Computation</strong></em>.
 
 
 
