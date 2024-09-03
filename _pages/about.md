@@ -155,7 +155,21 @@ I am   the recipient of the **2023 International Conference on Data-driven Optim
 
 -  ["EQ-Net: Elastic Quantization Neural Networks"](https://arxiv.org/pdf/2308.07650.pdf). Ke Xu, Lei Han, Ye Tian, **Shangshang Yang**\*, and Xingyi Zhang, *in the Proceedings of the 2023 International Conference on Computer Vision* (**ICCV 2023, CCF A**), 2023.
 
--  
+- ["Cognitive Diagnosis-Based Personalized Exercise Group Assembly via a Multi-Objective Evolutionary Algorithm"](https://ieeexplore.ieee.org/abstract/document/10018283). **Shangshang Yang**, Haoyu Wei, Haiping Ma\*, Ye Tian, Xingyi Zhang, Yunbo Cao, and Yaochu Jin. *IEEE Transactions on Emerging Topics in Computational Intelligence*, 2023, 7(3):829-844.
+
+- ["Accelerating Evolutionary Neural Architecture Search via Multi-Fidelity Evaluation"](https://ieeexplore.ieee.org/abstract/document/9786036). **Shangshang Yang**, Ye Tian, Xiaoshu Xiang\*, Shicheng Peng, and Xingyi Zhang\*. *IEEE Transactions on Cognitive and Developmental Systems*, 2022, 14(4): 1778-1792.
+
+- ["A Gradient-Guided Evolutionary Approach to Training Deep Neural Networks"](https://ieeexplore.ieee.org/abstract/document/9369973). **Shangshang Yang**, Ye Tian\*, Cheng He, Xingyi Zhang\*, Kan Chen Tan, and Yaochu Jin. *IEEE Transactions on Neural Networks and Learning Systems*, 2021, 33(9): 4861-4875.
+
+- ["An Evolutionary Multiobjective Optimization Based Fuzzy Method for Overlapping Community Detection"](https://ieeexplore.ieee.org/abstract/document/8855008). Ye Tian, **Shangshang Yang**, Xingyi Zhang\*. *IEEE Transactions on Fuzzy Systems*, 2019, 28(11): 2841-2855.
+
+- ["A Surrogate-Assisted Multiobjective Evolutionary Algorithm for Large-Scale Task-Oriented Pattern Mining"](https://ieeexplore.ieee.org/abstract/document/8482477). Ye Tian, **Shangshang Yang**, Lei Zhang, Fuchen Duan, Xingyi Zhang\*. *IEEE Transactions on Emerging Topics in Computational Intelligence*, 2019, 3(2): 106-116.
+
+- ["An indexed set representation based multi-objective evolutionary approach for mining diversified top-k high utility patterns"](https://ieeexplore.ieee.org/abstract/document/8482477). Lei Zhang, **Shangshang Yang**, Xinpeng Wu, Fan Cheng\*, Ying Xie, Zhiting Lin. *Engineering Applications of Artificial Intelligence*, 2019, 77: 9-20.
+
+The **last three work** was finished during the <font color ='blue'>first-two years of the PhD period</font>, and more  co-authored work can be found in my [Google Scholar](https://scholar.google.com.hk/citations?user=arzbiNUAAAAJ). 
+
+
 
 
 
