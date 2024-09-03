@@ -27,8 +27,7 @@ I graduated from [Computer Science and Technology](https://cs.ahu.edu.cn/), Anhu
 My current research interests include evolutionary multi-objective optimization, neural
 architecture search, and intelligent education. I have published over 30 papers <a href='https://scholar.google.com/citations?user=arzbiNUAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FDevilYangS%2Fdevilyangs.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>  at the top international AI conferences or journals.
 
-I am   the recipient of the **2023 International Conference on Data-driven Optimization of Complex
-Systems Best Paper Award** and I got   the *Postdoctoral Fellowship Program (Grade B) of the China Postdoctoral Science Foundation*.
+I am   the recipient of the **2023 International Conference on Data-driven Optimization of Complex Systems Best Paper Award** and I got   the *Postdoctoral Fellowship Program (Grade B) of the China Postdoctoral Science Foundation*.
 
 
 
@@ -91,7 +90,7 @@ Systems Best Paper Award** and I got   the *Postdoctoral Fellowship Program (Gra
 
 
 # 🎙 Invited Talks
-- *2023.09*,  NICE Seminar: <font color='blue'>Designing Novel Cognitive Diagnosis Models by  Evolutionary Multi-Objective Neural Architecture Search</font> | [Arxiv Paper](https://arxiv.org/pdf/2307.04429) | [Accepted Paper](https://ieeexplore.ieee.org/abstract/document/10599558/) | [Video](https://www.bilibili.com/video/BV1934y1P7vd/?spm_id_from=333.337.search-card.all.click&vd_source=2bffff05a7f25998ecbff130722206b6)
+- *2023.09*,  **NICE Seminar**: <font color='blue'>Designing Novel Cognitive Diagnosis Models by  Evolutionary Multi-Objective Neural Architecture Search</font> | [Arxiv Paper](https://arxiv.org/pdf/2307.04429) | [Accepted Paper](https://ieeexplore.ieee.org/abstract/document/10599558/) | [Video](https://www.bilibili.com/video/BV1934y1P7vd/?spm_id_from=333.337.search-card.all.click&vd_source=2bffff05a7f25998ecbff130722206b6)
 
 
 
