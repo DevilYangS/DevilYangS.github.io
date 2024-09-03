@@ -82,9 +82,11 @@ I am   the recipient of the **2023 International Conference on Data-driven Optim
 # 🎖 Honors and Awards
 - *2024.9* The  <b><font color='red'>Gold Award</font></b> of  the **2024 Anhui College Students' 'Internet+' Innovation and Entrepreneurship Competition (GAOJIAO Main Track)**.
 - *2024.07*  The <b><font color='red'>Winner</font></b> of the  Competition on "*Large-scale Multiobjective Optimization for Status Assessment of Measuring Equipment*" at the <em><strong><span style="text-decoration: underline;">2024 IEEE World Conference on Computational Intelligence</span></strong></em>.
-- *2023.9* The <b><font color='red'>Best Paper</font></b> of the **2023 International Conference on Data-driven Optimization of Complex Systems (DOCS 2023)**: the paper  entitled "<font color='blue'>Evolutionary Multi-Objective Neural Architecture Search for Generalized Cognitive Diagnosis Models</font>". <div class='paper-box'><div class='paper-box-image'><div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+- *2023.9* The <b><font color='red'>Best Paper</font></b> of the **2023 International Conference on Data-driven Optimization of Complex Systems (DOCS 2023)**: the paper  entitled "<font color='blue'>Evolutionary Multi-Objective Neural Architecture Search for Generalized Cognitive Diagnosis Models</font>".
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-- 
+
+
 - *2023.6* The <b><font color='red'>Winner</font></b>  of the Competition on "*Large-scale Continuous Optimization for Non-contact Measurement - MO Optimization*" at the <em><strong><span style="text-decoration: underline;">2023 IEEE Congress on Evolutionary Computation</span></strong></em>.
 - *2022.12* The  <b><font color='red'>Best Poster Paper</font></b> of the **2022 Annual Conference of Anhui Artificial Intelligence Society**: the paper  entitled "<font color='blue'>Accelerating Evolutionary Neural Architecture Search via Multifidelity Evaluation</font>".
 - *2022.06* The  <b><font color='red'>Silver Award</font></b> of  the **2022 Anhui College Students' 'Internet+' Innovation and Entrepreneurship Competition (GAOJIAO Main Track)**.
