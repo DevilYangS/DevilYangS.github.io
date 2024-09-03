@@ -157,7 +157,7 @@ I am   the recipient of the **2023 International Conference on Data-driven Optim
 
 - ``TETCI 2023`` ["Cognitive Diagnosis-Based Personalized Exercise Group Assembly via a Multi-Objective Evolutionary Algorithm"](https://ieeexplore.ieee.org/abstract/document/10018283). **Shangshang Yang**, Haoyu Wei, Haiping Ma\*, Ye Tian, Xingyi Zhang, Yunbo Cao, and Yaochu Jin. *IEEE Transactions on Emerging Topics in Computational Intelligence*, 2023, 7(3):829-844.
 
-- ``TCDS 2022`` ["Accelerating Evolutionary Neural Architecture Search via Multi-Fidelity Evaluation"](https://ieeexplore.ieee.org/abstract/document/9786036). **Shangshang Yang**, Ye Tian, Xiaoshu Xiang\*, Shicheng Peng, and Xingyi Zhang\*. *IEEE Transactions on Cognitive and Developmental Systems*, 2022, 14(4): 1778-1792.
+- ``TCDS 2022`` ["Accelerating Evolutionary Neural Architecture Search via Multi-Fidelity Evaluation"](https://ieeexplore.ieee.org/abstract/document/9786036). **Shangshang Yang**, Ye Tian, Xiaoshu Xiang\*, Shicheng Peng, and Xingyi Zhang\*. *IEEE Transactions on Cognitive and Developmental Systems*, 2022, 14(4): 1778-1792. <b><font color='red'> Best Poster Paper</font></b>
 
 - ``TNNLS 2021`` ["A Gradient-Guided Evolutionary Approach to Training Deep Neural Networks"](https://ieeexplore.ieee.org/abstract/document/9369973). **Shangshang Yang**, Ye Tian\*, Cheng He, Xingyi Zhang\*, Kan Chen Tan, and Yaochu Jin. *IEEE Transactions on Neural Networks and Learning Systems*, 2021, 33(9): 4861-4875.
 
