@@ -81,9 +81,9 @@ Systems Best Paper Award** and I got   the *Postdoctoral Fellowship Program (Gra
 3. <em><strong><span style="color: blue; text-decoration: underline;">Evolutionary Multiobjective Optimization for 1️⃣ & 2️⃣</span></strong></em> 
 
 # 🎖 Honors and Awards
-- *2024.07*  The <b><font color='red'>Winner</font></b> of the  Competition on "Large-scale Multiobjective Optimization for Status Assessment of Measuring Equipment" at the <em><b>2024 IEEE World Conference on Computational Intelligence</b></em>.
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.07*  The <b><font color='red'>Winner</font></b> of the  Competition on "*Large-scale Multiobjective Optimization for Status Assessment of Measuring Equipment*" at the <em><b>2024 IEEE World Conference on Computational Intelligence</b></em>.
+- *2023.9* The <b><font color='red'>Best Paper</font></b> of the **2023 International Conference on Data-driven Optimization of Complex Systems (DOCS 2023)**: the paper  entitled "<font color='blue'>Evolutionary Multi-Objective Neural Architecture Search for Generalized Cognitive Diagnosis Models</font>"
+- *2023.6* The <b><font color='red'>Winner</font></b>  of the Competition on "*Large-scale Continuous Optimization for Non-contact Measurement - MO Optimization*" at the <em><b>2023 IEEE Congress on Evolutionary Computation</b></em>.
 
 
 
