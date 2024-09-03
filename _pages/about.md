@@ -90,10 +90,10 @@ Systems Best Paper Award** and I got   the *Postdoctoral Fellowship Program (Gra
 
 
 
-<!--# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
--->
+# 🎙 Invited Talks
+- *2023.09*,  NICE Seminar: <font color='blue'>Designing Novel Cognitive Diagnosis Models by  Evolutionary Multi-Objective Neural Architecture Search</font> | [Arxiv Paper](https://arxiv.org/pdf/2307.04429) | [Accepted Paper](https://ieeexplore.ieee.org/abstract/document/10599558/) | [Video](https://www.bilibili.com/video/BV1934y1P7vd/?spm_id_from=333.337.search-card.all.click&vd_source=2bffff05a7f25998ecbff130722206b6)
+
+
 
 # 💬 Fundings 
 - The Postdoctoral Fellowship Program (Grade B) of China Postdoctoral Science Foundation under Grant Number GZB20240002  (<em><font color='blue'>A two-year support started in 2024, only 1000 people won, and about 500 people won Grade A</font></em>) ；
