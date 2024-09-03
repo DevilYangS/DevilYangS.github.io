@@ -133,9 +133,9 @@ I am   the recipient of the **2023 International Conference on Data-driven Optim
 
 - ["Hybrid Architecture-based Evolutionary Robust Neural Architecture Search"](https://www.researchgate.net/publication/380402160_Hybrid_Architecture-based_Evolutionary_Robust_Neural_Architecture_Search?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InByb2ZpbGUiLCJwYWdlIjoicHJvZmlsZSIsInByZXZpb3VzUGFnZSI6ImhvbWUiLCJwb3NpdGlvbiI6InBhZ2VDb250ZW50In19). **Shangshang Yang**, Xiangkun Sun, Ke Xu, Yuanchao Liu, Ye Tian\*, and Xingyi Zhang\*, *IEEE Transactions on Emerging Topics in Computational Intelligence*, 2024.
   
--  ["Enhancing Cognitive Diagnosis using Un-interacted Exercises: A Collaboration-aware Mixed Sampling Approach"](https://ojs.aaai.org/index.php/AAAI/article/view/28735). Haiping Ma, Changqian Wang, Hengshu Zhu, **Shangshang Yang**\*, Xiaoming Zhang, and Xingyi Zhang\*, *in the Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence* (**AAAI-24, CCF A**), 2023.
+-  ["Enhancing Cognitive Diagnosis using Un-interacted Exercises: A Collaboration-aware Mixed Sampling Approach"](https://ojs.aaai.org/index.php/AAAI/article/view/28735). Haiping Ma, Changqian Wang, Hengshu Zhu, **Shangshang Yang**\*, Xiaoming Zhang, and Xingyi Zhang\*, *in the Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence* (''AAAI-24, CCF A''), 2023.
 
-- ["Evolutionary Neural Architecture Search for Transformer in Knowledge Tracing"](https://proceedings.neurips.cc/paper_files/paper/2023/hash/3e53d82a1113e3d240059a9195668edc-Abstract-Conference.html). **Shangshang Yang**, Xiaoshan Yu, Ye Tian, Xueming Yan, Haiping Ma\*, and Xingyi Zhang\*, *in the Proceedings of the Thirty-seventh Conference on Neural Information Processing Systems* (**NeurIPS 2023, CCF A**), 2023.
+- ["Evolutionary Neural Architecture Search for Transformer in Knowledge Tracing"](https://proceedings.neurips.cc/paper_files/paper/2023/hash/3e53d82a1113e3d240059a9195668edc-Abstract-Conference.html). **Shangshang Yang**, Xiaoshan Yu, Ye Tian, Xueming Yan, Haiping Ma\*, and Xingyi Zhang\*, *in the Proceedings of the Thirty-seventh Conference on Neural Information Processing Systems* (''NeurIPS 2023, CCF A''), 2023.
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">DOCS 2024 Best Paper</div><img src='images/docs2023.jpg' alt="sym" width="100%"></div></div>
@@ -153,7 +153,7 @@ I am   the recipient of the **2023 International Conference on Data-driven Optim
 </div>
 </div>
 
--  ["EQ-Net: Elastic Quantization Neural Networks"](https://arxiv.org/pdf/2308.07650.pdf). Ke Xu, Lei Han, Ye Tian, **Shangshang Yang**\*, and Xingyi Zhang, *in the Proceedings of the 2023 International Conference on Computer Vision* (**ICCV 2023, CCF A**), 2023.
+-  ["EQ-Net: Elastic Quantization Neural Networks"](https://arxiv.org/pdf/2308.07650.pdf). Ke Xu, Lei Han, Ye Tian, **Shangshang Yang**\*, and Xingyi Zhang, *in the Proceedings of the 2023 International Conference on Computer Vision* (''ICCV 2023, CCF A''), 2023.
 
 - ["Cognitive Diagnosis-Based Personalized Exercise Group Assembly via a Multi-Objective Evolutionary Algorithm"](https://ieeexplore.ieee.org/abstract/document/10018283). **Shangshang Yang**, Haoyu Wei, Haiping Ma\*, Ye Tian, Xingyi Zhang, Yunbo Cao, and Yaochu Jin. *IEEE Transactions on Emerging Topics in Computational Intelligence*, 2023, 7(3):829-844.
 
