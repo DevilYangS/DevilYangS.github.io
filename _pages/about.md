@@ -114,18 +114,23 @@ I am   the recipient of the **2023 International Conference on Data-driven Optim
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TEVC 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[An Evolutionary Multi-Objective Neural Architecture Search Approach to Advancing Cognitive Diagnosis in Intelligent Education](https://ieeexplore.ieee.org/abstract/document/10599558/)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**Shangshang Yang**, Haiping Ma, Ying Bi, Ye Tian, Limiao Zhang*, Yaochu Jin, an Xingyi Zhang^*
+
+*IEEE Transactions on Evolutionary Computation*, 2024
+
+
+[**Project**](https://github.com/DevilYangS/EMO-NAS-CD) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- The source code of the proposed EMO-NAS-CD approach, providing found models and the search approach to search for what you need  models.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+- [Hybrid Architecture-based Evolutionary Robust Neural Architecture Search](https://www.researchgate.net/publication/380402160_Hybrid_Architecture-based_Evolutionary_Robust_Neural_Architecture_Search?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InByb2ZpbGUiLCJwYWdlIjoicHJvZmlsZSIsInByZXZpb3VzUGFnZSI6ImhvbWUiLCJwb3NpdGlvbiI6InBhZ2VDb250ZW50In19). **Shangshang Yang**, Xiangkun Sun, Ke Xu, Yuanchao Liu, Ye Tian*, Xingyi Zhang*, *IEEE Transactions on Emerging Topics in Computational Intelligence*, 2024. 
 
 
