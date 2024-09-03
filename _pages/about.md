@@ -81,9 +81,12 @@ Systems Best Paper Award** and I got   the *Postdoctoral Fellowship Program (Gra
 3. <em><strong><span style="color: blue; text-decoration: underline;">Evolutionary Multiobjective Optimization for 1️⃣ & 2️⃣</span></strong></em> 
 
 # 🎖 Honors and Awards
-- *2024.07*  The <b><font color='red'>Winner</font></b> of the  Competition on "*Large-scale Multiobjective Optimization for Status Assessment of Measuring Equipment*" at the <em><strong>2024 IEEE World Conference on Computational Intelligence</strong></em>.
-- *2023.9* The <b><font color='red'>Best Paper</font></b> of the **2023 International Conference on Data-driven Optimization of Complex Systems (DOCS 2023)**: the paper  entitled "<font color='blue'>Evolutionary Multi-Objective Neural Architecture Search for Generalized Cognitive Diagnosis Models</font>"
-- *2023.6* The <b><font color='red'>Winner</font></b>  of the Competition on "*Large-scale Continuous Optimization for Non-contact Measurement - MO Optimization*" at the <em><strong>2023 IEEE Congress on Evolutionary Computation</strong></em>.
+- *2024.9* The  <b><font color='red'>Gold Award</font></b> of  the **2024 Anhui College Students' 'Internet+' Innovation and Entrepreneurship Competition (GAOJIAO Main Track)**.
+- *2024.07*  The <b><font color='red'>Winner</font></b> of the  Competition on "*Large-scale Multiobjective Optimization for Status Assessment of Measuring Equipment*" at the <em><strong><span style="text-decoration: underline;">2024 IEEE World Conference on Computational Intelligence</span></strong></em>.
+- *2023.9* The <b><font color='red'>Best Paper</font></b> of the **2023 International Conference on Data-driven Optimization of Complex Systems (DOCS 2023)**: the paper  entitled "<font color='blue'>Evolutionary Multi-Objective Neural Architecture Search for Generalized Cognitive Diagnosis Models</font>".
+- *2023.6* The <b><font color='red'>Winner</font></b>  of the Competition on "*Large-scale Continuous Optimization for Non-contact Measurement - MO Optimization*" at the <em><strong><span style="text-decoration: underline;">2023 IEEE Congress on Evolutionary Computation</span></strong></em>.
+- *2022.12* The  <b><font color='red'>Best Poster Paper</font></b> of the **2022 Annual Conference of Anhui Artificial Intelligence Society**: the paper  entitled "<font color='blue'>Accelerating Evolutionary Neural Architecture Search via Multifidelity Evaluation</font>".
+- *2022.06* The  <b><font color='red'>Silver Award</font></b> of  the **2022 Anhui College Students' 'Internet+' Innovation and Entrepreneurship Competition (GAOJIAO Main Track)**.
 
 
 
@@ -105,6 +108,7 @@ Systems Best Paper Award** and I got   the *Postdoctoral Fellowship Program (Gra
 
 
 # 🔥 News
+- *2024.09.01*: &nbsp;🎉🎉 Our group won the  <b><font color='red'>Gold Award</font></b> of  the 2022 Anhui College Students' 'Internet+' Innovation and Entrepreneurship Competition (GAOJIAO Main Track), supervised by [Ye Tian](https://bimk.ahu.edu.cn/2021/0402/c12971a256388/page.htm), Shangshang Yang, and Xingyi Zhang.
 - *2024.07.07*: &nbsp;🎉🎉  Our work ([EMO-NAS-CD](https://ieeexplore.ieee.org/abstract/document/10599558/)) on using NAS for cognitive diagnosis has been accepted by IEEE TEVC. 
 - *2024.07.01*: &nbsp;🎉🎉 I received the support of Postdoctoral Fellowship Program (Grade B) from China China Postdoctoral Science Foundation, only 500 people won Grade A and 1,000 people got the Grade B.  
 
