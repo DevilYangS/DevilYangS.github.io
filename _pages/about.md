@@ -117,10 +117,10 @@ I am   the recipient of the **2023 International Conference on Data-driven Optim
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TEVC 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[An Evolutionary Multi-Objective Neural Architecture Search Approach to Advancing Cognitive Diagnosis in Intelligent Education](https://ieeexplore.ieee.org/abstract/document/10599558/)
+["An Evolutionary Multi-Objective Neural Architecture Search Approach to Advancing Cognitive Diagnosis in Intelligent Education""](https://ieeexplore.ieee.org/abstract/document/10599558/)
 
 
-**Shangshang Yang**, Haiping Ma, Ying Bi, Ye Tian, Limiao Zhang*, Yaochu Jin, and Xingyi Zhang^*
+**Shangshang Yang**, Haiping Ma, Ying Bi, Ye Tian, Limiao Zhang\*, Yaochu Jin, and Xingyi Zhang\*
 
 *IEEE Transactions on Evolutionary Computation*, 2024
 
@@ -131,6 +131,12 @@ I am   the recipient of the **2023 International Conference on Data-driven Optim
 
 
 
-- [Hybrid Architecture-based Evolutionary Robust Neural Architecture Search](https://www.researchgate.net/publication/380402160_Hybrid_Architecture-based_Evolutionary_Robust_Neural_Architecture_Search?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InByb2ZpbGUiLCJwYWdlIjoicHJvZmlsZSIsInByZXZpb3VzUGFnZSI6ImhvbWUiLCJwb3NpdGlvbiI6InBhZ2VDb250ZW50In19). **Shangshang Yang**, Xiangkun Sun, Ke Xu, Yuanchao Liu, Ye Tian*, and Xingyi Zhang*, *IEEE Transactions on Emerging Topics in Computational Intelligence*, 2024. 
+- ["Hybrid Architecture-based Evolutionary Robust Neural Architecture Search"](https://www.researchgate.net/publication/380402160_Hybrid_Architecture-based_Evolutionary_Robust_Neural_Architecture_Search?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InByb2ZpbGUiLCJwYWdlIjoicHJvZmlsZSIsInByZXZpb3VzUGFnZSI6ImhvbWUiLCJwb3NpdGlvbiI6InBhZ2VDb250ZW50In19). **Shangshang Yang**, Xiangkun Sun, Ke Xu, Yuanchao Liu, Ye Tian\*, and Xingyi Zhang\*, *IEEE Transactions on Emerging Topics in Computational Intelligence*, 2024.
+  
+-  ["Enhancing Cognitive Diagnosis using Un-interacted Exercises: A Collaboration-aware Mixed Sampling Approach"](https://ojs.aaai.org/index.php/AAAI/article/view/28735). Haiping Ma, Changqian Wang, Hengshu Zhu, **Shangshang Yang**\*, Xiaoming Zhang, and Xingyi Zhang\*, in the Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence (**AAAI-24, CCF A**), 2023.
+
+- ["Evolutionary Neural Architecture Search for Transformer in Knowledge Tracing"](https://proceedings.neurips.cc/paper_files/paper/2023/hash/3e53d82a1113e3d240059a9195668edc-Abstract-Conference.html). **Shangshang Yang**, Xiaoshan Yu, Ye Tian, Xueming Yan, Haiping Ma\*, and Xingyi Zhang\*, in the Proceedings of the Thirty-seventh Conference on Neural Information Processing Systems (**NeurIPS 2023, CCF A**), 2023.
+
+- 
 
 
