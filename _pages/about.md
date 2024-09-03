@@ -25,8 +25,9 @@ I graduated from [Computer Science and Technology](https://cs.ahu.edu.cn/), Anhu
 
 
 My current research interests include evolutionary multi-objective optimization, neural
-architecture search, and intelligent education. I have published over 30 papers at the top international AI conferences or journals.
-I am   the recipient of the **2023 International Conference on Data-driven Optimization of Complex
+architecture search, and intelligent education. I have published over 30 papers <a href='https://scholar.google.com/citations?user=arzbiNUAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>  at the top international AI conferences or journals.
+
+I am   the recipients of the **2023 International Conference on Data-driven Optimization of Complex
 Systems Best Paper Award** and I got   the *Postdoctoral Fellowship Program (Grade B) of the China Postdoctoral Science Foundation*.
 
 
