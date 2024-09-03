@@ -20,7 +20,17 @@ redirect_from:
 I work  at Anhui University <img src='./images/anhui.png' style='width: 6em;'> as a postdoctoral  now in China. 
 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences.
+I graduated from [Computer Science and Technology](https://cs.ahu.edu.cn/), Anhui University  with a bachelor's degree and with a  doctor's degree, advised by [Xingyi Zhang (张兴义)](https://bimk.ahu.edu.cn/2018/0116/c12971a141932/page.htm). I was also  a Visiting Ph.D. student at Bielefeld University, Germany in 2022, co-supervised by [Yaochu Jin (金耀初)](https://scholar.google.com.hk/citations?user=B5WAkz4AAAAJ).
+
+
+
+My current research interests include evolutionary multi-objective optimization, neural
+architecture search, and intelligent education. I have published over 30 papers at the top international AI conferences or journals.
+I am   the recipient of the **2023 International Conference on Data-driven Optimization of Complex
+Systems Best Paper Award** and I got   the *Postdoctoral Fellowship Program (Grade B) of the China Postdoctoral Science Foundation*.
+
+
+
 
 <!--with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
