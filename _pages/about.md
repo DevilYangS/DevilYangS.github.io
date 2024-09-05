@@ -20,7 +20,7 @@ redirect_from:
 I work  at the [BIMK Research Group](https://bimk.ahu.edu.cn/main.htm) in  Anhui University <img src='./images/anhui.png' style='width: 6em;'> as a postdoctoral  now in China. 
 
 
-I graduated from [Computer Science and Technology](https://cs.ahu.edu.cn/), Anhui University  with a bachelor's degree and with a  doctor's degree, advised by [Xingyi Zhang (张兴义)](https://bimk.ahu.edu.cn/2018/0116/c12971a141932/page.htm). I was also  a Visiting Ph.D. student at Bielefeld University  <img src='./images/bielefeld.png' style='width: 6em;'>, Germany in 2022, co-supervised by [Yaochu Jin (金耀初)](https://scholar.google.com.hk/citations?user=B5WAkz4AAAAJ).
+I graduated from [the School of Computer Science and Technology](https://cs.ahu.edu.cn/), Anhui University  with a bachelor's degree and with a  doctor's degree, advised by [Xingyi Zhang (张兴义)](https://bimk.ahu.edu.cn/2018/0116/c12971a141932/page.htm). I was also  a Visiting Ph.D. student at Bielefeld University  <img src='./images/bielefeld.png' style='width: 6em;'>, Germany in 2022, co-supervised by [Yaochu Jin (金耀初)](https://scholar.google.com.hk/citations?user=B5WAkz4AAAAJ).
 
 
 
@@ -80,7 +80,7 @@ I am   the recipient of the **2023 International Conference on Data-driven Optim
 3. <em><strong><span style="color: blue; text-decoration: underline;">Evolutionary Multiobjective Optimization for 1️⃣ & 2️⃣</span></strong></em> 
 
 # 🎖 Honors and Awards
-- *2024.9* The  <b><font color='red'>Gold Award</font></b> of  the **2024 Anhui College Students' 'Internet+' Innovation and Entrepreneurship Competition (GAOJIAO Main Track)**.
+- *2024.9* The  <b><font color='red'>Golden Award</font></b> of  the **2024 Anhui College Students' 'Internet+' Innovation and Entrepreneurship Competition (GAOJIAO Main Track)**.
 - *2024.07*  The <b><font color='red'>Winner</font></b> of the  Competition on "*Large-scale Multiobjective Optimization for Status Assessment of Measuring Equipment*" at the <em><strong><span style="text-decoration: underline;">2024 IEEE World Conference on Computational Intelligence</span></strong></em>.
 - *2023.9* The <b><font color='red'>Best Paper</font></b> of the **2023 International Conference on Data-driven Optimization of Complex Systems (DOCS 2023)**: the paper  entitled "<font color='blue'>Evolutionary Multi-Objective Neural Architecture Search for Generalized Cognitive Diagnosis Models</font>".
 - *2023.6* The <b><font color='red'>Winner</font></b>  of the Competition on "*Large-scale Continuous Optimization for Non-contact Measurement - MO Optimization*" at the <em><strong><span style="text-decoration: underline;">2023 IEEE Congress on Evolutionary Computation</span></strong></em>.
@@ -107,7 +107,7 @@ I am   the recipient of the **2023 International Conference on Data-driven Optim
 
 
 # 🔥 News
-- *2024.09.01*: &nbsp;🎉🎉 Our group won the  <b><font color='red'>Gold Award</font></b> of  the 2022 Anhui College Students' 'Internet+' Innovation and Entrepreneurship Competition (GAOJIAO Main Track), supervised by [Ye Tian](https://bimk.ahu.edu.cn/2021/0402/c12971a256388/page.htm), Shangshang Yang, and Xingyi Zhang.
+- *2024.09.01*: &nbsp;🎉🎉 Our group won the  <b><font color='red'>Golden Award</font></b> of  the 2022 Anhui College Students' 'Internet+' Innovation and Entrepreneurship Competition (GAOJIAO Main Track), supervised by [Ye Tian](https://bimk.ahu.edu.cn/2021/0402/c12971a256388/page.htm), Shangshang Yang, and Xingyi Zhang.
 - *2024.07.07*: &nbsp;🎉🎉  Our work ([EMO-NAS-CD](https://ieeexplore.ieee.org/abstract/document/10599558/)) on using NAS for cognitive diagnosis has been accepted by IEEE TEVC. 
 - *2024.07.01*: &nbsp;🎉🎉 I received the support of [Postdoctoral Fellowship Program (Grade B)](https://www.chinapostdoctor.org.cn/article?inid=fc7da3d7-7f1f-4e3d-81c8-65725b884c0e&catname=%E9%80%9A%E7%9F%A5%E5%85%AC%E5%91%8A&catid=8c892b1c-4ade-4a5f-9a87-5e736cb5e9f9) from China China Postdoctoral Science Foundation, only 500 people won Grade A and 1,000 people got the Grade B.  
 
