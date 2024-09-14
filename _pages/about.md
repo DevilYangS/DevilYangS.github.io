@@ -167,7 +167,7 @@ I am   the recipient of the **2023 International Conference on Data-driven Optim
 
 - ``EAAI 2019`` ["An indexed set representation based multi-objective evolutionary approach for mining diversified top-k high utility patterns"](https://ieeexplore.ieee.org/abstract/document/8482477). Lei Zhang, **Shangshang Yang**, Xinpeng Wu, Fan Cheng\*, Ying Xie, Zhiting Lin. *Engineering Applications of Artificial Intelligence*, 2019, 77: 9-20.
 
-The <b><font color ='blue'>last three work</font></b> was finished during the <font color ='blue'>first-two years of the PhD period</font>, and more  co-authored work can be found in my [Google Scholar](https://scholar.google.com.hk/citations?user=arzbiNUAAAAJ). 
+The <b><font color ='blue'>last three work</font></b> was completed  during the <font color ='blue'>first-two years of my PhD period</font>, and more  co-authored work can be found in my [Google Scholar](https://scholar.google.com.hk/citations?user=arzbiNUAAAAJ). 
 
 
 
