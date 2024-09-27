@@ -115,7 +115,7 @@ I am   the recipient of the **2023 International Conference on Data-driven Optim
 
 # 📝 Publications 
 
-- ``NeurIPS 2024`` ["DisenGCD: A Meta Multigraph-assisted Disentangled Graph Learning Framework for Cognitive Diagnosis"]. **Shangshang Yang**, Mingyang Chen, Ziwen Wang, Xiaoshan Yu, Panpan Zhang, Haiping Ma\*, AND Xingyi Zhang,  *in the Proceedings of the Thirty-eighth Conference on Neural Information Processing Systems* (**CCF A**), 2024.
+- ``NeurIPS 2024`` ["DisenGCD: A Meta Multigraph-assisted Disentangled Graph Learning Framework for Cognitive Diagnosis"]. **Shangshang Yang**, Mingyang Chen, Ziwen Wang, Xiaoshan Yu, Panpan Zhang, Haiping Ma\*, and Xingyi Zhang,  *in the Proceedings of the Thirty-eighth Conference on Neural Information Processing Systems* (**CCF A**), 2024.
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TEVC 2024</div><img src='images/EMO-NAS-CD.png' alt="sym" width="100%"></div></div>
