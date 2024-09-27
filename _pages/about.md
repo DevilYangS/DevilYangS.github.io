@@ -107,7 +107,7 @@ I am   the recipient of the **2023 International Conference on Data-driven Optim
 
 
 # 🔥 News
-- *2024.09.26*: &nbsp;🎉🎉 Our work (DisenGCD) on proposing a meta-multigraph-assisted graph learning framework for cognitive diagnosis has been accepted by [NeurIPS 2024](https://neurips.cc/).
+- *2024.09.26*: &nbsp;🎉🎉 Our work **DisenGCD**  proposing a meta-multigraph-assisted graph learning framework for cognitive diagnosis has been accepted by [NeurIPS 2024](https://neurips.cc/).
 - *2024.09.01*: &nbsp;🎉🎉 Our group won the  <b><font color='red'>Golden Award</font></b> of  the 2022 Anhui College Students' 'Internet+' Innovation and Entrepreneurship Competition (GAOJIAO Main Track), supervised by [Ye Tian](https://bimk.ahu.edu.cn/2021/0402/c12971a256388/page.htm), Shangshang Yang, and Xingyi Zhang.
 - *2024.07.07*: &nbsp;🎉🎉  Our work ([EMO-NAS-CD](https://ieeexplore.ieee.org/abstract/document/10599558/)) on using NAS for cognitive diagnosis has been accepted by IEEE TEVC. 
 - *2024.07.01*: &nbsp;🎉🎉 I received the support of [Postdoctoral Fellowship Program (Grade B)](https://www.chinapostdoctor.org.cn/article?inid=fc7da3d7-7f1f-4e3d-81c8-65725b884c0e&catname=%E9%80%9A%E7%9F%A5%E5%85%AC%E5%91%8A&catid=8c892b1c-4ade-4a5f-9a87-5e736cb5e9f9) from China China Postdoctoral Science Foundation, only 500 people won Grade A and 1,000 people got the Grade B.  
