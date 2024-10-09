@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Shangshang Yang \n (杨尚尚)"
+title                    : "Shangshang Yang"
 description              : "A postdoctoral at  Anhui University, interested in AutoML, Evolutionary Computation, and Intelligent Education."
 repository               : "DevilYangS/DevilYangS.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Shangshang Yang"
+  name             : "Shangshang Yang <br> (杨尚尚)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Anhui University"
   location         : "Hefei, China"
