@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Shangshang Yang"
+title                    : "Shangshang Yang \n (杨尚尚)"
 description              : "A postdoctoral at  Anhui University, interested in AutoML, Evolutionary Computation, and Intelligent Education."
 repository               : "DevilYangS/DevilYangS.github.io"
 google_scholar_stats_use_cdn : true
