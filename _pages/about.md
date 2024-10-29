@@ -95,11 +95,13 @@ I am   the recipient of the **2023 International Conference on Data-driven Optim
 
 
 # 💬 Fundings 
-- The Postdoctoral Fellowship Program (Grade B) of China Postdoctoral Science Foundation under Grant Number GZB20240002  (<em><font color='blue'>A two-year support started in 2024, only 1000 people won, and about 500 people won Grade A</font></em>) ；
+- The Postdoctoral Fellowship Program (Grade B) of China Postdoctoral Science Foundation under Grant Number GZB20240002  (<em><font color='blue'>A two-year support started in 2024, only 1000 people won, and about 500 people won Grade A</font></em>)， 360K ；
 
-- The China Postdoctoral Science Foundation (74th Batch of General Funding)，2023-2025 (<font color='blue'>at a funding rate of about 17% </font>)；
+- The China Postdoctoral Science Foundation (74th Batch of General Funding)，2023-2025 (<font color='blue'>at a funding rate of about 17% </font>) 80K；
 
-- The National Natural Science Foundation of China (Youth Project)，2024-2026；
+- The National Natural Science Foundation of China (Youth Project)，2024-2026, 300K；
+
+- Anhui Province Key Laboratory of Intelligent Computing and Applications (No. AFZNJS2024KF01)，2024-2025, 50K；
 
 # 🧑‍🎨 Reviewers
 - The reviewer of IEEE INNLS, IEEE TAI, IEEE TEVC, IEEE TETCI, NeurIPS, SIGKDD, ICLR, and ACM MM.
@@ -115,7 +117,7 @@ I am   the recipient of the **2023 International Conference on Data-driven Optim
 
 # 📝 Publications 
 
-- ``NeurIPS 2024`` ["DisenGCD: A Meta Multigraph-assisted Disentangled Graph Learning Framework for Cognitive Diagnosis"]. **Shangshang Yang**, Mingyang Chen, Ziwen Wang, Xiaoshan Yu, Panpan Zhang, Haiping Ma\*, and Xingyi Zhang,  *in the Proceedings of the Thirty-eighth Conference on Neural Information Processing Systems* (**CCF A**), 2024.
+- ``NeurIPS 2024`` ["DisenGCD: A Meta Multigraph-assisted Disentangled Graph Learning Framework for Cognitive Diagnosis"](https://arxiv.org/abs/2410.17564). **Shangshang Yang**, Mingyang Chen, Ziwen Wang, Xiaoshan Yu, Panpan Zhang, Haiping Ma\*, and Xingyi Zhang,  *in the Proceedings of the Thirty-eighth Conference on Neural Information Processing Systems* (**CCF A**), 2024.
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TEVC 2024</div><img src='images/EMO-NAS-CD.png' alt="sym" width="100%"></div></div>
