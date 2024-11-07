@@ -29,7 +29,7 @@ architecture search, and intelligent education. I have published over 30 papers 
 
 I am   the recipient of the **2023 International Conference on Data-driven Optimization of Complex Systems Best Paper Award** and I got   the *Postdoctoral Fellowship Program (Grade B) of the China Postdoctoral Science Foundation*.
 
-You can find my [CV](../docs/CV-ShangshangYang.pdf).
+You can find my [CV](https://github.com/DevilYangS/DevilYangS.github.io/docs/CV-ShangshangYang.pdf).
 
 
 
