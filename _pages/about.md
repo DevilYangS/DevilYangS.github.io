@@ -20,7 +20,7 @@ redirect_from:
 I work  at the [BIMK Research Group](https://bimk.ahu.edu.cn/main.htm) in  Anhui University <img src='./images/anhui.png' style='width: 6em;'> as a postdoctoral  now in China. 
 
 
-I graduated from [the School of Computer Science and Technology](https://cs.ahu.edu.cn/), Anhui University  with a bachelor's degree and with a  doctor's degree. I was also  a [Visiting Ph.D. student](https://pub.uni-bielefeld.de/person/371292748) at Bielefeld University  <img src='./images/bielefeld.png' style='width: 6em;'>, Germany in 2022, co-supervised by [Yaochu Jin (金耀初)](https://scholar.google.com.hk/citations?user=B5WAkz4AAAAJ).
+I graduated from [the School of Computer Science and Technology](https://cs.ahu.edu.cn/), Anhui University  with a bachelor's degree and with a  doctor's degree. I was also  a [Visiting Ph.D. student](https://pub.uni-bielefeld.de/person/371292748) at Bielefeld University  <img src='./images/bielefeld.png' style='width: 6em;'>, Germany in 2022.
 
 
 
