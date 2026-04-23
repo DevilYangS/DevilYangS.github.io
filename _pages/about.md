@@ -32,6 +32,7 @@ My research interests include automated machine learning, neural architecture se
 # 📖 Education
 - **Ph.D.**: *Sep. 2017 - Dec. 2022*, Computer Science and Technology, Anhui University
 - **Visiting Ph.D.**: *Mar. 2022 - Sep. 2022*, Bielefeld University, Germany
+- **B.E**:  *Sep. 2013 - Jun. 2017*, Network Engineering, Anhui University
 
 # 💼 Work Experience
 - **Associate Professor**: *Apr. 2026 - Present*, School of Computer Science and Technology, Anhui University
