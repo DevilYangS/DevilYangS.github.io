@@ -19,15 +19,9 @@ redirect_from:
 
 I work as an <b>Associate Professor</b> at the [BIMK Research Group](https://bimk.ahu.edu.cn/main.htm) in  [School of Computer Science and Technology](https://cs.ahu.edu.cn/), Anhui University <img src='./images/anhui.png' style='width: 6em;'> in China. 
 
+I graduated from [the School of Computer Science and Technology](https://cs.ahu.edu.cn/), Anhui University with a bachelor's degree and a doctoral degree. I was also a [Visiting Ph.D. student](https://pub.uni-bielefeld.de/person/371292748) at Bielefeld University <img src='./images/bielefeld.png' style='width: 6em;'>, Germany in 2022.
 
-I graduated from [the School of Computer Science and Technology](https://cs.ahu.edu.cn/), Anhui University  with a bachelor's degree and with a  doctor's degree. I was also  a [Visiting Ph.D. student](https://pub.uni-bielefeld.de/person/371292748) at Bielefeld University  <img src='./images/bielefeld.png' style='width: 6em;'>, Germany in 2022.
-
-
-
-My current research interests include evolutionary multi-objective optimization, neural
-architecture search, and intelligent education. I have published over 30 papers <a href='https://scholar.google.com/citations?user=arzbiNUAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FDevilYangS%2Fdevilyangs.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>  at the top international AI conferences or journals.
-
-I am   the recipient of the **2023 International Conference on Data-driven Optimization of Complex Systems Best Paper Award** and I got   the *Postdoctoral Fellowship Program (Grade B) of the China Postdoctoral Science Foundation*.
+My research interests include automated machine learning, neural architecture search, and evolutionary computation for smart education applications. I have authored/coauthored <b>44 peer-reviewed papers</b>, with <b>29 papers</b> published in prestigious IEEE Trans. (TNNLS, TEVC, TETCI, etc.) and top-tier conferences (NeurIPS, AAAI, IJCAI, KDD, SIGIR, etc.). My Google Scholar citations have reached <b>700+</b> with an <b>H-index of 16</b> <a href='https://scholar.google.com/citations?user=arzbiNUAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FDevilYangS%2Fdevilyangs.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. I have received the National Scholarship for Postgraduate (2019), multiple best paper/poster awards at top conferences, and the Postdoctoral Fellowship Program (Grade B) of the China Postdoctoral Science Foundation.
 
 
 
@@ -35,14 +29,17 @@ I am   the recipient of the **2023 International Conference on Data-driven Optim
 
 <!--with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
-# 📖 Educations and Experiences
+# 📖 Education
+- **Ph.D.**: *Sep. 2017 - Dec. 2022*, Computer Science and Technology, Anhui University
+- **Visiting Ph.D.**: *Mar. 2022 - Sep. 2022*, Bielefeld University, Germany
+- **B.E**:  *Sep. 2013 - Jun. 2017*, Network Engineering, Anhui University
+
+# 💼 Work Experience
 - **Associate Professor**: *Apr. 2026 - Present*, School of Computer Science and Technology, Anhui University
 - **Research Assistant**: *Aug. 2025 - Apr. 2026*, School of Computer Science and Technology, Anhui University
 - **Research Assistant**: *Jun. 2025 - Jul. 2025*, Hong Kong Polytechnic University
 - **Postdoctoral Researcher**: *Mar. 2023 - May 2025*, School of Artificial Intelligence, Anhui University
-- **Visiting Ph.D.**: *Mar. 2022 - Sep. 2022*, Bielefeld University, Germany
 - **Intern-researcher**: *Jul. 2021 - Aug. 2021*, Tencent Technology (Beijing) Co., Ltd
-- **Ph.D.**: *Sep. 2017 - Dec. 2022*, Computer Science and Technology, Anhui University
 - **B.E**:  *Sep. 2013 - Jun. 2017*, Network Engineering, Anhui University
 
 
