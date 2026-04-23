@@ -115,8 +115,9 @@ You can find my [CV](https://devilyangs.github.io/assets/CV-ShangshangYang.pdf).
 
 
 # 🔥 News
-- *2025.09*: &nbsp;🎉🎉 Our work on "Endowing Interpretability for Neural Cognitive Diagnosis by Efficient Kolmogorov-Arnold Networks" has been accepted by [IJCAI 2025](https://ijcai.org/).
-- *2025.02*: &nbsp;🎉🎉 Our work on "Debiased Cognitive Diagnosis: A Contrastive Counterfactual Modeling Method via Variational Autoencoder" has been accepted by [AAAI 2026](https://aaai.org/).
+- *2025.11*: &nbsp;🎉🎉 I received the <b><font color='red'>2025 Postdoctoral Research Performance Assessment (Tier 2)</font></b> of China Postdoctoral Science Foundation under Grant Number YJB20250190.
+- *2025.11*: &nbsp;🎉🎉 Our work on "Debiased Cognitive Diagnosis: A Contrastive Counterfactual Modeling Method via Variational Autoencoder" has been accepted by [AAAI 2026](https://ojs.aaai.org/index.php/AAAI/article/view/39981).
+- *2025.04*: &nbsp;🎉🎉 Our work on "Endowing Interpretability for Neural Cognitive Diagnosis by Efficient Kolmogorov-Arnold Networks" has been accepted by [IJCAI 2025](https://www.ijcai.org/proceedings/2025/878).
 - *2024.09.26*: &nbsp;🎉🎉 Our work **DisenGCD**  proposing a meta-multigraph-assisted graph learning framework for cognitive diagnosis has been accepted by [NeurIPS 2024](https://neurips.cc/).
 - *2024.09.01*: &nbsp;🎉🎉 Our group won the  <b><font color='red'>Golden Award</font></b> of  the 2022 Anhui College Students' 'Internet+' Innovation and Entrepreneurship Competition (GAOJIAO Main Track), supervised by [Ye Tian](https://bimk.ahu.edu.cn/2021/0402/c12971a256388/page.htm), Shangshang Yang, and Xingyi Zhang.
 - *2024.07.07*: &nbsp;🎉🎉  Our work ([EMO-NAS-CD](https://ieeexplore.ieee.org/abstract/document/10599558/)) on using NAS for cognitive diagnosis has been accepted by IEEE TEVC. 
