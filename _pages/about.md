@@ -193,7 +193,6 @@ My research interests include automated machine learning, neural architecture se
 
 
 
-The <b><font color ='blue'>last three work</font></b> was completed  during the <font color ='blue'>first-two years of my PhD period</font>, and more  co-authored work can be found in my [Google Scholar](https://scholar.google.com.hk/citations?user=arzbiNUAAAAJ). 
 
 
 
@@ -218,3 +217,5 @@ The <b><font color ='blue'>last three work</font></b> was completed  during the 
 - ``TETCI 2019`` ["A Surrogate-Assisted Multiobjective Evolutionary Algorithm for Large-Scale Task-Oriented Pattern Mining"](https://ieeexplore.ieee.org/abstract/document/8482477). Ye Tian, **Shangshang Yang**\*, Lei Zhang, Fuchen Duan, Xingyi Zhang\*. *IEEE Transactions on Emerging Topics in Computational Intelligence*, 2019, 3(2): 106-116.
 - ``TFS 2019`` ["An Evolutionary Multiobjective Optimization Based Fuzzy Method for Overlapping Community Detection"](https://ieeexplore.ieee.org/abstract/document/8855008). Ye Tian, **Shangshang Yang**\*, Xingyi Zhang\*. *IEEE Transactions on Fuzzy Systems*, 2019, 28(11): 2841-2855.
 - ``AAAI-24`` ["Enhancing Cognitive Diagnosis using Un-interacted Exercises: A Collaboration-aware Mixed Sampling Approach"](https://ojs.aaai.org/index.php/AAAI/article/view/28735). Haiping Ma, Changqian Wang, Hengshu Zhu, **Shangshang Yang**\*, Xiaoming Zhang, and Xingyi Zhang\*, *in the Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence* (**CCF A**), 2023.
+ 
+The <b><font color ='blue'>last three work</font></b> was completed  during the <font color ='blue'>first-two years of my PhD period</font>, and more  co-authored work can be found in my [Google Scholar](https://scholar.google.com.hk/citations?user=arzbiNUAAAAJ).
