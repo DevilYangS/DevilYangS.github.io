@@ -164,6 +164,22 @@ My research interests include automated machine learning, neural architecture se
 - ``AAAI 2026`` ["PEOAT: Personalization-Guided Evolutionary Question Assembly for One-Shot Adaptive Testing"](https://ojs.aaai.org/index.php/AAAI/article/view/40022). Xiaoshan Yu, Ziwei Huang, **Shangshang Yang**\*, Ziwen Wang, Haiping Ma, and Xingyi Zhang, *AAAI Conference on Artificial Intelligence* (**CCF A**), 2026.
 - ``KDD 2026`` ["Breaking Robustness Barriers in Cognitive Diagnosis: A One-Shot Neural Architecture Search Perspective"](https://arxiv.org/pdf/2601.04918). Z. Wang, **Shangshang Yang**\*, X. Yu, H. Ma, and X. Zhang, *ACM SIGKDD Conference on Knowledge Discovery and Data Mining* (**CCF A**), 2026.
 - ``TETCI 2026`` ["Large Language Model-assisted Evolutionary Neural Architecture Search for Cognitive Diagnosis"](). **Shangshang Yang**, Linrui Qin, Xiaoshan Yu, Ziwen Wang, Ye Tian*, Xueming Yan, Haiping Ma, Xingyi Zhang, *IEEE Transactions on Emerging Topics in Computational Intelligence*, 2026.
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TETCI 2026</div><img src='images/LLM-NAS-CD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+["Large Language Model-assisted Evolutionary Neural Architecture Search for Cognitive Diagnosis"](https://ieeexplore.ieee.org/abstract/document/XXXXXXXXX/)
+
+
+**Shangshang Yang**, Linrui Qin, Xiaoshan Yu, Ziwen Wang, Ye Tian*, Xueming Yan, Haiping Ma, Xingyi Zhang
+
+*IEEE Transactions on Emerging Topics in Computational Intelligence*, 2026
+
+[**Project**](https://github.com/BIMK/Intelligent-Education/tree/main/LLM-NAS-CD) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- The source code of the proposed LLM-NAS-CD approach, integrating large language models with evolutionary neural architecture search for cognitive diagnosis.
+</div>
+</div>
 - ``IJCAI 2025`` ["Endowing Interpretability for Neural Cognitive Diagnosis by Efficient Kolmogorov-Arnold Networks"](https://www.ijcai.org/proceedings/2025/878). **Shangshang Yang**, Linrui Qin, Xiaoshan Yu, Ziwen Wang, Xueming Yan, Haiping Ma, Ye Tian, *in the Proceedings of the 34th International Joint Conference on Artificial Intelligence* (**CCF A**), 2025.
 - ``KDD 2025`` ["Learning Patterns-Guided Data Generation for Knowledge Tracing"](https://dl.acm.org/doi/10.1145/3711896.3737021). H. Ma, Y. Yin, Z. Wang, C. Wang, X. Yu, **Shangshang Yang**\*, and X. Zhang, *ACM SIGKDD Conference on Knowledge Discovery and Data Mining*, 2025: 2031-2041 (**CCF A**).
 - ``SIGIR 2025`` ["Reconciling Efficiency and Effectiveness of Exercise Retrieval: An Uncertainty Reduction Hashing Approach for Computerized Adaptive Testing"](https://dl.acm.org/doi/10.1145/3726302.3730072). H. Ma, Y. Zhou, X. Yu, C. Wang, **Shangshang Yang**\*, L. Zhang, and X. Zhang, *ACM SIGIR Conference on Research and Development in Information Retrieval*, 2025: 1044-1054 (**CCF A**).
