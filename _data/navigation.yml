@@ -7,23 +7,23 @@ main:
     url: "/#work-experience"
 
   - title: "Research Interest"
-    url: "/#-research-interest"
+    url: "/#research-interest"
     
   - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "/#honors-and-awards"
 
  
   - title: "Invited Talks"
-    url: "/#-invited-talks"
+    url: "/#invited-talks"
     
   - title: "Fundings"
-    url: "/#-fundings"
+    url: "/#fundings"
 
   - title: "Reviewers"
-    url: "/#-reviewers"
+    url: "/#reviewers"
     
   - title: "News"
-    url: "/#-news"
+    url: "/#news"
 
   - title: "Representative Publications"
     url: "/#representative-publications"

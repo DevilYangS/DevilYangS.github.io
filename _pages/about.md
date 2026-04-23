@@ -15,8 +15,6 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
-
 I work as an <b>Associate Professor</b> at the [BIMK Research Group](https://bimk.ahu.edu.cn/main.htm) in  [School of Computer Science and Technology](https://cs.ahu.edu.cn/), Anhui University <img src='./images/anhui.png' style='width: 6em;'> in China. 
 
 I graduated from [the School of Computer Science and Technology](https://cs.ahu.edu.cn/), Anhui University with a bachelor's degree and a doctoral degree. I was also a [Visiting Ph.D. student](https://pub.uni-bielefeld.de/person/371292748) at Bielefeld University <img src='./images/bielefeld.png' style='width: 6em;'>, Germany in 2022.
@@ -34,7 +32,6 @@ My research interests include automated machine learning, neural architecture se
 - **Visiting Ph.D.**: *Mar. 2022 - Sep. 2022*, Bielefeld University, Germany
 - **B.E**:  *Sep. 2013 - Jun. 2017*, Network Engineering, Anhui University
 
-<span id="work-experience"></span>
 <span class='anchor' id='work-experience'></span>
 # 💼 Work Experience
 - **Associate Professor**: *Apr. 2026 - Present*, School of Computer Science and Technology, Anhui University
@@ -145,7 +142,6 @@ My research interests include automated machine learning, neural architecture se
 - *2024.07.01*: &nbsp;🎉🎉 I received the support of [Postdoctoral Fellowship Program (Grade B)](https://www.chinapostdoctor.org.cn/article?inid=fc7da3d7-7f1f-4e3d-81c8-65725b884c0e&catname=%E9%80%9A%E7%9F%A5%E5%85%AC%E5%91%8A&catid=8c892b1c-4ade-4a5f-9a87-5e736cb5e9f9) from China China Postdoctoral Science Foundation, only 500 people won Grade A and 1,000 people got the Grade B.  
 
 
-<span id="representative-publications"></span>
 <span class='anchor' id='representative-publications'></span>
 # 📝 Representative Publications 
 
