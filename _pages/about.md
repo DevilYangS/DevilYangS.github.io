@@ -116,6 +116,7 @@ I am   the recipient of the **2023 International Conference on Data-driven Optim
 
 
 # 🔥 News
+- *2026.03*: &nbsp;🎉🎉 Our work "Large Language Model-assisted Evolutionary Neural Architecture Search for Cognitive Diagnosis" has been accepted by [IEEE TETCI]().
 - *2025.11*: &nbsp;🎉🎉 I received the <b><font color='red'>2025 Postdoctoral Research Performance Assessment (Tier 2)</font></b> of China Postdoctoral Science Foundation under Grant Number YJB20250190.
 - *2025.11*: &nbsp;🎉🎉 Our work on "Debiased Cognitive Diagnosis: A Contrastive Counterfactual Modeling Method via Variational Autoencoder" has been accepted by [AAAI 2026](https://ojs.aaai.org/index.php/AAAI/article/view/39981).
 - *2025.04*: &nbsp;🎉🎉 Our work on "Endowing Interpretability for Neural Cognitive Diagnosis by Efficient Kolmogorov-Arnold Networks" has been accepted by [IJCAI 2025](https://www.ijcai.org/proceedings/2025/878).
@@ -150,6 +151,9 @@ I am   the recipient of the **2023 International Conference on Data-driven Optim
 </div>
 
 
+
+- ``TETCI 2026`` ["Large Language Model-assisted Evolutionary Neural Architecture Search for Cognitive Diagnosis"](
+). **Shangshang Yang**, Linrui Qin, Xiaoshan Yu, Ziwen Wang, Ye Tian*, Xueming Yan, Haiping Ma, Xingyi Zhang, *IEEE Transactions on Emerging Topics in Computational Intelligence*, 2026.
 
 - ``TETCI 2024`` ["Hybrid Architecture-based Evolutionary Robust Neural Architecture Search"](https://www.researchgate.net/publication/380402160_Hybrid_Architecture-based_Evolutionary_Robust_Neural_Architecture_Search?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InByb2ZpbGUiLCJwYWdlIjoicHJvZmlsZSIsInByZXZpb3VzUGFnZSI6ImhvbWUiLCJwb3NpdGlvbiI6InBhZ2VDb250ZW50In19). **Shangshang Yang**, Xiangkun Sun, Ke Xu, Yuanchao Liu, Ye Tian\*, and Xingyi Zhang\*, *IEEE Transactions on Emerging Topics in Computational Intelligence*, 2024.
   
