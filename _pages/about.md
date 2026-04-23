@@ -198,6 +198,66 @@ My research interests include automated machine learning, neural architecture se
 
 
 
+
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TEVC 2024</div><img src='images/EMO-NAS-CD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+["An Evolutionary Multi-Objective Neural Architecture Search Approach to Advancing Cognitive Diagnosis in Intelligent Education"](https://ieeexplore.ieee.org/abstract/document/10599558/)
+
+
+**Shangshang Yang**\*, Haiping Ma, Ying Bi, Ye Tian, Limiao Zhang\*, Yaochu Jin, and Xingyi Zhang\*
+
+*IEEE Transactions on Evolutionary Computation*, 2024
+
+[**Project**](https://github.com/DevilYangS/EMO-NAS-CD) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- The source code of the proposed EMO-NAS-CD approach, providing found models and the search approach to search for what you need  models.
+</div>
+</div>
+
+
+
+
+
+
+
+
+). **Shangshang Yang**\*, Linrui Qin, Xiaoshan Yu, Ziwen Wang, Ye Tian*, Xueming Yan, Haiping Ma, Xingyi Zhang, *IEEE Transactions on Emerging Topics in Computational Intelligence*, 2026.
+
+  
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DOCS 2024 Best Paper</div><img src='images/docs2023.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+["Evolutionary Multi-Objective Neural Architecture Search for Generalized Cognitive Diagnosis Models"](https://ieeexplore.ieee.org/abstract/document/10294588/)
+
+
+**Shangshang Yang**\*, Cheng Zhen, Ye Tian, Haiping Ma\*, Yuanchao Liu, Panpan Zhang, and Xingyi Zhang\*
+
+*2023 International Conference on Data-driven Optimization of Complex Systems*
+
+<b><font color='red'>Best Paper</font></b>
+
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
 - ``AAAI 2026`` ["Debiased Cognitive Diagnosis: A Contrastive Counterfactual Modeling Method via Variational Autoencoder"](https://ojs.aaai.org/index.php/AAAI/article/view/39981). **Shangshang Yang**\*, Xuewen Duan, Xiaoshan Yu, Ziwen Wang, Haiping Ma, Xingyi Zhang, *in the Proceedings of the Fortieth AAAI Conference on Artificial Intelligence* (**CCF A**), 2026.
 - ``AAAI 2026`` ["Beyond Item Selection: Rethinking Ability Evolution in Computerized Adaptive Testing"](). X. Yu, J. Li, **Shangshang Yang**\*, Z. Wang, H. Ma, and X. Zhang, *AAAI Conference on Artificial Intelligence* (**CCF A**), 2026.
 - ``KDD 2026`` ["Breaking Robustness Barriers in Cognitive Diagnosis: A One-Shot Neural Architecture Search Perspective"](). Z. Wang, **Shangshang Yang**\*, X. Yu, H. Ma, and X. Zhang, *ACM SIGKDD Conference on Knowledge Discovery and Data Mining* (**CCF A**), 2026.
@@ -206,6 +266,7 @@ My research interests include automated machine learning, neural architecture se
 - ``KDD 2025`` ["Learning Patterns-Guided Data Generation for Knowledge Tracing"](https://dl.acm.org/doi/10.1145/3711896.3737021). H. Ma, Y. Yin, Z. Wang, C. Wang, X. Yu, **Shangshang Yang**\*, and X. Zhang, *ACM SIGKDD Conference on Knowledge Discovery and Data Mining*, 2025: 2031-2041 (**CCF A**).
 - ``SIGIR 2025`` ["Reconciling Efficiency and Effectiveness of Exercise Retrieval: An Uncertainty Reduction Hashing Approach for Computerized Adaptive Testing"](https://dl.acm.org/doi/10.1145/3726302.3730072). H. Ma, Y. Zhou, X. Yu, C. Wang, **Shangshang Yang**\*, L. Zhang, and X. Zhang, *ACM SIGIR Conference on Research and Development in Information Retrieval*, 2025: 1044-1054 (**CCF A**).
 - ``SIGIR 2025`` ["Enhancing Learning Path Recommendation via Knowledge Topology-Aware Sequence Optimization"](https://dl.acm.org/doi/10.1145/3726302.3730022). X. Yu, **Shangshang Yang**\*, Z. Wang, S. Song, H. Ma, Z. Cao, and X. Zhang, *ACM SIGIR Conference on Research and Development in Information Retrieval*, 2025: 306-315 (**CCF A**).
+- ``AAAI 2024`` ["Enhancing Cognitive Diagnosis using Un-interacted Exercises: A Collaboration-aware Mixed Sampling Approach"](https://ojs.aaai.org/index.php/AAAI/article/view/28735). Haiping Ma, Changqian Wang, Hengshu Zhu, **Shangshang Yang**\*, Xiaoming Zhang, and Xingyi Zhang\*, *in the Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence* (**CCF A**), 2024.
 - ``NeurIPS 2024`` ["DisenGCD: A Meta Multigraph-assisted Disentangled Graph Learning Framework for Cognitive Diagnosis"](https://arxiv.org/abs/2410.17564). **Shangshang Yang**\*, Mingyang Chen, Ziwen Wang, Xiaoshan Yu, Panpan Zhang, Haiping Ma\*, and Xingyi Zhang,  *in the Proceedings of the Thirty-eighth Conference on Neural Information Processing Systems* (**CCF A**), 2024.
 - ``TETCI 2024`` ["Hybrid Architecture-based Evolutionary Robust Neural Architecture Search"](https://www.researchgate.net/publication/380402160_Hybrid_Architecture-based_Evolutionary_Robust_Neural_Architecture_Search?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InByb2ZpbGUiLCJwYWdlIjoicHJvZmlsZSIsInByZXZpb3VzUGFnZSI6ImhvbWUiLCJwb3NpdGlvbiI6InBhZ2VDb250ZW50In19). **Shangshang Yang**\*, Xiangkun Sun, Ke Xu, Yuanchao Liu, Ye Tian\*, and Xingyi Zhang\*, *IEEE Transactions on Emerging Topics in Computational Intelligence*, 2024.
 - ``ICCV 2023`` ["EQ-Net: Elastic Quantization Neural Networks"](https://arxiv.org/pdf/2308.07650.pdf). Ke Xu, Lei Han, Ye Tian, **Shangshang Yang**\*, and Xingyi Zhang, *in the Proceedings of the 2023 International Conference on Computer Vision* (**CCF A**), 2023.
@@ -216,6 +277,6 @@ My research interests include automated machine learning, neural architecture se
 - ``EAAI 2019`` ["An indexed set representation based multi-objective evolutionary approach for mining diversified top-k high utility patterns"](https://ieeexplore.ieee.org/abstract/document/8482477). Lei Zhang, **Shangshang Yang**\*, Xinpeng Wu, Fan Cheng\*, Ying Xie, Zhiting Lin. *Engineering Applications of Artificial Intelligence*, 2019, 77: 9-20.
 - ``TETCI 2019`` ["A Surrogate-Assisted Multiobjective Evolutionary Algorithm for Large-Scale Task-Oriented Pattern Mining"](https://ieeexplore.ieee.org/abstract/document/8482477). Ye Tian, **Shangshang Yang**\*, Lei Zhang, Fuchen Duan, Xingyi Zhang\*. *IEEE Transactions on Emerging Topics in Computational Intelligence*, 2019, 3(2): 106-116.
 - ``TFS 2019`` ["An Evolutionary Multiobjective Optimization Based Fuzzy Method for Overlapping Community Detection"](https://ieeexplore.ieee.org/abstract/document/8855008). Ye Tian, **Shangshang Yang**\*, Xingyi Zhang\*. *IEEE Transactions on Fuzzy Systems*, 2019, 28(11): 2841-2855.
-- ``AAAI-24`` ["Enhancing Cognitive Diagnosis using Un-interacted Exercises: A Collaboration-aware Mixed Sampling Approach"](https://ojs.aaai.org/index.php/AAAI/article/view/28735). Haiping Ma, Changqian Wang, Hengshu Zhu, **Shangshang Yang**\*, Xiaoming Zhang, and Xingyi Zhang\*, *in the Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence* (**CCF A**), 2023.
+
  
 The <b><font color ='blue'>last three work</font></b> was completed  during the <font color ='blue'>first-two years of my PhD period</font>, and more  co-authored work can be found in my [Google Scholar](https://scholar.google.com.hk/citations?user=arzbiNUAAAAJ).
