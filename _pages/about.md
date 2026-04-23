@@ -29,7 +29,7 @@ architecture search, and intelligent education. I have published over 30 papers 
 
 I am   the recipient of the **2023 International Conference on Data-driven Optimization of Complex Systems Best Paper Award** and I got   the *Postdoctoral Fellowship Program (Grade B) of the China Postdoctoral Science Foundation*.
 
-You can find my [CV](https://devilyangs.github.io/assets/CV-ShangshangYang.pdf).
+
 
 
 
@@ -37,6 +37,7 @@ You can find my [CV](https://devilyangs.github.io/assets/CV-ShangshangYang.pdf).
 
 # 📖 Educations and Experiences
 - **Associate Professor**: *Apr. 2026 - Present*, School of Computer Science and Technology, Anhui University
+- **Postdoctoral Researcher**: *Mar. 2023 - May 2025*, School of Artificial Intelligence, Anhui University
 - **Research Assistant**: *Mar. 2025 - Mar. 2026*, School of Computer Science and Technology, Anhui University
 - **Ph.D.**: *Sep. 2017 - Dec. 2022*, Computer Science and Technology, Anhui University
 - **Visiting Ph.D.**: *Mar. 2022 - Oct. 2022*, Bielefeld University, Germany
