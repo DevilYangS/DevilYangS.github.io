@@ -34,7 +34,7 @@ My research interests include automated machine learning, neural architecture se
 - **Visiting Ph.D.**: *Mar. 2022 - Sep. 2022*, Bielefeld University, Germany
 - **B.E**:  *Sep. 2013 - Jun. 2017*, Network Engineering, Anhui University
 
-# 💼 Work Experience
+# 💼 Work Experience {: #work-experience}
 - **Associate Professor**: *Apr. 2026 - Present*, School of Computer Science and Technology, Anhui University
 - **Research Assistant**: *Aug. 2025 - Apr. 2026*, School of Computer Science and Technology, Anhui University
 - **Research Assistant**: *Jun. 2025 - Jul. 2025*, Hong Kong Polytechnic University
@@ -137,7 +137,7 @@ My research interests include automated machine learning, neural architecture se
 - *2024.07.01*: &nbsp;🎉🎉 I received the support of [Postdoctoral Fellowship Program (Grade B)](https://www.chinapostdoctor.org.cn/article?inid=fc7da3d7-7f1f-4e3d-81c8-65725b884c0e&catname=%E9%80%9A%E7%9F%A5%E5%85%AC%E5%91%8A&catid=8c892b1c-4ade-4a5f-9a87-5e736cb5e9f9) from China China Postdoctoral Science Foundation, only 500 people won Grade A and 1,000 people got the Grade B.  
 
 
-# 📝 Representative Publications 
+# 📝 Representative Publications {: #representative-publications} 
 
 
 
