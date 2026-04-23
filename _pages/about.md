@@ -37,7 +37,7 @@ I am   the recipient of the **2023 International Conference on Data-driven Optim
 
 # 📖 Educations and Experiences
 - **Associate Professor**: *Apr. 2026 - Present*, School of Computer Science and Technology, Anhui University
-- **Research Assistant**: *Mar. 2025 - Mar. 2026*, School of Computer Science and Technology, Anhui University
+- **Research Assistant**: *Aug. 2025 - Apr. 2026*, School of Computer Science and Technology, Anhui University
 - **Research Assistant**: *Jun. 2025 - Jul. 2025*, Hong Kong Polytechnic University
 - **Postdoctoral Researcher**: *Mar. 2023 - May 2025*, School of Artificial Intelligence, Anhui University
 - **Visiting Ph.D.**: *Mar. 2022 - Sep. 2022*, Bielefeld University, Germany
@@ -85,7 +85,16 @@ I am   the recipient of the **2023 International Conference on Data-driven Optim
 3. <em><strong><span style="color: blue; text-decoration: underline;">Evolutionary Multiobjective Optimization for 1️⃣ & 2️⃣</span></strong></em> 
 
 # 🎖 Honors and Awards
-- *2025.11* The <b><font color='red'>2025 Postdoctoral Research Performance Assessment (Tier 2)</font></b> of China Postdoctoral Science Foundation under Grant Number YJB20250190, 60K.
+- *2025.06* The <b><font color='red'>First Prize</font></b> of the <em>IEEE CEC (C04) EMAP Dataset Challenge: Predicting Affective States & Physiological Response with Feature Selection Competition</em>, IEEE Congress on Evolutionary Computation.
+- *2025.06* The <b><font color='red'>First Prize</font></b> of the <em>IEEE CEC (C07) Large-Scale Multi-objective Optimisation for Status Assessment of Measuring Equipment Competition</em>, IEEE Congress on Evolutionary Computation.
+- *2025.06* The <b><font color='red'>Second Runner-Up</font></b> of the <em>IEEE CEC (C10) Dynamic Optimisation Problems Competition</em>, IEEE Congress on Evolutionary Computation.
+- *2025.06* The <b><font color='red'>First Prize</font></b> of the <em>IEEE CEC (C06) Constrained Single and Multi-objective Numerical Optimisation Competition</em>, IEEE Congress on Evolutionary Computation.
+- *2024.10* The <b><font color='red'>Bronze Award</font></b> of the <em>2024 China International College Students' 'Internet+' Innovation and Entrepreneurship Competition</em>.
+- *2024.05* The <b><font color='red'>Third Prize</font></b> of the <em>2024 China College Student Service Outsourcing Innovation and Entrepreneurship Competition</em>.
+- *2024.05* The <b><font color='red'>Excellent Postgraduate Tutor Team</font></b> of <em>Anhui Province</em>: Institute of Bioinspired Intelligence and Mining Knowledge Postgraduate Tutor Team.
+- *2019* The <b><font color='red'>National Scholarship</font></b> for Postgraduate, Awarded by the Ministry of Education, China.
+- *2014* The <b><font color='red'>National Encouragement Scholarship</font></b>, Awarded by Anhui Provincial Education Department.
+- *2025.11* The <b><font color='red'>2025 Postdoctoral Research Performance Assessment (Tier 2, Top 5%)</font></b> of China Postdoctoral Science Foundation under Grant Number YJB20250190, 60K.
 - *2024.9* The  <b><font color='red'>Golden Award</font></b> of  the **2024 Anhui College Students' 'Internet+' Innovation and Entrepreneurship Competition (GAOJIAO Main Track)**.
 - *2024.07*  The <b><font color='red'>Winner</font></b> of the  Competition on "*Large-scale Multiobjective Optimization for Status Assessment of Measuring Equipment*" at the <em><strong><span style="text-decoration: underline;">2024 IEEE World Conference on Computational Intelligence</span></strong></em>.
 - *2023.9* The <b><font color='red'>Best Paper</font></b> of the **2023 International Conference on Data-driven Optimization of Complex Systems (DOCS 2023)**: the paper  entitled "<font color='blue'>Evolutionary Multi-Objective Neural Architecture Search for Generalized Cognitive Diagnosis Models</font>".
@@ -95,6 +104,14 @@ I am   the recipient of the **2023 International Conference on Data-driven Optim
 
 
 
+
+
+# 📜 Patents
+- S. Yang, L. Qin, X. Yu, H. Ma, and Y. Tian. "A Knowledge Tracing Method Based on Transformer Neural Architecture Search," No. CN202410388534X.
+- S. Yang, M. Chen, X. Yu, H. Ma, and Y. Tian. "A Neural Architecture Search Method Based on Multi-Objectives," No. CN2024104100144.
+- Y. Tian, Z. Shi, S. Yang, and X. Zhang. "An Image Recognition Method Based on A Gradient-Guided Evolutionary Algorithm," No. ZL202111639517.1.
+- X. Zhang, J. Li, S. Yang, X. Yu, and H. Ma. "A Cognitive Diagnosis Method for Heterogeneous Graph Learning Based on Imbalance Perception," No. CN120144950A.
+- M. Cao, H. Ma, S. Yang, and X. Zhang. "Distance-Aware Knowledge Tracing," No. CN117933301A.
 # 🎙 Invited Talks
 - *2023.09*,  **NICE Seminar**: <font color='blue'>Designing Novel Cognitive Diagnosis Models by  Evolutionary Multi-Objective Neural Architecture Search</font> | [Arxiv Paper](https://arxiv.org/pdf/2307.04429) | [Accepted Paper](https://ieeexplore.ieee.org/abstract/document/10599558/) | [Video](https://www.bilibili.com/video/BV1934y1P7vd/?spm_id_from=333.337.search-card.all.click&vd_source=2bffff05a7f25998ecbff130722206b6)
 
@@ -112,7 +129,8 @@ I am   the recipient of the **2023 International Conference on Data-driven Optim
 - Anhui Province Key Laboratory of Intelligent Computing and Applications (No. AFZNJS2024KF01)，2024-2025, 50K；
 
 # 🧑‍🎨 Reviewers
-- The reviewer of IEEE INNLS, IEEE TAI, IEEE TEVC, IEEE TETCI, NeurIPS, SIGKDD, ICLR, and ACM MM.
+- <b>Journals:</b> IEEE TPAMI, IJCV, TNNLS, JAS, TEVC, TETCI, TCSS, TOIS, TAI, TSNE
+- <b>Conferences:</b> IJCAI, SIGIR, SIGKDD, ICML, ICLR, NeurIPS, ACM MM, AAAI, WWW
 
 
 
