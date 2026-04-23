@@ -20,4 +20,24 @@
 </script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
 
+<!-- Dynamic Google Scholar stats loader -->
+<script>
+(function() {
+  var repo = "DevilYangS/DevilYangS.github.io";
+  var branch = "google-scholar-stats";
+  var statsUrl = "https://raw.githubusercontent.com/" + repo + "/" + branch + "/gs_stats.json";
+  fetch(statsUrl)
+    .then(function(r) { return r.json(); })
+    .then(function(data) {
+      var el = document.getElementById("gs-citedby");
+      if (el && data.citedby) el.textContent = data.citedby;
+      var el2 = document.getElementById("gs-hindex");
+      if (el2 && data.hindex) el2.textContent = data.hindex;
+      var el3 = document.getElementById("gs-i10");
+      if (el3 && data.i10index) el3.textContent = data.i10index;
+    })
+    .catch(function(e) { /* silently fail, keep fallback values */ });
+})();
+</script>
+
 <!-- end custom head snippets -->
