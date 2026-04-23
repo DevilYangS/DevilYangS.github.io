@@ -37,11 +37,12 @@ I am   the recipient of the **2023 International Conference on Data-driven Optim
 
 # 📖 Educations and Experiences
 - **Associate Professor**: *Apr. 2026 - Present*, School of Computer Science and Technology, Anhui University
-- **Postdoctoral Researcher**: *Mar. 2023 - May 2025*, School of Artificial Intelligence, Anhui University
 - **Research Assistant**: *Mar. 2025 - Mar. 2026*, School of Computer Science and Technology, Anhui University
+- **Research Assistant**: *Jun. 2025 - Jul. 2025*, Hong Kong Polytechnic University
+- **Postdoctoral Researcher**: *Mar. 2023 - May 2025*, School of Artificial Intelligence, Anhui University
+- **Visiting Ph.D.**: *Mar. 2022 - Sep. 2022*, Bielefeld University, Germany
+- **Intern-researcher**: *Jul. 2021 - Aug. 2021*, Tencent Technology (Beijing) Co., Ltd
 - **Ph.D.**: *Sep. 2017 - Dec. 2022*, Computer Science and Technology, Anhui University
-- **Visiting Ph.D.**: *Mar. 2022 - Oct. 2022*, Bielefeld University, Germany
-- **Intern-researcher**: *Jul. 2021 - Oct. 2021*, Tencent Technology (Beijing) Co., Ltd
 - **B.E**:  *Sep. 2013 - Jun. 2017*, Network Engineering, Anhui University
 
 
