@@ -25,6 +25,6 @@ main:
   - title: "News"
     url: "/#news"
 
-  - title: "Representative Publications"
-    url: "/#representative-publications"
+  - title: "Publications"
+    url: "/#publications"
 

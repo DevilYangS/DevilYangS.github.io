@@ -142,8 +142,8 @@ My research interests include automated machine learning, neural architecture se
 - *2024.07.01*: &nbsp;🎉🎉 I received the support of [Postdoctoral Fellowship Program (Grade B)](https://www.chinapostdoctor.org.cn/article?inid=fc7da3d7-7f1f-4e3d-81c8-65725b884c0e&catname=%E9%80%9A%E7%9F%A5%E5%85%AC%E5%91%8A&catid=8c892b1c-4ade-4a5f-9a87-5e736cb5e9f9) from China China Postdoctoral Science Foundation, only 500 people won Grade A and 1,000 people got the Grade B.  
 
 
-<span class='anchor' id='representative-publications'></span>
-# 📝 Representative Publications 
+<span class='anchor' id='publications'></span>
+# 📝 Publications 
 
 
 
