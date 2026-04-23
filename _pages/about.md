@@ -86,21 +86,18 @@ My research interests include automated machine learning, neural architecture se
 - *2025.06* The <b><font color='red'>First Prize</font></b> of the <em>IEEE CEC (C07) Large-Scale Multi-objective Optimisation for Status Assessment of Measuring Equipment Competition</em>, IEEE Congress on Evolutionary Computation.
 - *2025.06* The <b><font color='red'>Second Runner-Up</font></b> of the <em>IEEE CEC (C10) Dynamic Optimisation Problems Competition</em>, IEEE Congress on Evolutionary Computation.
 - *2025.06* The <b><font color='red'>First Prize</font></b> of the <em>IEEE CEC (C06) Constrained Single and Multi-objective Numerical Optimisation Competition</em>, IEEE Congress on Evolutionary Computation.
+- *2025.11* The <b><font color='red'>2025 Postdoctoral Research Performance Assessment (Tier 2, Top 5%)</font></b> of China Postdoctoral Science Foundation under Grant Number YJB20250190, 60K.
 - *2024.10* The <b><font color='red'>Bronze Award</font></b> of the <em>2024 China International College Students' 'Internet+' Innovation and Entrepreneurship Competition</em>.
 - *2024.05* The <b><font color='red'>Third Prize</font></b> of the <em>2024 China College Student Service Outsourcing Innovation and Entrepreneurship Competition</em>.
 - *2024.05* The <b><font color='red'>Excellent Postgraduate Tutor Team</font></b> of <em>Anhui Province</em>: Institute of Bioinspired Intelligence and Mining Knowledge Postgraduate Tutor Team.
-- *2019* The <b><font color='red'>National Scholarship</font></b> for Postgraduate, Awarded by the Ministry of Education, China.
-- *2014* The <b><font color='red'>National Encouragement Scholarship</font></b>, Awarded by Anhui Provincial Education Department.
-- *2025.11* The <b><font color='red'>2025 Postdoctoral Research Performance Assessment (Tier 2, Top 5%)</font></b> of China Postdoctoral Science Foundation under Grant Number YJB20250190, 60K.
 - *2024.9* The  <b><font color='red'>Golden Award</font></b> of  the **2024 Anhui College Students' 'Internet+' Innovation and Entrepreneurship Competition (GAOJIAO Main Track)**.
 - *2024.07*  The <b><font color='red'>Winner</font></b> of the  Competition on "*Large-scale Multiobjective Optimization for Status Assessment of Measuring Equipment*" at the <em><strong><span style="text-decoration: underline;">2024 IEEE World Conference on Computational Intelligence</span></strong></em>.
 - *2023.9* The <b><font color='red'>Best Paper</font></b> of the **2023 International Conference on Data-driven Optimization of Complex Systems (DOCS 2023)**: the paper  entitled "<font color='blue'>Evolutionary Multi-Objective Neural Architecture Search for Generalized Cognitive Diagnosis Models</font>".
 - *2023.6* The <b><font color='red'>Winner</font></b>  of the Competition on "*Large-scale Continuous Optimization for Non-contact Measurement - MO Optimization*" at the <em><strong><span style="text-decoration: underline;">2023 IEEE Congress on Evolutionary Computation</span></strong></em>.
 - *2022.12* The  <b><font color='red'>Best Poster Paper</font></b> of the **2022 Annual Conference of Anhui Artificial Intelligence Society**: the paper  entitled "<font color='blue'>Accelerating Evolutionary Neural Architecture Search via Multifidelity Evaluation</font>".
 - *2022.06* The  <b><font color='red'>Silver Award</font></b> of  the **2022 Anhui College Students' 'Internet+' Innovation and Entrepreneurship Competition (GAOJIAO Main Track)**.
-
-
-
+- *2019* The <b><font color='red'>National Scholarship</font></b> for Postgraduate, Awarded by the Ministry of Education, China.
+- *2014* The <b><font color='red'>National Encouragement Scholarship</font></b>, Awarded by Anhui Provincial Education Department.
 
 
 # 📜 Patents
