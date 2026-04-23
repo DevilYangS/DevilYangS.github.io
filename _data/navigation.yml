@@ -4,27 +4,27 @@ main:
     url: "/#about-me"
 
   - title: "Educations and Experiences"
-    url: "/#work-experience"
+    url: "/#-educations-and-experiences"
 
   - title: "Research Interest"
-    url: "/#research-interest"
+    url: "/#-research-interest"
     
   - title: "Honors and Awards"
-    url: "/#honors-and-awards"
+    url: "/#-honors-and-awards"
 
  
   - title: "Invited Talks"
-    url: "/#invited-talks"
+    url: "/#-invited-talks"
     
   - title: "Fundings"
-    url: "/#fundings"
+    url: "/#-fundings"
 
   - title: "Reviewers"
-    url: "/#reviewers"
+    url: "/#-reviewers"
     
   - title: "News"
-    url: "/#news"
+    url: "/#-news"
 
   - title: "Publications"
-    url: "/#publications"
+    url: "/#-publications"
 
