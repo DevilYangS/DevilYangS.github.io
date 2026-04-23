@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I work  at the [BIMK Research Group](https://bimk.ahu.edu.cn/main.htm) in  Anhui University <img src='./images/anhui.png' style='width: 6em;'> as a postdoctoral  now in China. 
+I work as an <b>Associate Professor</b> at the [BIMK Research Group](https://bimk.ahu.edu.cn/main.htm) in  [School of Computer Science and Technology](https://cs.ahu.edu.cn/), Anhui University <img src='./images/anhui.png' style='width: 6em;'> in China. 
 
 
 I graduated from [the School of Computer Science and Technology](https://cs.ahu.edu.cn/), Anhui University  with a bachelor's degree and with a  doctor's degree. I was also  a [Visiting Ph.D. student](https://pub.uni-bielefeld.de/person/371292748) at Bielefeld University  <img src='./images/bielefeld.png' style='width: 6em;'>, Germany in 2022.
@@ -36,6 +36,8 @@ You can find my [CV](https://devilyangs.github.io/assets/CV-ShangshangYang.pdf).
 <!--with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 📖 Educations and Experiences
+- **Associate Professor**: *Apr. 2026 - Present*, School of Computer Science and Technology, Anhui University
+- **Research Assistant**: *Mar. 2025 - Mar. 2026*, School of Computer Science and Technology, Anhui University
 - **Ph.D.**: *Sep. 2017 - Dec. 2022*, Computer Science and Technology, Anhui University
 - **Visiting Ph.D.**: *Mar. 2022 - Oct. 2022*, Bielefeld University, Germany
 - **Intern-researcher**: *Jul. 2021 - Oct. 2021*, Tencent Technology (Beijing) Co., Ltd
@@ -81,6 +83,7 @@ You can find my [CV](https://devilyangs.github.io/assets/CV-ShangshangYang.pdf).
 3. <em><strong><span style="color: blue; text-decoration: underline;">Evolutionary Multiobjective Optimization for 1️⃣ & 2️⃣</span></strong></em> 
 
 # 🎖 Honors and Awards
+- *2025.11* The <b><font color='red'>2025 Postdoctoral Research Performance Assessment (Tier 2)</font></b> of China Postdoctoral Science Foundation under Grant Number YJB20250190, 60K.
 - *2024.9* The  <b><font color='red'>Golden Award</font></b> of  the **2024 Anhui College Students' 'Internet+' Innovation and Entrepreneurship Competition (GAOJIAO Main Track)**.
 - *2024.07*  The <b><font color='red'>Winner</font></b> of the  Competition on "*Large-scale Multiobjective Optimization for Status Assessment of Measuring Equipment*" at the <em><strong><span style="text-decoration: underline;">2024 IEEE World Conference on Computational Intelligence</span></strong></em>.
 - *2023.9* The <b><font color='red'>Best Paper</font></b> of the **2023 International Conference on Data-driven Optimization of Complex Systems (DOCS 2023)**: the paper  entitled "<font color='blue'>Evolutionary Multi-Objective Neural Architecture Search for Generalized Cognitive Diagnosis Models</font>".
@@ -96,6 +99,8 @@ You can find my [CV](https://devilyangs.github.io/assets/CV-ShangshangYang.pdf).
 
 
 # 💬 Fundings 
+- China Postdoctoral Science Foundation (2025 Postdoctoral Research Performance Assessment, Tier 2, No. YJB20250190), 2025-2026, 60K.
+
 - The Postdoctoral Fellowship Program (Grade B) of China Postdoctoral Science Foundation under Grant Number GZB20240002  (<em><font color='blue'>A two-year support started in 2024, only 1000 people won, and about 500 people won Grade A</font></em>)， 360K ；
 
 - The China Postdoctoral Science Foundation (74th Batch of General Funding)，2023-2025 (<font color='blue'>at a funding rate of about 17% </font>) 80K；
@@ -110,6 +115,8 @@ You can find my [CV](https://devilyangs.github.io/assets/CV-ShangshangYang.pdf).
 
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉 Our work on "Endowing Interpretability for Neural Cognitive Diagnosis by Efficient Kolmogorov-Arnold Networks" has been accepted by [IJCAI 2025](https://ijcai.org/).
+- *2025.02*: &nbsp;🎉🎉 Our work on "Debiased Cognitive Diagnosis: A Contrastive Counterfactual Modeling Method via Variational Autoencoder" has been accepted by [AAAI 2026](https://aaai.org/).
 - *2024.09.26*: &nbsp;🎉🎉 Our work **DisenGCD**  proposing a meta-multigraph-assisted graph learning framework for cognitive diagnosis has been accepted by [NeurIPS 2024](https://neurips.cc/).
 - *2024.09.01*: &nbsp;🎉🎉 Our group won the  <b><font color='red'>Golden Award</font></b> of  the 2022 Anhui College Students' 'Internet+' Innovation and Entrepreneurship Competition (GAOJIAO Main Track), supervised by [Ye Tian](https://bimk.ahu.edu.cn/2021/0402/c12971a256388/page.htm), Shangshang Yang, and Xingyi Zhang.
 - *2024.07.07*: &nbsp;🎉🎉  Our work ([EMO-NAS-CD](https://ieeexplore.ieee.org/abstract/document/10599558/)) on using NAS for cognitive diagnosis has been accepted by IEEE TEVC. 
@@ -117,6 +124,12 @@ You can find my [CV](https://devilyangs.github.io/assets/CV-ShangshangYang.pdf).
 
 
 # 📝 Publications 
+
+- ``AAAI 2026`` ["Debiased Cognitive Diagnosis: A Contrastive Counterfactual Modeling Method via Variational Autoencoder"](
+). **Shangshang Yang**, Xuewen Duan, Xiaoshan Yu, Ziwen Wang, Haiping Ma, Xingyi Zhang, *in the Proceedings of the Fortieth AAAI Conference on Artificial Intelligence* (**CCF A**), 2026.
+
+- ``IJCAI 2025`` ["Endowing Interpretability for Neural Cognitive Diagnosis by Efficient Kolmogorov-Arnold Networks"](
+). **Shangshang Yang**, Linrui Qin, Xiaoshan Yu, Ziwen Wang, Xueming Yan, Haiping Ma, Ye Tian, *in the Proceedings of the 34th International Joint Conference on Artificial Intelligence* (**CCF A**), 2025.
 
 - ``NeurIPS 2024`` ["DisenGCD: A Meta Multigraph-assisted Disentangled Graph Learning Framework for Cognitive Diagnosis"](https://arxiv.org/abs/2410.17564). **Shangshang Yang**, Mingyang Chen, Ziwen Wang, Xiaoshan Yu, Panpan Zhang, Haiping Ma\*, and Xingyi Zhang,  *in the Proceedings of the Thirty-eighth Conference on Neural Information Processing Systems* (**CCF A**), 2024.
 
