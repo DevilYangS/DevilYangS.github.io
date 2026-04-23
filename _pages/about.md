@@ -141,29 +141,6 @@ My research interests include automated machine learning, neural architecture se
 
 
 
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TEVC 2024</div><img src='images/EMO-NAS-CD.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-["An Evolutionary Multi-Objective Neural Architecture Search Approach to Advancing Cognitive Diagnosis in Intelligent Education"](https://ieeexplore.ieee.org/abstract/document/10599558/)
-
-
-**Shangshang Yang**, Haiping Ma, Ying Bi, Ye Tian, Limiao Zhang\*, Yaochu Jin, and Xingyi Zhang\*
-
-*IEEE Transactions on Evolutionary Computation*, 2024
-
-[**Project**](https://github.com/DevilYangS/EMO-NAS-CD) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- The source code of the proposed EMO-NAS-CD approach, providing found models and the search approach to search for what you need  models.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DOCS 2024 Best Paper</div><img src='images/docs2023.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-["Evolutionary Multi-Objective Neural Architecture Search for Generalized Cognitive Diagnosis Models"](https://ieeexplore.ieee.org/abstract/document/10294588/)
-
-
 **Shangshang Yang**, Cheng Zhen, Ye Tian, Haiping Ma\*, Yuanchao Liu, Panpan Zhang, and Xingyi Zhang\*
 
 *2023 International Conference on Data-driven Optimization of Complex Systems*
@@ -172,7 +149,6 @@ My research interests include automated machine learning, neural architecture se
 
 </div>
 </div>
-
 
 
 
@@ -196,7 +172,51 @@ My research interests include automated machine learning, neural architecture se
 - ``NeurIPS 2024`` ["DisenGCD: A Meta Multigraph-assisted Disentangled Graph Learning Framework for Cognitive Diagnosis"](https://arxiv.org/abs/2410.17564). **Shangshang Yang**, Mingyang Chen, Ziwen Wang, Xiaoshan Yu, Panpan Zhang, Haiping Ma\*, and Xingyi Zhang,  *in the Proceedings of the Thirty-eighth Conference on Neural Information Processing Systems* (**CCF A**), 2024.
 - ``TETCI 2024`` ["Hybrid Architecture-based Evolutionary Robust Neural Architecture Search"](https://www.researchgate.net/publication/380402160_Hybrid_Architecture-based_Evolutionary_Robust_Neural_Architecture_Search?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InByb2ZpbGUiLCJwYWdlIjoicHJvZmlsZSIsInByZXZpb3VzUGFnZSI6ImhvbWUiLCJwb3NpdGlvbiI6InBhZ2VDb250ZW50In19). **Shangshang Yang**, Xiangkun Sun, Ke Xu, Yuanchao Liu, Ye Tian\*, and Xingyi Zhang\*, *IEEE Transactions on Emerging Topics in Computational Intelligence*, 2024.
 - ``TEVC 2024`` ["An Evolutionary Multi-Objective Neural Architecture Search Approach to Advancing Cognitive Diagnosis in Intelligent Education"](https://ieeexplore.ieee.org/abstract/document/10599558/). **Shangshang Yang**, Haiping Ma, Ying Bi, Ye Tian, Limiao Zhang\*, Yaochu Jin, and Xingyi Zhang\*, *IEEE Transactions on Evolutionary Computation*, 2024.
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TEVC 2024</div><img src='images/EMO-NAS-CD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+["An Evolutionary Multi-Objective Neural Architecture Search Approach to Advancing Cognitive Diagnosis in Intelligent Education"](https://ieeexplore.ieee.org/abstract/document/10599558/)
+
+
+**Shangshang Yang**, Haiping Ma, Ying Bi, Ye Tian, Limiao Zhang\*, Yaochu Jin, and Xingyi Zhang\*
+
+*IEEE Transactions on Evolutionary Computation*, 2024
+
+[**Project**](https://github.com/DevilYangS/EMO-NAS-CD) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- The source code of the proposed EMO-NAS-CD approach, providing found models and the search approach to search for what you need  models.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DOCS 2024 Best Paper</div><img src='images/docs2023.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+["Evolutionary Multi-Objective Neural Architecture Search for Generalized Cognitive Diagnosis Models"](https://ieeexplore.ieee.org/abstract/document/10294588/)
+
 - ``DOCS 2023`` ["Evolutionary Multi-Objective Neural Architecture Search for Generalized Cognitive Diagnosis Models"](https://ieeexplore.ieee.org/abstract/document/10294588/). **Shangshang Yang**, Cheng Zhen, Ye Tian, Haiping Ma\*, Yuanchao Liu, Panpan Zhang, and Xingyi Zhang\*, *2023 International Conference on Data-driven Optimization of Complex Systems*.
+
+
+**Shangshang Yang**, Cheng Zhen, Ye Tian, Haiping Ma\*, Yuanchao Liu, Panpan Zhang, and Xingyi Zhang\*
+
+*2023 International Conference on Data-driven Optimization of Complex Systems*
+
+<b><font color='red'>Best Paper</font></b>
+
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
 - ``ICCV 2023`` ["EQ-Net: Elastic Quantization Neural Networks"](https://arxiv.org/pdf/2308.07650.pdf). Ke Xu, Lei Han, Ye Tian, **Shangshang Yang**\*, and Xingyi Zhang, *in the Proceedings of the 2023 International Conference on Computer Vision* (**CCF A**), 2023.
 - ``NeurIPS 2023`` ["Evolutionary Neural Architecture Search for Transformer in Knowledge Tracing"](https://proceedings.neurips.cc/paper_files/paper/2023/hash/3e53d82a1113e3d240059a9195668edc-Abstract-Conference.html). **Shangshang Yang**, Xiaoshan Yu, Ye Tian, Xueming Yan, Haiping Ma\*, and Xingyi Zhang\*, *in the Proceedings of the Thirty-seventh Conference on Neural Information Processing Systems* (**CCF A**), 2023.
 - ``TETCI 2023`` ["Cognitive Diagnosis-Based Personalized Exercise Group Assembly via a Multi-Objective Evolutionary Algorithm"](https://ieeexplore.ieee.org/abstract/document/10018283). **Shangshang Yang**, Haoyu Wei, Haiping Ma*, Ye Tian, Xingyi Zhang, Yunbo Cao, and Yaochu Jin. *IEEE Transactions on Emerging Topics in Computational Intelligence*, 2023, 7(3):829-844.
