@@ -34,6 +34,7 @@ My research interests include automated machine learning, neural architecture se
 - **Visiting Ph.D.**: *Mar. 2022 - Sep. 2022*, Bielefeld University, Germany
 - **B.E**:  *Sep. 2013 - Jun. 2017*, Network Engineering, Anhui University
 
+<span class='anchor' id='work-experience'></span>
 # 💼 Work Experience
 - **Associate Professor**: *Apr. 2026 - Present*, School of Computer Science and Technology, Anhui University
 - **Research Assistant**: *Aug. 2025 - Apr. 2026*, School of Computer Science and Technology, Anhui University
@@ -68,6 +69,7 @@ My research interests include automated machine learning, neural architecture se
 
 
 
+<span class='anchor' id='research-interest'></span>
 # 💻 Research Interest
 1. <em><strong><span style="color: blue; text-decoration: underline;">Trustworthy Intelligent Education</span></strong></em>
   - Generalized Cognitive Diagnosis (Fairness)
@@ -80,6 +82,7 @@ My research interests include automated machine learning, neural architecture se
   - Symbolic Regression
 3. <em><strong><span style="color: blue; text-decoration: underline;">Evolutionary Multiobjective Optimization for 1️⃣ & 2️⃣</span></strong></em> 
 
+<span class='anchor' id='honors-and-awards'></span>
 # 🎖 Honors and Awards
 - *2025.11* The <b><font color='red'>2025 Postdoctoral Research Performance Assessment (Tier 2, Top 5%)</font></b> of China Postdoctoral Science Foundation under Grant Number YJB20250190, 60K.
 - *2025.06* The <b><font color='red'>First Prize</font></b> of the <em>IEEE CEC (C04) EMAP Dataset Challenge: Predicting Affective States & Physiological Response with Feature Selection Competition</em>, IEEE Congress on Evolutionary Computation.
@@ -104,11 +107,13 @@ My research interests include automated machine learning, neural architecture se
 - Y. Tian, Z. Shi, S. Yang, and X. Zhang. "An Image Recognition Method Based on A Gradient-Guided Evolutionary Algorithm," No. ZL202111639517.1.
 - X. Zhang, J. Li, S. Yang, X. Yu, and H. Ma. "A Cognitive Diagnosis Method for Heterogeneous Graph Learning Based on Imbalance Perception," No. CN120144950A.
 - M. Cao, H. Ma, S. Yang, and X. Zhang. "Distance-Aware Knowledge Tracing," No. CN117933301A.
+<span class='anchor' id='invited-talks'></span>
 # 🎙 Invited Talks
 - *2023.09*,  **NICE Seminar**: <font color='blue'>Designing Novel Cognitive Diagnosis Models by  Evolutionary Multi-Objective Neural Architecture Search</font> | [Arxiv Paper](https://arxiv.org/pdf/2307.04429) | [Accepted Paper](https://ieeexplore.ieee.org/abstract/document/10599558/) | [Video](https://www.bilibili.com/video/BV1934y1P7vd/?spm_id_from=333.337.search-card.all.click&vd_source=2bffff05a7f25998ecbff130722206b6)
 
 
 
+<span class='anchor' id='fundings'></span>
 # 💬 Fundings 
 - China Postdoctoral Science Foundation (2025 Postdoctoral Research Performance Assessment, Tier 2, No. YJB20250190), 2025-2026, 60K.
 
@@ -120,12 +125,14 @@ My research interests include automated machine learning, neural architecture se
 
 - Anhui Province Key Laboratory of Intelligent Computing and Applications (No. AFZNJS2024KF01)，2024-2025, 50K；
 
+<span class='anchor' id='reviewers'></span>
 # 🧑‍🎨 Reviewers
 - <b>Journals:</b> IEEE TPAMI, IJCV, TNNLS, JAS, TEVC, TETCI, TCSS, TOIS, TAI, TSNE
 - <b>Conferences:</b> IJCAI, SIGIR, SIGKDD, ICML, ICLR, NeurIPS, ACM MM, AAAI, WWW
 
 
 
+<span class='anchor' id='news'></span>
 # 🔥 News
 - *2026.03*: &nbsp;🎉🎉 Our work "Large Language Model-assisted Evolutionary Neural Architecture Search for Cognitive Diagnosis" has been accepted by [IEEE TETCI]().
 - *2025.11*: &nbsp;🎉🎉 I received the <b><font color='red'>2025 Postdoctoral Research Performance Assessment (Tier 2)</font></b> of China Postdoctoral Science Foundation under Grant Number YJB20250190.
@@ -137,6 +144,7 @@ My research interests include automated machine learning, neural architecture se
 - *2024.07.01*: &nbsp;🎉🎉 I received the support of [Postdoctoral Fellowship Program (Grade B)](https://www.chinapostdoctor.org.cn/article?inid=fc7da3d7-7f1f-4e3d-81c8-65725b884c0e&catname=%E9%80%9A%E7%9F%A5%E5%85%AC%E5%91%8A&catid=8c892b1c-4ade-4a5f-9a87-5e736cb5e9f9) from China China Postdoctoral Science Foundation, only 500 people won Grade A and 1,000 people got the Grade B.  
 
 
+<span class='anchor' id='publications'></span>
 # 📝 Publications 
 
 
