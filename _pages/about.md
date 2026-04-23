@@ -141,31 +141,9 @@ My research interests include automated machine learning, neural architecture se
 
 
 
-**Shangshang Yang**, Cheng Zhen, Ye Tian, Haiping Ma\*, Yuanchao Liu, Panpan Zhang, and Xingyi Zhang\*
-
-*2023 International Conference on Data-driven Optimization of Complex Systems*
-
-<b><font color='red'>Best Paper</font></b>
-
-</div>
-</div>
-
-
-
-
-
-
-
-
-
-
-
 - ``AAAI 2026`` ["Debiased Cognitive Diagnosis: A Contrastive Counterfactual Modeling Method via Variational Autoencoder"](https://ojs.aaai.org/index.php/AAAI/article/view/39981). **Shangshang Yang**, Xuewen Duan, Xiaoshan Yu, Ziwen Wang, Haiping Ma, Xingyi Zhang, *in the Proceedings of the Fortieth AAAI Conference on Artificial Intelligence* (**CCF A**), 2026.
 - ``AAAI 2026`` ["PEOAT: Personalization-Guided Evolutionary Question Assembly for One-Shot Adaptive Testing"](https://ojs.aaai.org/index.php/AAAI/article/view/40022). Xiaoshan Yu, Ziwei Huang, **Shangshang Yang**\*, Ziwen Wang, Haiping Ma, and Xingyi Zhang, *AAAI Conference on Artificial Intelligence* (**CCF A**), 2026.
 - ``KDD 2026`` ["Breaking Robustness Barriers in Cognitive Diagnosis: A One-Shot Neural Architecture Search Perspective"](https://arxiv.org/pdf/2601.04918). Z. Wang, **Shangshang Yang**\*, X. Yu, H. Ma, and X. Zhang, *ACM SIGKDD Conference on Knowledge Discovery and Data Mining* (**CCF A**), 2026.
-- ``TETCI 2026`` ["Large Language Model-assisted Evolutionary Neural Architecture Search for Cognitive Diagnosis"](). **Shangshang Yang**, Linrui Qin, Xiaoshan Yu, Ziwen Wang, Ye Tian*, Xueming Yan, Haiping Ma, Xingyi Zhang, *IEEE Transactions on Emerging Topics in Computational Intelligence*, 2026.
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TETCI 2026</div><img src='images/LLM-NAS-CD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -187,7 +165,6 @@ My research interests include automated machine learning, neural architecture se
 - ``AAAI 2024`` ["Enhancing Cognitive Diagnosis using Un-interacted Exercises: A Collaboration-aware Mixed Sampling Approach"](https://ojs.aaai.org/index.php/AAAI/article/view/28735). Haiping Ma, Changqian Wang, Hengshu Zhu, **Shangshang Yang**\*, Xiaoming Zhang, and Xingyi Zhang\*, *in the Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence* (**CCF A**), 2024.
 - ``NeurIPS 2024`` ["DisenGCD: A Meta Multigraph-assisted Disentangled Graph Learning Framework for Cognitive Diagnosis"](https://arxiv.org/abs/2410.17564). **Shangshang Yang**, Mingyang Chen, Ziwen Wang, Xiaoshan Yu, Panpan Zhang, Haiping Ma\*, and Xingyi Zhang,  *in the Proceedings of the Thirty-eighth Conference on Neural Information Processing Systems* (**CCF A**), 2024.
 - ``TETCI 2024`` ["Hybrid Architecture-based Evolutionary Robust Neural Architecture Search"](https://www.researchgate.net/publication/380402160_Hybrid_Architecture-based_Evolutionary_Robust_Neural_Architecture_Search?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InByb2ZpbGUiLCJwYWdlIjoicHJvZmlsZSIsInByZXZpb3VzUGFnZSI6ImhvbWUiLCJwb3NpdGlvbiI6InBhZ2VDb250ZW50In19). **Shangshang Yang**, Xiangkun Sun, Ke Xu, Yuanchao Liu, Ye Tian\*, and Xingyi Zhang\*, *IEEE Transactions on Emerging Topics in Computational Intelligence*, 2024.
-- ``TEVC 2024`` ["An Evolutionary Multi-Objective Neural Architecture Search Approach to Advancing Cognitive Diagnosis in Intelligent Education"](https://ieeexplore.ieee.org/abstract/document/10599558/). **Shangshang Yang**, Haiping Ma, Ying Bi, Ye Tian, Limiao Zhang\*, Yaochu Jin, and Xingyi Zhang\*, *IEEE Transactions on Evolutionary Computation*, 2024.
 
 
 
@@ -212,7 +189,6 @@ My research interests include automated machine learning, neural architecture se
 
 ["Evolutionary Multi-Objective Neural Architecture Search for Generalized Cognitive Diagnosis Models"](https://ieeexplore.ieee.org/abstract/document/10294588/)
 
-- ``DOCS 2023`` ["Evolutionary Multi-Objective Neural Architecture Search for Generalized Cognitive Diagnosis Models"](https://ieeexplore.ieee.org/abstract/document/10294588/). **Shangshang Yang**, Cheng Zhen, Ye Tian, Haiping Ma\*, Yuanchao Liu, Panpan Zhang, and Xingyi Zhang\*, *2023 International Conference on Data-driven Optimization of Complex Systems*.
 
 
 **Shangshang Yang**, Cheng Zhen, Ye Tian, Haiping Ma\*, Yuanchao Liu, Panpan Zhang, and Xingyi Zhang\*
