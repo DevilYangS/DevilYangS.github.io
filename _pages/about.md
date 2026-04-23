@@ -32,7 +32,6 @@ My research interests include automated machine learning, neural architecture se
 # 📖 Education
 - **Ph.D.**: *Sep. 2017 - Dec. 2022*, Computer Science and Technology, Anhui University
 - **Visiting Ph.D.**: *Mar. 2022 - Sep. 2022*, Bielefeld University, Germany
-- **B.E**:  *Sep. 2013 - Jun. 2017*, Network Engineering, Anhui University
 
 # 💼 Work Experience
 - **Associate Professor**: *Apr. 2026 - Present*, School of Computer Science and Technology, Anhui University
@@ -40,7 +39,6 @@ My research interests include automated machine learning, neural architecture se
 - **Research Assistant**: *Jun. 2025 - Jul. 2025*, Hong Kong Polytechnic University
 - **Postdoctoral Researcher**: *Mar. 2023 - May 2025*, School of Artificial Intelligence, Anhui University
 - **Intern-researcher**: *Jul. 2021 - Aug. 2021*, Tencent Technology (Beijing) Co., Ltd
-- **B.E**:  *Sep. 2013 - Jun. 2017*, Network Engineering, Anhui University
 
 
 <!-- size: 100px;
@@ -82,23 +80,22 @@ My research interests include automated machine learning, neural architecture se
 3. <em><strong><span style="color: blue; text-decoration: underline;">Evolutionary Multiobjective Optimization for 1️⃣ & 2️⃣</span></strong></em> 
 
 # 🎖 Honors and Awards
+- *2025.11* The <b><font color='red'>2025 Postdoctoral Research Performance Assessment (Tier 2, Top 5%)</font></b> of China Postdoctoral Science Foundation under Grant Number YJB20250190, 60K.
 - *2025.06* The <b><font color='red'>First Prize</font></b> of the <em>IEEE CEC (C04) EMAP Dataset Challenge: Predicting Affective States & Physiological Response with Feature Selection Competition</em>, IEEE Congress on Evolutionary Computation.
 - *2025.06* The <b><font color='red'>First Prize</font></b> of the <em>IEEE CEC (C07) Large-Scale Multi-objective Optimisation for Status Assessment of Measuring Equipment Competition</em>, IEEE Congress on Evolutionary Computation.
 - *2025.06* The <b><font color='red'>Second Runner-Up</font></b> of the <em>IEEE CEC (C10) Dynamic Optimisation Problems Competition</em>, IEEE Congress on Evolutionary Computation.
 - *2025.06* The <b><font color='red'>First Prize</font></b> of the <em>IEEE CEC (C06) Constrained Single and Multi-objective Numerical Optimisation Competition</em>, IEEE Congress on Evolutionary Computation.
-- *2025.11* The <b><font color='red'>2025 Postdoctoral Research Performance Assessment (Tier 2, Top 5%)</font></b> of China Postdoctoral Science Foundation under Grant Number YJB20250190, 60K.
 - *2024.10* The <b><font color='red'>Bronze Award</font></b> of the <em>2024 China International College Students' 'Internet+' Innovation and Entrepreneurship Competition</em>.
-- *2024.05* The <b><font color='red'>Third Prize</font></b> of the <em>2024 China College Student Service Outsourcing Innovation and Entrepreneurship Competition</em>.
-- *2024.05* The <b><font color='red'>Excellent Postgraduate Tutor Team</font></b> of <em>Anhui Province</em>: Institute of Bioinspired Intelligence and Mining Knowledge Postgraduate Tutor Team.
 - *2024.9* The  <b><font color='red'>Golden Award</font></b> of  the **2024 Anhui College Students' 'Internet+' Innovation and Entrepreneurship Competition (GAOJIAO Main Track)**.
 - *2024.07*  The <b><font color='red'>Winner</font></b> of the  Competition on "*Large-scale Multiobjective Optimization for Status Assessment of Measuring Equipment*" at the <em><strong><span style="text-decoration: underline;">2024 IEEE World Conference on Computational Intelligence</span></strong></em>.
+- *2024.05* The <b><font color='red'>Third Prize</font></b> of the <em>2024 China College Student Service Outsourcing Innovation and Entrepreneurship Competition</em>.
+- *2024.05* The <b><font color='red'>Excellent Postgraduate Tutor Team</font></b> of <em>Anhui Province</em>: Institute of Bioinspired Intelligence and Mining Knowledge Postgraduate Tutor Team.
 - *2023.9* The <b><font color='red'>Best Paper</font></b> of the **2023 International Conference on Data-driven Optimization of Complex Systems (DOCS 2023)**: the paper  entitled "<font color='blue'>Evolutionary Multi-Objective Neural Architecture Search for Generalized Cognitive Diagnosis Models</font>".
 - *2023.6* The <b><font color='red'>Winner</font></b>  of the Competition on "*Large-scale Continuous Optimization for Non-contact Measurement - MO Optimization*" at the <em><strong><span style="text-decoration: underline;">2023 IEEE Congress on Evolutionary Computation</span></strong></em>.
 - *2022.12* The  <b><font color='red'>Best Poster Paper</font></b> of the **2022 Annual Conference of Anhui Artificial Intelligence Society**: the paper  entitled "<font color='blue'>Accelerating Evolutionary Neural Architecture Search via Multifidelity Evaluation</font>".
 - *2022.06* The  <b><font color='red'>Silver Award</font></b> of  the **2022 Anhui College Students' 'Internet+' Innovation and Entrepreneurship Competition (GAOJIAO Main Track)**.
 - *2019* The <b><font color='red'>National Scholarship</font></b> for Postgraduate, Awarded by the Ministry of Education, China.
 - *2014* The <b><font color='red'>National Encouragement Scholarship</font></b>, Awarded by Anhui Provincial Education Department.
-
 
 # 📜 Patents
 - S. Yang, L. Qin, X. Yu, H. Ma, and Y. Tian. "A Knowledge Tracing Method Based on Transformer Neural Architecture Search," No. CN202410388534X.
@@ -164,6 +161,16 @@ My research interests include automated machine learning, neural architecture se
 </div>
 
 
+
+- ``KDD 2026`` ["Breaking Robustness Barriers in Cognitive Diagnosis: A One-Shot Neural Architecture Search Perspective"](). Z. Wang, **Shangshang Yang**, X. Yu, H. Ma, and X. Zhang, *ACM SIGKDD Conference on Knowledge Discovery and Data Mining* (**CCF A**), 2026.
+
+- ``AAAI 2026`` ["Beyond Item Selection: Rethinking Ability Evolution in Computerized Adaptive Testing"](). X. Yu, J. Li, **Shangshang Yang**, Z. Wang, H. Ma, and X. Zhang, *AAAI Conference on Artificial Intelligence* (**CCF A**), 2026.
+
+- ``KDD 2025`` ["Learning Patterns-Guided Data Generation for Knowledge Tracing"](). H. Ma, Y. Yin, Z. Wang, C. Wang, X. Yu, **Shangshang Yang**, and X. Zhang, *ACM SIGKDD Conference on Knowledge Discovery and Data Mining*, 2025: 2031-2041 (**CCF A**).
+
+- ``SIGIR 2025`` ["Reconciling Efficiency and Effectiveness of Exercise Retrieval: An Uncertainty Reduction Hashing Approach for Computerized Adaptive Testing"](). H. Ma, Y. Zhou, X. Yu, C. Wang, **Shangshang Yang**, L. Zhang, and X. Zhang, *ACM SIGIR Conference on Research and Development in Information Retrieval*, 2025: 1044-1054 (**CCF A**).
+
+- ``SIGIR 2025`` ["Enhancing Learning Path Recommendation via Knowledge Topology-Aware Sequence Optimization"](). X. Yu, **Shangshang Yang**, Z. Wang, S. Song, H. Ma, Z. Cao, and X. Zhang, *ACM SIGIR Conference on Research and Development in Information Retrieval*, 2025: 306-315 (**CCF A**).
 
 - ``TETCI 2026`` ["Large Language Model-assisted Evolutionary Neural Architecture Search for Cognitive Diagnosis"](
 ). **Shangshang Yang**, Linrui Qin, Xiaoshan Yu, Ziwen Wang, Ye Tian*, Xueming Yan, Haiping Ma, Xingyi Zhang, *IEEE Transactions on Emerging Topics in Computational Intelligence*, 2026.
