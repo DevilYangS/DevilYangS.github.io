@@ -151,21 +151,6 @@ My research interests include automated machine learning, neural architecture se
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TEVC 2024</div><img src='images/EMO-NAS-CD.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-["An Evolutionary Multi-Objective Neural Architecture Search Approach to Advancing Cognitive Diagnosis in Intelligent Education"](https://ieeexplore.ieee.org/abstract/document/10599558/)
-
-
-**Shangshang Yang**\*, Haiping Ma, Ying Bi, Ye Tian, Limiao Zhang\*, Yaochu Jin, and Xingyi Zhang\*
-
-*IEEE Transactions on Evolutionary Computation*, 2024
-
-[**Project**](https://github.com/DevilYangS/EMO-NAS-CD) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- The source code of the proposed EMO-NAS-CD approach, providing found models and the search approach to search for what you need  models.
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">DOCS 2024 Best Paper</div><img src='images/docs2023.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -178,6 +163,21 @@ My research interests include automated machine learning, neural architecture se
 
 <b><font color='red'>Best Paper</font></b>
 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TEVC 2024</div><img src='images/EMO-NAS-CD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+["An Evolutionary Multi-Objective Neural Architecture Search Approach to Advancing Cognitive Diagnosis in Intelligent Education"](https://ieeexplore.ieee.org/abstract/document/10599558/)
+
+
+**Shangshang Yang**\*, Haiping Ma, Ying Bi, Ye Tian, Limiao Zhang\*, Yaochu Jin, and Xingyi Zhang\*
+
+*IEEE Transactions on Evolutionary Computation*, 2024
+
+[**Project**](https://github.com/DevilYangS/EMO-NAS-CD) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- The source code of the proposed EMO-NAS-CD approach, providing found models and the search approach to search for what you need  models.
 </div>
 </div>
 
