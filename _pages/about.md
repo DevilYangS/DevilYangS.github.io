@@ -107,6 +107,7 @@ My research interests include automated machine learning, neural architecture se
 - Y. Tian, Z. Shi, S. Yang, and X. Zhang. "An Image Recognition Method Based on A Gradient-Guided Evolutionary Algorithm," No. ZL202111639517.1.
 - X. Zhang, J. Li, S. Yang, X. Yu, and H. Ma. "A Cognitive Diagnosis Method for Heterogeneous Graph Learning Based on Imbalance Perception," No. CN120144950A.
 - M. Cao, H. Ma, S. Yang, and X. Zhang. "Distance-Aware Knowledge Tracing," No. CN117933301A.
+- 
 <span class='anchor' id='invited-talks'></span>
 # 🎙 Invited Talks
 - *2023.09*,  **NICE Seminar**: <font color='blue'>Designing Novel Cognitive Diagnosis Models by  Evolutionary Multi-Objective Neural Architecture Search</font> | [Arxiv Paper](https://arxiv.org/pdf/2307.04429) | [Accepted Paper](https://ieeexplore.ieee.org/abstract/document/10599558/) | [Video](https://www.bilibili.com/video/BV1934y1P7vd/?spm_id_from=333.337.search-card.all.click&vd_source=2bffff05a7f25998ecbff130722206b6)
