@@ -13,14 +13,23 @@ os.makedirs('results', exist_ok=True)
 with open(f'results/gs_data.json', 'w') as outfile:
     json.dump(author, outfile, ensure_ascii=False)
 
-# shields.io badge data (citations only - used by the badge image)
-shieldio_data = {
+# shields.io badge data - citations badge
+shieldio_citations = {
     "schemaVersion": 1,
     "label": "citations",
     "message": f"{author['citedby']}",
 }
 with open(f'results/gs_data_shieldsio.json', 'w') as outfile:
-    json.dump(shieldio_data, outfile, ensure_ascii=False)
+    json.dump(shieldio_citations, outfile)
+
+# shields.io badge data - hindex badge
+shieldio_hindex = {
+    "schemaVersion": 1,
+    "label": "h-index",
+    "message": f"{author.get('hindex', 0)}",
+}
+with open(f'results/gs_hindex_shieldsio.json', 'w') as outfile:
+    json.dump(shieldio_hindex, outfile)
 
 # Full stats JSON for JavaScript to read and display on homepage
 full_stats = {
@@ -30,4 +39,4 @@ full_stats = {
     "updated": str(datetime.now()),
 }
 with open(f'results/gs_stats.json', 'w') as outfile:
-    json.dump(full_stats, outfile, ensure_ascii=False)
+    json.dump(full_stats, outfile)
