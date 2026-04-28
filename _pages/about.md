@@ -135,7 +135,7 @@ My research interests include automated machine learning, neural architecture se
 
 <span class='anchor' id='news'></span>
 # 🔥 News
-- *2026.03*: &nbsp;🎉🎉 Our work "Large Language Model-assisted Evolutionary Neural Architecture Search for Cognitive Diagnosis" has been accepted by [IEEE TETCI]().
+- *2026.03*: &nbsp;🎉🎉 Our work "Large Language Model-assisted Evolutionary Neural Architecture Search for Cognitive Diagnosis" has been accepted by [IEEE TETCI](https://doi.org/10.1109/TETCI.2026.3683785).
 - *2025.11*: &nbsp;🎉🎉 I received the <b><font color='red'>2025 Postdoctoral Research Performance Assessment (Tier 2)</font></b> of China Postdoctoral Science Foundation under Grant Number YJB20250190.
 - *2025.11*: &nbsp;🎉🎉 Our work on "Debiased Cognitive Diagnosis: A Contrastive Counterfactual Modeling Method via Variational Autoencoder" has been accepted by [AAAI 2026](https://ojs.aaai.org/index.php/AAAI/article/view/39981).
 - *2025.04*: &nbsp;🎉🎉 Our work on "Endowing Interpretability for Neural Cognitive Diagnosis by Efficient Kolmogorov-Arnold Networks" has been accepted by [IJCAI 2025](https://www.ijcai.org/proceedings/2025/878).
@@ -151,7 +151,7 @@ My research interests include automated machine learning, neural architecture se
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TETCI 2026</div><img src='images/LLM-NAS-CD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-["Large Language Model-assisted Evolutionary Neural Architecture Search for Cognitive Diagnosis"](https://ieeexplore.ieee.org/abstract/document/XXXXXXXXX/)
+["Large Language Model-assisted Evolutionary Neural Architecture Search for Cognitive Diagnosis"](https://doi.org/10.1109/TETCI.2026.3683785)
 
 
 **Shangshang Yang**, Linrui Qin, Xiaoshan Yu, Ziwen Wang, Ye Tian*, Xueming Yan, Haiping Ma, Xingyi Zhang
