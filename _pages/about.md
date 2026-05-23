@@ -135,8 +135,8 @@ My research interests include automated machine learning, neural architecture se
 
 <span class='anchor' id='news'></span>
 # 🔥 News
-- *2026.05*: &nbsp;🎉🎉 Our work "PEOAT: Personalization-Guided Evolutionary Question Assembly for One-Shot Adaptive Testing" has been accepted by **AAAI 2026** (Research Track). <br> Xiaoshan Yu, Ziwei Huang, **Shangshang Yang**, Ziwen Wang, Haiping Ma, and Xingyi Zhang. <br> [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/40022)
-- *2026.05*: &nbsp;🎉🎉 Our work "Beyond Item Selection: Rethinking Ability Evolution in Computerized Adaptive Testing" has been accepted by **KDD 2026** (Research Track). <br> X. Yu, J. Li, **Shangshang Yang**, Z. Wang, H. Ma, and X. Zhang.
+- *2025.11*: &nbsp;🎉🎉 Our work "PEOAT: Personalization-Guided Evolutionary Question Assembly for One-Shot Adaptive Testing" has been accepted by **AAAI 2026** (Research Track). [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/40022)
+- *2026.05*: &nbsp;🎉🎉 Our work "Beyond Item Selection: Rethinking Ability Evolution in Computerized Adaptive Testing" has been accepted by **KDD 2026** (Research Track).
 - *2026.03*: &nbsp;🎉🎉 Our work "Large Language Model-assisted Evolutionary Neural Architecture Search for Cognitive Diagnosis" has been accepted by [IEEE TETCI](https://doi.org/10.1109/TETCI.2026.3683785).
 - *2025.11*: &nbsp;🎉🎉 I received the <b><font color='red'>2025 Postdoctoral Research Performance Assessment (Tier 2)</font></b> of China Postdoctoral Science Foundation under Grant Number YJB20250190.
 - *2025.11*: &nbsp;🎉🎉 Our work "Debiased Cognitive Diagnosis: A Contrastive Counterfactual Modeling Method via Variational Autoencoder" has been accepted by <b><font color='red'>AAAI 2026 (Oral)</font></b> [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/39981).
@@ -151,9 +151,6 @@ My research interests include automated machine learning, neural architecture se
 # 📝 Publications
 
 - ``KDD 2026`` ["Beyond Item Selection: Rethinking Ability Evolution in Computerized Adaptive Testing"](). X. Yu, J. Li, **Shangshang Yang**, Z. Wang, H. Ma, and X. Zhang, *ACM SIGKDD Conference on Knowledge Discovery and Data Mining* (**CCF A**), 2026.
-- ``KDD 2026`` ["Breaking Robustness Barriers in Cognitive Diagnosis: A One-Shot Neural Architecture Search Perspective"](). Z. Wang, **Shangshang Yang**, X. Yu, H. Ma, and X. Zhang, *ACM SIGKDD Conference on Knowledge Discovery and Data Mining* (**CCF A**), 2026.
-- ``AAAI 2026`` ["PEOAT: Personalization-Guided Evolutionary Question Assembly for One-Shot Adaptive Testing"](https://ojs.aaai.org/index.php/AAAI/article/view/40022). Xiaoshan Yu, Ziwei Huang, **Shangshang Yang**, Ziwen Wang, Haiping Ma, Xingyi Zhang, *in the Proceedings of the Fortieth AAAI Conference on Artificial Intelligence* (**CCF A**), 2026.
-- ``AAAI 2026`` ["Debiased Cognitive Diagnosis: A Contrastive Counterfactual Modeling Method via Variational Autoencoder"](https://ojs.aaai.org/index.php/AAAI/article/view/39981). **Shangshang Yang**, Xuewen Duan, Xiaoshan Yu, Ziwen Wang, Haiping Ma, Xingyi Zhang, *in the Proceedings of the Fortieth AAAI Conference on Artificial Intelligence* (**CCF A**), 2026. <b><font color='red'>[Oral]</font></b>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TETCI 2026</div><img src='images/LLM-NAS-CD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -170,6 +167,9 @@ My research interests include automated machine learning, neural architecture se
 </div>
 </div>
 
+- ``KDD 2026`` ["Breaking Robustness Barriers in Cognitive Diagnosis: A One-Shot Neural Architecture Search Perspective"](). Z. Wang, **Shangshang Yang**, X. Yu, H. Ma, and X. Zhang, *ACM SIGKDD Conference on Knowledge Discovery and Data Mining* (**CCF A**), 2026.
+- ``AAAI 2026`` ["PEOAT: Personalization-Guided Evolutionary Question Assembly for One-Shot Adaptive Testing"](https://ojs.aaai.org/index.php/AAAI/article/view/40022). Xiaoshan Yu, Ziwei Huang, **Shangshang Yang**, Ziwen Wang, Haiping Ma, Xingyi Zhang, *in the Proceedings of the Fortieth AAAI Conference on Artificial Intelligence* (**CCF A**), 2026.
+- ``AAAI 2026`` ["Debiased Cognitive Diagnosis: A Contrastive Counterfactual Modeling Method via Variational Autoencoder"](https://ojs.aaai.org/index.php/AAAI/article/view/39981). **Shangshang Yang**, Xuewen Duan, Xiaoshan Yu, Ziwen Wang, Haiping Ma, Xingyi Zhang, *in the Proceedings of the Fortieth AAAI Conference on Artificial Intelligence* (**CCF A**), 2026. <b><font color='red'>[Oral]</font></b>
 - ``IJCAI 2025`` ["Endowing Interpretability for Neural Cognitive Diagnosis by Efficient Kolmogorov-Arnold Networks"](https://www.ijcai.org/proceedings/2025/878). **Shangshang Yang**, Linrui Qin, Xiaoshan Yu, Ziwen Wang, Xueming Yan, Haiping Ma, Ye Tian, *in the Proceedings of the 34th International Joint Conference on Artificial Intelligence* (**CCF A**), 2025.
 - ``KDD 2025`` ["Learning Patterns-Guided Data Generation for Knowledge Tracing"](https://dl.acm.org/doi/10.1145/3711896.3737021). H. Ma, Y. Yin, Z. Wang, C. Wang, X. Yu, **Shangshang Yang**, and X. Zhang, *ACM SIGKDD Conference on Knowledge Discovery and Data Mining*, 2025: 2031-2041 (**CCF A**).
 - ``SIGIR 2025`` ["Reconciling Efficiency and Effectiveness of Exercise Retrieval: An Uncertainty Reduction Hashing Approach for Computerized Adaptive Testing"](https://dl.acm.org/doi/10.1145/3726302.3730072). H. Ma, Y. Zhou, X. Yu, C. Wang, **Shangshang Yang**, L. Zhang, and X. Zhang, *ACM SIGIR Conference on Research and Development in Information Retrieval*, 2025: 1044-1054 (**CCF A**).
