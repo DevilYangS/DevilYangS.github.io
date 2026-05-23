@@ -135,11 +135,11 @@ My research interests include automated machine learning, neural architecture se
 
 <span class='anchor' id='news'></span>
 # 🔥 News
-- *2025.11*: &nbsp;🎉🎉 Our work "PEOAT: Personalization-Guided Evolutionary Question Assembly for One-Shot Adaptive Testing" has been accepted by **AAAI 2026** (Research Track). [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/40022)
 - *2026.05*: &nbsp;🎉🎉 Our work "Beyond Item Selection: Rethinking Ability Evolution in Computerized Adaptive Testing" has been accepted by **KDD 2026** (Research Track).
 - *2026.03*: &nbsp;🎉🎉 Our work "Large Language Model-assisted Evolutionary Neural Architecture Search for Cognitive Diagnosis" has been accepted by [IEEE TETCI](https://doi.org/10.1109/TETCI.2026.3683785).
-- *2025.11*: &nbsp;🎉🎉 I received the <b><font color='red'>2025 Postdoctoral Research Performance Assessment (Tier 2)</font></b> of China Postdoctoral Science Foundation under Grant Number YJB20250190.
+- *2025.11*: &nbsp;🎉🎉 Our work "PEOAT: Personalization-Guided Evolutionary Question Assembly for One-Shot Adaptive Testing" has been accepted by **AAAI 2026** (Research Track). [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/40022)
 - *2025.11*: &nbsp;🎉🎉 Our work "Debiased Cognitive Diagnosis: A Contrastive Counterfactual Modeling Method via Variational Autoencoder" has been accepted by <b><font color='red'>AAAI 2026 (Oral)</font></b> [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/39981).
+- *2025.11*: &nbsp;🎉🎉 I received the <b><font color='red'>2025 Postdoctoral Research Performance Assessment (Tier 2)</font></b> of China Postdoctoral Science Foundation under Grant Number YJB20250190.
 - *2025.04*: &nbsp;🎉🎉 Our work on "Endowing Interpretability for Neural Cognitive Diagnosis by Efficient Kolmogorov-Arnold Networks" has been accepted by [IJCAI 2025](https://www.ijcai.org/proceedings/2025/878).
 - *2024.09.26*: &nbsp;🎉🎉 Our work **DisenGCD**  proposing a meta-multigraph-assisted graph learning framework for cognitive diagnosis has been accepted by [NeurIPS 2024](https://neurips.cc/).
 - *2024.09.01*: &nbsp;🎉🎉 Our group won the  <b><font color='red'>Golden Award</font></b> of  the 2022 Anhui College Students' 'Internet+' Innovation and Entrepreneurship Competition (GAOJIAO Main Track), supervised by [Ye Tian](https://bimk.ahu.edu.cn/2021/0402/c12971a256388/page.htm), Shangshang Yang, and Xingyi Zhang.
