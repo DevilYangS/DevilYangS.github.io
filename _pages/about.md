@@ -135,7 +135,7 @@ My research interests include automated machine learning, neural architecture se
 
 <span class='anchor' id='news'></span>
 # 🔥 News
-- *2026.08*: &nbsp;🏆🏆 I received the <b><font color='red'>KDD 2026 Best Reviewer Award</font></b>.
+- *2026.08*: &nbsp;🏆🏆 I received the <b><font color='red'>KDD 2026 Best Reviewer Award</font></b> at <a href='https://kdd2026.kdd.org/kdd-best-reviewers/'>KDD 2026</a>.
 - *2026.08*: &nbsp;🏆🏆 Our paper "Trainable Evolutionary Algorithms: A Reinforcement Learning Perspective on Algorithm Configuration" won the <b><font color=\'red\'>Best Paper Award</font></b> at <b>DOCS 2026</b>. (<b><font color=\'red\'>Supervising the student (Wenbiao Li) as corresponding author and first supervisor</font></b>).
 - *2026.05*: &nbsp;🎉🎉 Our work "Beyond Item Selection: Rethinking Ability Evolution in Computerized Adaptive Testing" has been accepted by **KDD 2026** (Research Track).
 - *2026.03*: &nbsp;🎉🎉 Our work "Large Language Model-assisted Evolutionary Neural Architecture Search for Cognitive Diagnosis" has been accepted by [IEEE TETCI](https://doi.org/10.1109/TETCI.2026.3683785).
