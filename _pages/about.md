@@ -154,7 +154,7 @@ My research interests include automated machine learning, neural architecture se
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">DOCS 2026 Best Paper</div><img src='images/docs2026_best_paper.png' alt="DOCS 2026 Best Paper Award" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-["Trainable Evolutionary Algorithms: A Reinforcement Learning Perspective on Algorithm Configuration"](https://example.com)
+["Trainable Evolutionary Algorithms: A Reinforcement Learning Perspective on Algorithm Configuration"](https://raw.githubusercontent.com/DevilYangS/DevilYangS.github.io/main/papers/trainable-evolutionary-algorithms.pdf)
 
 Wenbiao Li, **Shangshang Yang***, Ye Tian, Zimo Sheng
 
