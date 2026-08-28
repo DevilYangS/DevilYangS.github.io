@@ -145,6 +145,8 @@ My research interests include automated machine learning, neural architecture se
 
 - The National Natural Science Foundation of China (Youth Project)，2024-2026, 300K；
 
+- The National Natural Science Foundation of China (General Project)，2027-2030, 500K；
+
 - Anhui Province Key Laboratory of Intelligent Computing and Applications (No. AFZNJS2024KF01)，2024-2025, 50K；
 
 <span class='anchor' id='reviewers'></span>
