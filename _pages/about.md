@@ -143,9 +143,9 @@ My research interests include automated machine learning, neural architecture se
 
 - The China Postdoctoral Science Foundation (74th Batch of General Funding)，2023-2025 (<font color='blue'>at a funding rate of about 17% </font>) 80K；
 
-- The National Natural Science Foundation of China (Youth Project)，2024-2026, 300K；
-
 - The National Natural Science Foundation of China (General Project)，2027-2030, 500K；
+
+- The National Natural Science Foundation of China (Youth Project)，2024-2026, 300K；
 
 - Anhui Province Key Laboratory of Intelligent Computing and Applications (No. AFZNJS2024KF01)，2024-2025, 50K；
 
