@@ -85,7 +85,8 @@ My research interests include automated machine learning, neural architecture se
 <span class='anchor' id='news'></span>
 # 🔥 News
 - *2026.08*: &nbsp;🏆🏆 I received the <b><font color='red'>KDD 2026 Best Reviewer Award</font></b> at <a href='https://kdd2026.kdd.org/kdd-best-reviewers/'>KDD 2026</a>.
-- *2026.08*: &nbsp;🏆🏆 Our paper "Trainable Evolutionary Algorithms: A Reinforcement Learning Perspective on Algorithm Configuration" won the <b><font color=\'red\'>Best Paper Award</font></b> at <b>DOCS 2026</b>. (<b><font color=\'red\'>Supervising the student (Wenbiao Li) as corresponding author and first supervisor</font></b>).
+- *2026.08*: &nbsp;🏆🏆 Our paper "<a href='https://github.com/DevilYangS/DevilYangS.github.io/raw/main/papers/trainable-evolutionary-algorithms.pdf'>Trainable Evolutionary Algorithms: A Reinforcement Learning Perspective on Algorithm Configuration</a>" won the <b><font color='red'>Best Paper Award</font></b> at <b>DOCS 2026</b> [<a href='https://github.com/DevilYangS/DevilYangS.github.io/blob/main/images/docs2026_best_paper.png'>Award Certificate</a>].
+- *2026.07*: &nbsp;🏆🏆 I received the <b><font color='red'>ICML 2026 Gold Reviewer Award</font></b> [<a href='https://icml.cc/Conferences/2026/ProgramCommittee#gold'>Award List</a>].
 - *2026.05*: &nbsp;🎉🎉 Our work "Beyond Item Selection: Rethinking Ability Evolution in Computerized Adaptive Testing" has been accepted by **KDD 2026** (Research Track).
 - *2026.03*: &nbsp;🎉🎉 Our work "Large Language Model-assisted Evolutionary Neural Architecture Search for Cognitive Diagnosis" has been accepted by [IEEE TETCI](https://doi.org/10.1109/TETCI.2026.3683785).
 - *2025.11*: &nbsp;🎉🎉 Our work "PEOAT: Personalization-Guided Evolutionary Question Assembly for One-Shot Adaptive Testing" has been accepted by **AAAI 2026** (Research Track). [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/40022)
@@ -167,6 +168,21 @@ IEEE Transactions on Emerging Topics in Computational Intelligence, 2026
 
 [**Project**](https://github.com/BIMK/Intelligent-Education/tree/main/LLM-NAS-CD) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - The source code of the proposed LLM-NAS-CD approach, integrating large language models with evolutionary neural architecture search for cognitive diagnosis.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DOCS 2026 Best Paper</div><img src='images/docs2026_best_paper.png' alt="DOCS 2026 Best Paper Award" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+["Trainable Evolutionary Algorithms: A Reinforcement Learning Perspective on Algorithm Configuration"](https://github.com/DevilYangS/DevilYangS.github.io/raw/main/papers/trainable-evolutionary-algorithms.pdf)
+
+
+Wenbiao Li, **Shangshang Yang***, Ye Tian, Zimo Sheng
+
+*The 8th International Conference on Data-driven Optimization of Complex Systems (DOCS 2026)*, 2026
+
+<b><font color='red'>Best Paper Award</font></b>
 </div>
 </div>
 
