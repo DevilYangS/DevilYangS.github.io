@@ -153,6 +153,20 @@ My research interests include automated machine learning, neural architecture se
 <span class='anchor' id='publications'></span>
 
 # 📝 Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DOCS 2026 Best Paper</div><img src='images/docs2026_best_paper.png' alt="DOCS 2026 Best Paper Award" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+["Trainable Evolutionary Algorithms: A Reinforcement Learning Perspective on Algorithm Configuration"](https://github.com/DevilYangS/DevilYangS.github.io/raw/main/papers/trainable-evolutionary-algorithms.pdf)
+
+
+Wenbiao Li, **Shangshang Yang***, Ye Tian, Zimo Sheng
+
+*The 8th International Conference on Data-driven Optimization of Complex Systems (DOCS 2026)*, 2026
+
+<b><font color='red'>Best Paper Award</font></b>
+</div>
+</div>
+
 
 - ``KDD 2026`` ["Beyond Item Selection: Rethinking Ability Evolution in Computerized Adaptive Testing"](). X. Yu, J. Li, **Shangshang Yang***, Z. Wang, H. Ma, and X. Zhang, ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**CCF A**), 2026.
 
@@ -171,20 +185,6 @@ IEEE Transactions on Emerging Topics in Computational Intelligence, 2026
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DOCS 2026 Best Paper</div><img src='images/docs2026_best_paper.png' alt="DOCS 2026 Best Paper Award" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-["Trainable Evolutionary Algorithms: A Reinforcement Learning Perspective on Algorithm Configuration"](https://github.com/DevilYangS/DevilYangS.github.io/raw/main/papers/trainable-evolutionary-algorithms.pdf)
-
-
-Wenbiao Li, **Shangshang Yang***, Ye Tian, Zimo Sheng
-
-*The 8th International Conference on Data-driven Optimization of Complex Systems (DOCS 2026)*, 2026
-
-<b><font color='red'>Best Paper Award</font></b>
-</div>
-</div>
 
 - ``KDD 2026`` ["Breaking Robustness Barriers in Cognitive Diagnosis: A One-Shot Neural Architecture Search Perspective"](). Z. Wang, **Shangshang Yang***, X. Yu, H. Ma, and X. Zhang, ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**CCF A**), 2026.
 - ``AAAI 2026`` ["PEOAT: Personalization-Guided Evolutionary Question Assembly for One-Shot Adaptive Testing"](https://ojs.aaai.org/index.php/AAAI/article/view/40022). Xiaoshan Yu, Ziwei Huang, **Shangshang Yang***, Ziwen Wang, Haiping Ma, Xingyi Zhang, in the Proceedings of the Fortieth AAAI Conference on Artificial Intelligence (**CCF A**), 2026.
