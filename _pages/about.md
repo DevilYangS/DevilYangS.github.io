@@ -135,6 +135,7 @@ My research interests include automated machine learning, neural architecture se
 
 <span class='anchor' id='news'></span>
 # 🔥 News
+- *2026.08*: &nbsp;🏆🏆 I received the <b><font color='red'>KDD 2026 Best Reviewer Award</font></b>.
 - *2026.05*: &nbsp;🎉🎉 Our work "Beyond Item Selection: Rethinking Ability Evolution in Computerized Adaptive Testing" has been accepted by **KDD 2026** (Research Track).
 - *2026.03*: &nbsp;🎉🎉 Our work "Large Language Model-assisted Evolutionary Neural Architecture Search for Cognitive Diagnosis" has been accepted by [IEEE TETCI](https://doi.org/10.1109/TETCI.2026.3683785).
 - *2025.11*: &nbsp;🎉🎉 Our work "PEOAT: Personalization-Guided Evolutionary Question Assembly for One-Shot Adaptive Testing" has been accepted by **AAAI 2026** (Research Track). [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/40022)
@@ -218,5 +219,6 @@ IEEE Transactions on Evolutionary Computation, 2024
 - ``TFS 2019`` ["An Evolutionary Multiobjective Optimization Based Fuzzy Method for Overlapping Community Detection"](https://ieeexplore.ieee.org/abstract/document/8855008). Ye Tian, **Shangshang Yang**, Xingyi Zhang*. IEEE Transactions on Fuzzy Systems, 2019, 28(11): 2841-2855.
 
 The <b><font color ='blue'>last three work</font></b> was completed  during the <font color ='blue'>first-two years of my PhD period</font>, and more  co-authored work can be found in my [Google Scholar](https://scholar.google.com.hk/citations?user=arzbiNUAAAAJ).
+
 
 
