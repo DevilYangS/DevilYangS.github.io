@@ -101,6 +101,10 @@ My research interests include automated machine learning, neural architecture se
 
 <span class='anchor' id='honors-and-awards'></span>
 # 🎖 Honors and Awards
+- *2026.08* The <b><font color='red'>Best Paper Award</font></b> of the <em>International Conference on Data-driven Optimization of Complex Systems (DOCS 2026)</em>: the paper entitled "Trainable Evolutionary Algorithms: A Reinforcement Learning Perspective on Algorithm Configuration".
+- *2026.08* The <b><font color='red'>KDD 2026 Best Reviewer Award</font></b> of the <em>ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2026)</em>.
+- *2026.07* The <b><font color='red'>ICML 2026 Gold Reviewer Award</font></b> of the <em>International Conference on Machine Learning (ICML 2026)</em>.
+
 - *2025.11* The <b><font color='red'>2025 Postdoctoral Research Performance Assessment (Tier 2, Top 5%)</font></b> of China Postdoctoral Science Foundation under Grant Number YJB20250190, 60K.
 - *2025.06* The <b><font color='red'>First Prize</font></b> of the <em>IEEE CEC (C04) EMAP Dataset Challenge: Predicting Affective States & Physiological Response with Feature Selection Competition</em>, IEEE Congress on Evolutionary Computation.
 - *2025.06* The <b><font color='red'>First Prize</font></b> of the <em>IEEE CEC (C07) Large-Scale Multi-objective Optimisation for Status Assessment of Measuring Equipment Competition</em>, IEEE Congress on Evolutionary Computation.
