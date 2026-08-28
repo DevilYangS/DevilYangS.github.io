@@ -172,7 +172,7 @@ Wenbiao Li, **Shangshang Yang***, Ye Tian, Zimo Sheng
 </div>
 
 
-- ``KDD 2026`` ["Beyond Item Selection: Rethinking Ability Evolution in Computerized Adaptive Testing"](). X. Yu, J. Li, **Shangshang Yang***, Z. Wang, H. Ma, and X. Zhang, ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**CCF A**), 2026.
+- ``KDD 2026`` ["Beyond Item Selection: Rethinking Ability Evolution in Computerized Adaptive Testing"](https://dl.acm.org/doi/abs/10.1145/3770855.3817615). X. Yu, J. Li, **Shangshang Yang***, Z. Wang, H. Ma, and X. Zhang, ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**CCF A**), 2026.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TETCI 2026</div><img src='images/LLM-NAS-CD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -190,7 +190,7 @@ IEEE Transactions on Emerging Topics in Computational Intelligence, 2026
 </div>
 
 
-- ``KDD 2026`` ["Breaking Robustness Barriers in Cognitive Diagnosis: A One-Shot Neural Architecture Search Perspective"](). Z. Wang, **Shangshang Yang***, X. Yu, H. Ma, and X. Zhang, ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**CCF A**), 2026.
+- ``KDD 2026`` ["Breaking Robustness Barriers in Cognitive Diagnosis: A One-Shot Neural Architecture Search Perspective"](https://dl.acm.org/doi/abs/10.1145/3770854.3780159). Z. Wang, **Shangshang Yang***, X. Yu, H. Ma, and X. Zhang, ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**CCF A**), 2026.
 - ``AAAI 2026`` ["PEOAT: Personalization-Guided Evolutionary Question Assembly for One-Shot Adaptive Testing"](https://ojs.aaai.org/index.php/AAAI/article/view/40022). Xiaoshan Yu, Ziwei Huang, **Shangshang Yang***, Ziwen Wang, Haiping Ma, Xingyi Zhang, in the Proceedings of the Fortieth AAAI Conference on Artificial Intelligence (**CCF A**), 2026.
 - ``AAAI 2026`` ["Debiased Cognitive Diagnosis: A Contrastive Counterfactual Modeling Method via Variational Autoencoder"](https://ojs.aaai.org/index.php/AAAI/article/view/39981). **Shangshang Yang**, Xuewen Duan, Xiaoshan Yu, Ziwen Wang, Haiping Ma, Xingyi Zhang, in the Proceedings of the Fortieth AAAI Conference on Artificial Intelligence (**CCF A**), 2026. <b><font color='red'>[Oral]</font></b>
 - ``IJCAI 2025`` ["Endowing Interpretability for Neural Cognitive Diagnosis by Efficient Kolmogorov-Arnold Networks"](https://www.ijcai.org/proceedings/2025/878). **Shangshang Yang**, Linrui Qin, Xiaoshan Yu, Ziwen Wang, Xueming Yan, Haiping Ma, Ye Tian, in the Proceedings of the 34th International Joint Conference on Artificial Intelligence (**CCF A**), 2025.
