@@ -1,6 +1,36 @@
 <div class="news">
   {% if site.news != blank %}
     {% assign news_size = site.news | size %}
+    {% if include.grouped %}
+      <div class="news-grouped">
+        {% assign news = site.news | reverse %}
+        {% assign cur_year = '' %}
+        {% for item in news %}
+          {% assign y = item.date | date: '%Y' %}
+          {% if y != cur_year %}
+            <h4 class="news-year-heading">{{ y }}</h4>
+            {% assign cur_year = y %}
+          {% endif %}
+          <div class="news-item-row">
+            <span class="news-item-date">{{ item.date | date: '%b %d' }}</span>
+            <span class="news-item-content">
+              {% if item.inline %}
+                {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
+              {% else %}
+                <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+              {% endif %}
+            </span>
+          </div>
+        {% endfor %}
+      </div>
+      <style>
+        .news-year-heading { border-bottom: 2px solid var(--global-divider-color); padding-bottom: 0.3rem; margin-top: 2rem; margin-bottom: 0.8rem; font-weight: 600; }
+        .news-grouped h4.news-year-heading:first-child { margin-top: 0.5rem; }
+        .news-item-row { display: flex; padding: 0.35rem 0; }
+        .news-item-date { flex: 0 0 5.5rem; color: var(--global-text-color-muted); font-variant-numeric: tabular-nums; }
+        .news-item-content { flex: 1; }
+      </style>
+    {% else %}
     <div
       class="table-responsive"
       {% if include.limit and page.announcements.scrollable and news_size > 3 %}
@@ -28,6 +58,12 @@
         {% endfor %}
       </table>
     </div>
+    {% if include.limit and news_size > news_limit %}
+      <div class="text-end" style="margin-top: -0.5rem">
+        <a href="{{ '/news/' | relative_url }}">See all {{ news_size }} news &rarr;</a>
+      </div>
+    {% endif %}
+    {% endif %}
   {% else %}
     <p>No news so far...</p>
   {% endif %}

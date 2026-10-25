@@ -49,22 +49,29 @@
         - Best Paper Award, DOCS 2026
         - Best Reviewer Award, KDD 2026
         - Gold Reviewer Award, ICML 2026
+        - Joint First Winner, GNBG-III Numerical Global Optimization Competition, IEEE WCCI 2026
+        - Winner, Competition on Higher Dimension Multimodal Multiobjective Optimization, IEEE WCCI 2026
+        - Second Place, Competition on Evolutionary Expensive Optimization for Mixed-Variable Problems, IEEE WCCI 2026
     - year: 2025
       items:
         - 2025 Postdoctoral Research Performance Assessment (Tier 2, Top 5%), China Postdoctoral Science Foundation
-        - First Prize, IEEE CEC 2025 competitions (C04, C06, C07); Second Runner-Up, C10
+        - Winner, IEEE CEC 2025 Competitions (C04 EMAP Dataset Challenge, C07 Large-scale Multiobjective Optimization)
+        - Second Runner-Up, IEEE CEC 2025 Competitions (C06 Constrained Optimization, C10 Dynamic Optimization)
     - year: 2024
       items:
-        - Winner, Large-scale Multiobjective Optimization Competition, IEEE WCCI 2024
-        - Bronze Award, 2024 China International College Students' 'Internet+' Competition
+        - Winner, Large-scale Multiobjective Optimization for Status Assessment of Measuring Equipment, IEEE WCCI 2024
+        - Bronze Award, China International College Students' Innovation Competition (2024) (as advisor)
+        - Gold Award, Final of Anhui Province College Students' Innovation Competition (2024) (as advisor)
+        - Third Prize, China Students Service Outsourcing Innovation and Entrepreneurship Competition, Eastern Region (2024) (as advisor)
         - Postdoctoral Fellowship Program (Grade B), China Postdoctoral Science Foundation
     - year: 2023
       items:
         - Best Paper, DOCS 2023
-        - Winner, Large-scale Continuous Optimization Competition, IEEE CEC 2023
+        - Winner, Large-scale Continuous Optimization for Non-contact Measurement (MO Optimization), IEEE CEC 2023
     - year: 2022
       items:
         - Best Poster Paper, 2022 Annual Conference of Anhui Artificial Intelligence Society
+        - Silver Award, 8th Anhui Province "Internet+" College Students' Innovation and Entrepreneurship Competition (as advisor)
     - year: 2019
       items:
         - National Scholarship for Postgraduate, Ministry of Education, China
@@ -77,7 +84,7 @@
       description: 500K RMB
     - title: The National Natural Science Foundation of China (Youth Project)
       year: 2024-2026
-      description: 300K RMB
+      description: No. 62302019, "Efficient Evolutionary Neural Architecture Search Methods for Student Cognitive Diagnosis Models in Intelligent Education", 300K RMB
     - title: The Postdoctoral Fellowship Program (Grade B), China Postdoctoral Science Foundation
       year: 2024-2026
       description: No. GZB20240002, 360K RMB
@@ -90,6 +97,16 @@
     - title: Anhui Province Key Laboratory of Intelligent Computing and Applications
       year: 2024-2025
       description: No. AFZNJS2024KF01, 50K RMB
+
+- title: Patents
+  type: time_table
+  contents:
+    - title: CN 118070884A, "A Multi-objective Based Neural Architecture Search Method" (一种基于多目标的神经架构搜索方法)
+      year: 2024
+      description: Filed Apr. 2024, published May 2024
+    - title: CN 118297130A, "A Knowledge Tracing Method Based on Transformer Neural Architecture Search" (一种基于Transformer神经架构搜索的知识追踪方法)
+      year: 2024
+      description: Filed Apr. 2024, published Jul. 2024
 
 - title: Reviewers
   type: nested_list
