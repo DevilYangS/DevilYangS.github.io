@@ -21,7 +21,7 @@ buttons:
   - label: Homepage
     url: /
     icon: "fa fa-home pr-1"
-abstract: <!-- TODO: paste the official abstract of this paper here -->
+abstract: ""
 bibtex: "@inproceedings{li2026trainable,
   title     = {Trainable Evolutionary Algorithms: A Reinforcement Learning Perspective on Algorithm Configuration},
   author    = {Li, Wenbiao and Yang*, Shangshang and Tian, Ye and Sheng, Zimo},

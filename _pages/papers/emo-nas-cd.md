@@ -27,7 +27,7 @@ buttons:
   - label: Homepage
     url: /
     icon: "fa fa-home pr-1"
-abstract: <!-- TODO: paste the official abstract of this paper here -->
+abstract: ""
 bibtex: "@article{yang2024emonascd,
   title   = {An Evolutionary Multi-Objective Neural Architecture Search Approach to Advancing Cognitive Diagnosis in Intelligent Education},
   author  = {Yang, Shangshang and Ma, Haiping and Bi, Ying and Tian, Ye and Zhang*, Limiao and Jin, Yaochu and Zhang*, Xingyi},
