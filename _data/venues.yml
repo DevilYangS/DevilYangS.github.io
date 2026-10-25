@@ -1,0 +1,50 @@
+"KDD":
+  url: https://kdd.org/
+  color: "#4284f3"
+
+"AAAI":
+  url: https://aaai.org/
+  color: "#b2123c"
+
+"IJCAI":
+  url: https://ijcai.org/
+  color: "#8c5bc4"
+
+"NeurIPS":
+  url: https://neurips.cc/
+  color: "#c8a24b"
+
+"SIGIR":
+  url: https://sigir.org/
+  color: "#e07a1f"
+
+"ICCV":
+  url: https://iccv.thecvf.com/
+  color: "#0f7b6c"
+
+"DOCS":
+  color: "#d04a4a"
+
+"TNNLS":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385
+  color: "#00629b"
+
+"TEVC":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4234
+  color: "#00629b"
+
+"TETCI":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7433293
+  color: "#00629b"
+
+"TCDS":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9739288
+  color: "#00629b"
+
+"TFS":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=91
+  color: "#00629b"
+
+"EAAI":
+  url: https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence
+  color: "#c97b1e"

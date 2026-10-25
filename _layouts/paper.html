@@ -1,0 +1,163 @@
+---
+---
+<!doctype html>
+<html lang="{{ site.lang }}">
+  <head>
+    {% include head.liquid %}
+    <style>
+      /* ---- Nerfies-style paper detail page ---- */
+      .paper-hero {
+        padding-top: 4.5rem;
+        padding-bottom: 1.5rem;
+        text-align: center;
+      }
+      .paper-hero h1 {
+        font-size: 2.1rem;
+        font-weight: 600;
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+      }
+      .paper-authors {
+        font-size: 1.05rem;
+        color: var(--global-text-color);
+      }
+      .paper-authors .me { font-weight: 600; }
+      .paper-authors sup { color: #d04a4a; }
+      .paper-affil {
+        margin-top: 0.6rem;
+        font-size: 1rem;
+        color: var(--global-text-color-muted, #666);
+      }
+      .paper-venue {
+        margin-top: 0.4rem;
+        font-size: 1rem;
+      }
+      .paper-venue .badge { font-size: 0.95rem; padding: 0.35em 0.7em; }
+      .paper-buttons {
+        margin-top: 1.2rem;
+      }
+      .paper-buttons .btn {
+        margin: 0.15rem 0.25rem;
+        border-radius: 0;
+        color: var(--global-text-color);
+        background-color: var(--global-bg-color);
+        border: 1px solid var(--global-text-color-light, #ccc);
+      }
+      .paper-buttons .btn:hover {
+        color: #fff;
+        background-color: var(--global-theme-color, #008cba);
+        border-color: var(--global-theme-color, #008cba);
+      }
+      .paper-teaser {
+        margin-top: 1.5rem;
+      }
+      .paper-teaser img {
+        width: 100%;
+        border-radius: 6px;
+        box-shadow: 0 2px 12px rgba(0, 0, 0, 0.12);
+      }
+      .paper-teaser .caption {
+        margin-top: 0.8rem;
+        font-size: 0.95rem;
+        color: var(--global-text-color-muted, #666);
+        text-align: center;
+      }
+      .paper-section {
+        margin-top: 3rem;
+        margin-bottom: 1rem;
+      }
+      .paper-section h2 {
+        font-size: 1.7rem;
+        font-weight: 600;
+        text-align: center;
+        margin-bottom: 1.5rem;
+      }
+      .paper-award-badge {
+        display: inline-block;
+        background: #d04a4a;
+        color: #fff;
+        border-radius: 4px;
+        padding: 0.3em 0.8em;
+        font-weight: 600;
+        margin-top: 0.6rem;
+      }
+      .bibtex-box {
+        background: var(--global-code-background-color, #f5f5f5);
+        border-radius: 6px;
+        padding: 1.2rem 1.4rem;
+        font-size: 0.85rem;
+        overflow-x: auto;
+        text-align: left;
+      }
+      .bibtex-box code { color: var(--global-text-color); }
+    </style>
+  </head>
+
+  <body class="{% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}">
+    {% include header.liquid %}
+
+    <main class="container" role="main">
+      <div class="paper-hero">
+        <h1>{{ page.paper_title }}</h1>
+
+        <div class="paper-authors">
+          {% for author in page.authors %}
+            {% if author.me %}<span class="me">{{ author.name }}<sup>*</sup></span>{% elsif author.star %}{{ author.name }}<sup>*</sup>{% else %}{{ author.name }}{% endif %}{% unless forloop.last %}, {% endunless %}
+          {% endfor %}
+        </div>
+
+        <div class="paper-affil">{{ page.affiliation }}</div>
+
+        <div class="paper-venue">
+          {% if page.venue %}<span class="badge badge-primary" style="background-color: var(--global-theme-color, #008cba); color: #fff;">{{ page.venue }}</span>{% endif %}
+        </div>
+
+        {% if page.award %}
+          <div><span class="paper-award-badge">🏆 {{ page.award }}</span></div>
+        {% endif %}
+
+        <div class="paper-buttons">
+          {% for btn in page.buttons %}
+            <a class="btn" href="{{ btn.url }}" target="_blank" rel="noopener">
+              {% if btn.icon %}<i class="{{ btn.icon }}" style="padding-right: 4px;"></i>{% endif %}{{ btn.label }}
+            </a>
+          {% endfor %}
+        </div>
+      </div>
+
+      {% if page.teaser %}
+        <div class="paper-teaser">
+          {% include figure.liquid path=page.teaser class="img-fluid" alt="paper teaser" zoomable=true %}
+          {% if page.teaser_caption %}
+            <div class="caption">{{ page.teaser_caption }}</div>
+          {% endif %}
+        </div>
+      {% endif %}
+
+      {% if page.abstract %}
+        <div class="paper-section">
+          <h2>Abstract</h2>
+          <div class="text-justify">{{ page.abstract }}</div>
+        </div>
+      {% endif %}
+
+      {{ content }}
+
+      {% if page.bibtex %}
+        <div class="paper-section">
+          <h2>BibTeX</h2>
+          <div class="bibtex-box"><code>{{ page.bibtex | xml_escape }}</code></div>
+        </div>
+      {% endif %}
+    </main>
+
+    {% include footer.liquid %}
+    {% include scripts/jquery.liquid %}
+    {% include scripts/bootstrap.liquid %}
+    {% include scripts/leaflet.liquid %}
+    {% include scripts/manifold.liquid %}
+    {% include scripts/misc.liquid %}
+    {% include scripts/badges.liquid %}
+    {% include scripts/analytics.liquid %}
+  </body>
+</html>

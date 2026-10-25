@@ -1,0 +1,102 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Shangshang Yang (杨尚尚)
+    - name: Position
+      value: Associate Professor, Anhui University
+    - name: Email
+      value: yangshang0308@gmail.com
+    - name: Research Interests
+      value: AutoML, Evolutionary Computation, Intelligent Education
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Ph.D. in Computer Science and Technology
+      institution: Anhui University, China
+      year: 2017-2022
+      description:
+        - Visiting Ph.D. student at Bielefeld University, Germany (Mar. 2022 - Sep. 2022)
+    - title: B.E. in Network Engineering
+      institution: Anhui University, China
+      year: 2013-2017
+
+- title: Work Experience
+  type: time_table
+  contents:
+    - title: Associate Professor
+      institution: School of Computer Science and Technology, Anhui University
+      year: 2026-Present
+    - title: Research Assistant
+      institution: School of Computer Science and Technology, Anhui University
+      year: 2025-2026
+    - title: Research Assistant
+      institution: Hong Kong Polytechnic University
+      year: Jun. 2025 - Jul. 2025
+    - title: Postdoctoral Researcher
+      institution: School of Artificial Intelligence, Anhui University
+      year: 2023-2025
+    - title: Intern-researcher
+      institution: Tencent Technology (Beijing) Co., Ltd
+      year: Jul. 2021 - Aug. 2021
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2026
+      items:
+        - Best Paper Award, DOCS 2026
+        - Best Reviewer Award, KDD 2026
+        - Gold Reviewer Award, ICML 2026
+    - year: 2025
+      items:
+        - 2025 Postdoctoral Research Performance Assessment (Tier 2, Top 5%), China Postdoctoral Science Foundation
+        - First Prize, IEEE CEC 2025 competitions (C04, C06, C07); Second Runner-Up, C10
+    - year: 2024
+      items:
+        - Winner, Large-scale Multiobjective Optimization Competition, IEEE WCCI 2024
+        - Bronze Award, 2024 China International College Students' 'Internet+' Competition
+        - Postdoctoral Fellowship Program (Grade B), China Postdoctoral Science Foundation
+    - year: 2023
+      items:
+        - Best Paper, DOCS 2023
+        - Winner, Large-scale Continuous Optimization Competition, IEEE CEC 2023
+    - year: 2022
+      items:
+        - Best Poster Paper, 2022 Annual Conference of Anhui Artificial Intelligence Society
+    - year: 2019
+      items:
+        - National Scholarship for Postgraduate, Ministry of Education, China
+
+- title: Fundings
+  type: time_table
+  contents:
+    - title: The National Natural Science Foundation of China (General Project)
+      year: 2027-2030
+      description: 500K RMB
+    - title: The National Natural Science Foundation of China (Youth Project)
+      year: 2024-2026
+      description: 300K RMB
+    - title: The Postdoctoral Fellowship Program (Grade B), China Postdoctoral Science Foundation
+      year: 2024-2026
+      description: No. GZB20240002, 360K RMB
+    - title: 2025 Postdoctoral Research Performance Assessment (Tier 2), China Postdoctoral Science Foundation
+      year: 2025-2026
+      description: No. YJB20250190, 60K RMB
+    - title: The China Postdoctoral Science Foundation (74th Batch of General Funding)
+      year: 2023-2025
+      description: 80K RMB
+    - title: Anhui Province Key Laboratory of Intelligent Computing and Applications
+      year: 2024-2025
+      description: No. AFZNJS2024KF01, 50K RMB
+
+- title: Reviewers
+  type: nested_list
+  contents:
+    - title: Journals
+      items:
+        - IEEE TPAMI, IJCV, TNNLS, JAS, TEVC, TETCI, TCSS, TOIS, TAI, TSNE
+    - title: Conferences
+      items:
+        - IJCAI, SIGIR, SIGKDD, ICML, ICLR, NeurIPS, ACM MM, AAAI, WWW

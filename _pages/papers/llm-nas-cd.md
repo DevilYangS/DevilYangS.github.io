@@ -1,0 +1,39 @@
+---
+layout: paper
+permalink: /papers/llm-nas-cd/
+nav: false
+paper_title: "Large Language Model-assisted Evolutionary Neural Architecture Search for Cognitive Diagnosis"
+authors:
+  - name: Shangshang Yang
+    me: true
+  - name: Linrui Qin
+  - name: Xiaoshan Yu
+  - name: Ziwen Wang
+  - name: Ye Tian
+    star: true
+  - name: Xueming Yan
+  - name: Haiping Ma
+  - name: Xingyi Zhang
+affiliation: "IEEE Transactions on Emerging Topics in Computational Intelligence, 2026"
+venue: "TETCI 2026"
+teaser: /assets/img/publication_preview/LLM-NAS-CD.jpg
+buttons:
+  - label: Paper
+    url: https://doi.org/10.1109/TETCI.2026.3683785
+    icon: "fa fa-file-pdf pr-1"
+  - label: Code
+    url: https://github.com/BIMK/Intelligent-Education/tree/main/LLM-NAS-CD
+    icon: "fab fa-github pr-1"
+  - label: Homepage
+    url: /
+    icon: "fa fa-home pr-1"
+abstract: >
+  Neural architecture search (NAS) has made remarkable progress in various field tasks and is also used in fields like cognitive diagnosis (CD) in intelligent education. Due to the optimization challenges of the tree-like and variable-length model topology raised by the search space, existing NAS for CD intuitively uses evolutionary algorithms and empirically develops a genetic operator based on basic tree modifications. Nevertheless, the operator's stochastic nature may impede rapid convergence, as the choice of modifications is random and ignores parent information, thereby failing to generate effective models from most parents. To this end, this paper proposes a novel evolutionary NAS approach for CD based on a tailored genetic operator, where the operator incorporates powerful large language models (LLMs) as its key components for tree-encoded model generation. Specifically, three roles of LLMs are defined in the LLM-assisted operator through structured prompt engineering that explicitly defines the LLM's role, constrains the architecture representation, standardizes the output format, and incorporates Hall-of-Fame guidance. The first LLM focuses on exploitation, enhancing model performance through minor incremental adjustments to existing architectures, the second emphasizes exploration, introducing innovative models through creative combinations that have not been previously considered, and the third aims at balancing the contributions of the first two, ensuring a harmonious integration of exploitation and exploration. In each generation, only one role of LLMs is used through an LLM role-switching strategy. Additionally, the empirically-built genetic operator is also employed for partial models' generation for better diversity. Experiments on several datasets show the performance superiority of models searched by the proposed approach over handcrafted models and automatically-designed models. Besides, the effectiveness of the LLM-assisted operator in accelerating algorithm convergence is validated.
+bibtex: "@article{yang2026llmnascd,
+  title   = {Large Language Model-assisted Evolutionary Neural Architecture Search for Cognitive Diagnosis},
+  author  = {Yang, Shangshang and Qin, Linrui and Yu, Xiaoshan and Wang, Ziwen and Tian*, Ye and Yan, Xueming and Ma, Haiping and Zhang, Xingyi},
+  journal = {IEEE Transactions on Emerging Topics in Computational Intelligence},
+  year    = {2026},
+  doi     = {10.1109/TETCI.2026.3683785}
+}"
+---
