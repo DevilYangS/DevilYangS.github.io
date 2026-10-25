@@ -625,6 +625,3 @@ third_party_libraries:
 # -----------------------------------------------------------------------------
 
 # (resume.json import removed - CV page uses _data/cv.yml instead)
-  - languages
-  - interests
-  - references
