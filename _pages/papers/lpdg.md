@@ -23,6 +23,9 @@ buttons:
   - label: Paper
     url: https://dl.acm.org/doi/10.1145/3711896.3737021
     icon: "fa fa-file-pdf pr-1"
+  - label: Code
+    url: https://github.com/BIMK/Intelligent-Education/tree/main/LPDG
+    icon: "fab fa-github pr-1"
   - label: Homepage
     url: /
     icon: "fa fa-home pr-1"

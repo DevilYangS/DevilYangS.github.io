@@ -23,6 +23,9 @@ buttons:
   - label: Paper
     url: https://dl.acm.org/doi/10.1145/3726302.3730072
     icon: "fa fa-file-pdf pr-1"
+  - label: Code
+    url: https://github.com/sherklock/Intelligent-Education/tree/main/HashCAT-main
+    icon: "fab fa-github pr-1"
   - label: Homepage
     url: /
     icon: "fa fa-home pr-1"

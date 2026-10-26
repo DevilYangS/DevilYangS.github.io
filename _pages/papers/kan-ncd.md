@@ -22,6 +22,9 @@ buttons:
   - label: Paper
     url: https://www.ijcai.org/proceedings/2025/878
     icon: "fa fa-file-pdf pr-1"
+  - label: Code
+    url: https://github.com/null233QAQ/KAN2CD
+    icon: "fab fa-github pr-1"
   - label: Homepage
     url: /
     icon: "fa fa-home pr-1"

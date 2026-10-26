@@ -12,6 +12,9 @@ authors:
 affiliation: "IEEE Transactions on Fuzzy Systems, 2019"
 venue: "TFS 2019"
 buttons:
+  - label: PDF
+    url: /assets/pdf/tian2019evolutionary.pdf
+    icon: "fa fa-file-pdf pr-1"
   - label: Paper
     url: https://ieeexplore.ieee.org/abstract/document/8855008
     icon: "fa fa-file-pdf pr-1"
@@ -57,14 +60,18 @@ bibtex: >-
 
 ## Method
 
+![Optimization process of EMOFM](/assets/img/paper_method/tian2019evolutionary.jpg){: .img-fluid .shadow-sm .rounded }
+
 EMOFM encodes community centers as individuals and evolves them under multiple objectives that trade off cohesion and separation of fuzzy partitions; membership degrees between nodes and the evolved centers then yield overlapping communities, with per-node thresholds adapted during the search.
 
 ## Experimental Results
 
-**Compared algorithms:** Six state-of-the-art overlapping community detection approaches.
+![Average gNMI on 72 LFR networks](/assets/img/paper_results/tian2019evolutionary.jpg){: .img-fluid .shadow-sm .rounded }
 
-**Datasets:** Synthetic and real-world networks of different scales.
+**Compared algorithms:** LMD, Zhang, NMF, IMOQPSO, MCMOEA, and MR-MOEA.
 
-**Metrics:** Overlapping community detection quality.
+**Datasets:** 72 synthetic LFR benchmark networks and real-world networks of different scales.
+
+**Metrics:** Overlapping community detection quality (gNMI).
 
 **Overall results:** EMOFM obtains the best results on most test instances (code at github.com/DevilYangS/EMOFM).

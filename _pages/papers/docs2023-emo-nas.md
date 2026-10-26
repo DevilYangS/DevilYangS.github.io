@@ -18,9 +18,15 @@ affiliation: "2023 International Conference on Data-driven Optimization of Compl
 venue: "DOCS 2023"
 teaser: /assets/img/publication_preview/docs2023.jpg
 buttons:
+  - label: PDF
+    url: /assets/pdf/yang2023generalized.pdf
+    icon: "fa fa-file-pdf pr-1"
   - label: Paper
     url: https://ieeexplore.ieee.org/abstract/document/10294588/
     icon: "fa fa-file-pdf pr-1"
+  - label: Code
+    url: https://github.com/BIMK/Intelligent-Education/tree/main/NAS-GCD
+    icon: "fab fa-github pr-1"
   - label: Homepage
     url: /
     icon: "fa fa-home pr-1"
@@ -61,14 +67,18 @@ bibtex: >-
 
 ## Method
 
+![The overview of the proposed NAS-GCD](/assets/img/paper_method/yang2023generalized.jpg){: .img-fluid .shadow-sm .rounded }
+
 A multi-objective evolutionary algorithm searches the proposed space, evaluating each candidate architecture on several datasets with different learning behaviors; the aggregated performance objectives drive the search toward architectures that generalize beyond a single dataset.
 
 ## Experimental Results
 
-**Compared algorithms:** Handcrafted cognitive diagnosis models.
+![Performance comparison on ASSISTment2009 and ASSISTment2012](/assets/img/paper_results/yang2023generalized.jpg){: .img-fluid .shadow-sm .rounded }
 
-**Datasets:** Multiple datasets covering diverse learning behaviors.
+**Compared algorithms:** Handcrafted cognitive diagnosis models (DINA, IRT, MIRT, NeuralCDM, RCD).
 
-**Metrics:** Cross-dataset diagnosis performance.
+**Datasets:** ASSISTment2009 and ASSISTment2012 (results averaged over 10 runs).
 
-**Overall results:** The searched generalized CDMs achieve better cross-dataset performance than handcrafted models; the paper won the Best Paper Award of DOCS 2023.
+**Metrics:** ACC, RMSE, and AUC of diagnosis.
+
+**Overall results:** The searched NAS-GCD-best achieves the best results on nearly all metrics across both datasets, showing strong cross-dataset generalization over handcrafted models; the paper won the Best Paper Award of DOCS 2023.

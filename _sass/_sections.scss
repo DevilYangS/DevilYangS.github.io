@@ -148,6 +148,15 @@ li.award-item.has-cert:hover .cert-hint { color: var(--global-theme-color); }
 }
 .fund-note { font-size: 0.80rem; }
 .fund-note::before { content: "\00b7  "; }
+.fund-badge.ongoing { color: #1a9c6b; }
+.fund-badge.completed { color: #8a94a6; }
+.fund-cn {
+  display: block;
+  margin-top: 0.1rem;
+  font-size: 0.80rem;
+  font-style: normal;
+  color: var(--global-text-color-light);
+}
 .patent-inventors b { color: var(--global-highlight-color); font-weight: 700; }
 /* ===== 专利：第一发明人突出 + 申请号 ===== */
 .patent-item.lead {
@@ -292,7 +301,12 @@ li.award-item.has-cert:hover .cert-hint { color: var(--global-theme-color); }
 .profile-link .ai-orcid { color: #a6ce39; }
 
 /* ===== 专利号外链 ===== */
-a.patent-no { text-decoration: none !important; }
+a.patent-no {
+  text-decoration: none !important;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  font-size: 0.78rem;
+  font-weight: 600;
+}
 a.patent-no i {
   font-size: 0.58rem;
   opacity: 0.5;

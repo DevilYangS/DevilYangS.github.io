@@ -21,6 +21,9 @@ buttons:
   - label: Paper
     url: https://ieeexplore.ieee.org/abstract/document/10378532
     icon: "fa fa-file-pdf pr-1"
+  - label: Code
+    url: https://github.com/xuke225/EQ-Net
+    icon: "fab fa-github pr-1"
   - label: Homepage
     url: /
     icon: "fa fa-home pr-1"

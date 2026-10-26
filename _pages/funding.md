@@ -15,75 +15,86 @@ description: Research grants and invention patents.
 
   <div class="fund-item">
     <div class="fund-head">
-      <span class="fund-name">National Natural Science Foundation of China &middot; General Project</span>
-      <span class="fund-amount">¥500K</span>
+      <span class="fund-name">National Natural Science Foundation of China &middot; General Program (面上项目)</span>
+      <span class="fund-amount">&yen;500K</span>
     </div>
+    <div class="fund-project">&ldquo;Adaptive Generation of Evolutionary Algorithms for Complex Optimization Problems via Problem-Representation Alignment Learning&rdquo;<span class="fund-cn">面向复杂优化问题基于问题表征对齐学习的进化算法自适应生成方法</span></div>
     <div class="fund-meta">
       <span class="fund-badge national">National</span>
-      <span class="fund-period">2027 &ndash; 2030</span>
+      <span class="fund-grant">No. 62672004</span>
+      <span class="fund-period">2027-01 &ndash; 2030-12</span>
+      <span class="fund-badge ongoing">Ongoing</span>
       <span>Principal Investigator</span>
     </div>
   </div>
 
   <div class="fund-item">
     <div class="fund-head">
-      <span class="fund-name">National Natural Science Foundation of China &middot; Youth Project</span>
-      <span class="fund-amount">¥300K</span>
+      <span class="fund-name">National Natural Science Foundation of China &middot; Young Scientists Fund (Class C, formerly Youth Science Fund)</span>
+      <span class="fund-amount">&yen;300K</span>
     </div>
-    <div class="fund-project">&ldquo;Efficient Evolutionary Neural Architecture Search Methods for Student Cognitive Diagnosis Models in Intelligent Education&rdquo;</div>
+    <div class="fund-project">&ldquo;Efficient Evolutionary Neural Architecture Search Methods for Student Cognitive Diagnosis Models in Intelligent Education&rdquo;<span class="fund-cn">面向智慧教育学生认知诊断模型的高效进化神经结构搜索方法</span></div>
     <div class="fund-meta">
       <span class="fund-badge national">National</span>
-      <span class="fund-grant">No. 62302019</span>
-      <span class="fund-period">2024 &ndash; 2026</span>
+      <span class="fund-grant">No. 62302010</span>
+      <span class="fund-period">2024-01 &ndash; 2026-12</span>
+      <span class="fund-badge ongoing">Ongoing</span>
+      <span>Principal Investigator</span>
     </div>
   </div>
 
   <div class="fund-item">
     <div class="fund-head">
       <span class="fund-name">Postdoctoral Fellowship Program (Grade B) &middot; China Postdoctoral Science Foundation</span>
-      <span class="fund-amount">¥360K</span>
+      <span class="fund-amount">&yen;360K</span>
     </div>
     <div class="fund-meta">
       <span class="fund-badge postdoc">Postdoctoral</span>
       <span class="fund-grant">No. GZB20240002</span>
       <span class="fund-period">2024 &ndash; 2026</span>
-      <span class="fund-note">≈1000 awardees nationwide (≈500 Grade A)</span>
+      <span class="fund-badge ongoing">Ongoing</span>
+      <span class="fund-note">&asymp;1000 awardees nationwide (&asymp;500 Grade A)</span>
     </div>
   </div>
 
   <div class="fund-item">
     <div class="fund-head">
-      <span class="fund-name">China Postdoctoral Science Foundation &middot; 74th Batch of General Funding</span>
-      <span class="fund-amount">¥80K</span>
+      <span class="fund-name">China Postdoctoral Science Foundation &middot; 74th Batch General Program (面上资助)</span>
+      <span class="fund-amount">&yen;80K</span>
     </div>
+    <div class="fund-project">&ldquo;Evolutionary Automatic Design of Cognitive Diagnosis Models for Multiple Scenarios in Intelligent Education&rdquo;<span class="fund-cn">智慧教育多类型场景的认知诊断模型进化自动设计方法</span></div>
     <div class="fund-meta">
       <span class="fund-badge postdoc">Postdoctoral</span>
-      <span class="fund-period">2023 &ndash; 2025</span>
-      <span class="fund-note">success rate ≈17%</span>
+      <span class="fund-grant">No. 2023M740015</span>
+      <span class="fund-period">2023-11 &ndash; 2025-10</span>
+      <span class="fund-badge completed">Completed</span>
+      <span class="fund-note">success rate &asymp;17%</span>
     </div>
   </div>
 
   <div class="fund-item">
     <div class="fund-head">
       <span class="fund-name">2025 Postdoctoral Research Performance Assessment (Tier 2, Top 5%) &middot; China Postdoctoral Science Foundation</span>
-      <span class="fund-amount">¥60K</span>
+      <span class="fund-amount">&yen;60K</span>
     </div>
     <div class="fund-meta">
       <span class="fund-badge postdoc">Postdoctoral</span>
       <span class="fund-grant">No. YJB20250190</span>
       <span class="fund-period">2025 &ndash; 2026</span>
+      <span class="fund-badge completed">Awarded</span>
     </div>
   </div>
 
   <div class="fund-item">
     <div class="fund-head">
-      <span class="fund-name">Anhui Province Key Laboratory of Intelligent Computing and Applications</span>
-      <span class="fund-amount">¥50K</span>
+      <span class="fund-name">Open Project of Anhui Province Key Laboratory of Intelligent Computing and Applications</span>
+      <span class="fund-amount">&yen;50K</span>
     </div>
     <div class="fund-meta">
       <span class="fund-badge provincial">Provincial</span>
       <span class="fund-grant">No. AFZNJS2024KF01</span>
       <span class="fund-period">2024 &ndash; 2025</span>
+      <span class="fund-badge completed">Completed</span>
     </div>
   </div>
 
@@ -96,11 +107,9 @@ description: Research grants and invention patents.
 <div class="patent-list">
 
   <div class="patent-item">
-    <div class="patent-head">
-      <span class="patent-title">A Reinforcement-Learning-Assisted Evolutionary Algorithm for Parameter Optimization in Algorithm Configuration<span class="patent-cn">一种用于算法配置中的参数优化的强化学习辅助进化算法</span></span>
-      <a class="patent-no" href="https://patents.google.com/patent/CN121745144A/zh" target="_blank" rel="noopener" title="View CN121745144A on Google Patents">CN 121745144 A <i class="fa-solid fa-up-right-from-square"></i></a>
-    </div>
+    <span class="patent-title">A Reinforcement-Learning-Assisted Evolutionary Algorithm for Parameter Optimization in Algorithm Configuration<span class="patent-cn">一种用于算法配置中的参数优化的强化学习辅助进化算法</span></span>
     <div class="patent-meta">
+      <a class="patent-no" href="https://patents.google.com/patent/CN121745144A/zh" target="_blank" rel="noopener" title="View CN121745144A on Google Patents">CN 121745144 A <i class="fa-solid fa-up-right-from-square"></i></a>
       <span class="patent-badge published">Published</span>
       <span class="patent-inventors">X. Zhang, Z. Yang, <b>S. Yang</b></span>
       <span class="patent-appno">202511813036.6</span>
@@ -109,11 +118,9 @@ description: Research grants and invention patents.
   </div>
 
   <div class="patent-item">
-    <div class="patent-head">
-      <span class="patent-title">Architecture Search for General Cognitive Diagnosis Models Based on Evolutionary Multi-Task Optimization<span class="patent-cn">基于进化多任务优化的通用认知诊断模型架构搜索方法</span></span>
-      <a class="patent-no" href="https://patents.google.com/patent/CN120449994A/zh" target="_blank" rel="noopener" title="View CN120449994A on Google Patents">CN 120449994 A <i class="fa-solid fa-up-right-from-square"></i></a>
-    </div>
+    <span class="patent-title">Architecture Search for General Cognitive Diagnosis Models Based on Evolutionary Multi-Task Optimization<span class="patent-cn">基于进化多任务优化的通用认知诊断模型架构搜索方法</span></span>
     <div class="patent-meta">
+      <a class="patent-no" href="https://patents.google.com/patent/CN120449994A/zh" target="_blank" rel="noopener" title="View CN120449994A on Google Patents">CN 120449994 A <i class="fa-solid fa-up-right-from-square"></i></a>
       <span class="patent-badge published">Published</span>
       <span class="patent-inventors">X. Zhang, L. Qin, <b>S. Yang</b></span>
       <span class="patent-appno">202510385961.7</span>
@@ -122,11 +129,9 @@ description: Research grants and invention patents.
   </div>
 
   <div class="patent-item">
-    <div class="patent-head">
-      <span class="patent-title">A Cognitive Diagnosis Method Based on Imbalance-Aware Heterogeneous Graph Learning<span class="patent-cn">基于不平衡感知的异构图学习的认知诊断方法</span></span>
-      <a class="patent-no" href="https://patents.google.com/patent/CN120144950A/zh" target="_blank" rel="noopener" title="View CN120144950A on Google Patents">CN 120144950 A <i class="fa-solid fa-up-right-from-square"></i></a>
-    </div>
+    <span class="patent-title">A Cognitive Diagnosis Method Based on Imbalance-Aware Heterogeneous Graph Learning<span class="patent-cn">基于不平衡感知的异构图学习的认知诊断方法</span></span>
     <div class="patent-meta">
+      <a class="patent-no" href="https://patents.google.com/patent/CN120144950A/zh" target="_blank" rel="noopener" title="View CN120144950A on Google Patents">CN 120144950 A <i class="fa-solid fa-up-right-from-square"></i></a>
       <span class="patent-badge published">Published</span>
       <span class="patent-inventors">X. Zhang, J. Li, <b>S. Yang</b>, X. Yu, H. Ma</span>
       <span class="patent-appno">202510198137.0</span>
@@ -135,11 +140,9 @@ description: Research grants and invention patents.
   </div>
 
   <div class="patent-item lead">
-    <div class="patent-head">
-      <span class="patent-title">A Knowledge Tracing Method Based on Transformer Neural Architecture Search<span class="patent-cn">一种基于 Transformer 神经架构搜索的知识追踪方法</span></span>
-      <a class="patent-no" href="https://patents.google.com/patent/CN118297130A/zh" target="_blank" rel="noopener" title="View CN118297130A on Google Patents">CN 118297130 A <i class="fa-solid fa-up-right-from-square"></i></a>
-    </div>
+    <span class="patent-title">A Knowledge Tracing Method Based on Transformer Neural Architecture Search<span class="patent-cn">一种基于 Transformer 神经架构搜索的知识追踪方法</span></span>
     <div class="patent-meta">
+      <a class="patent-no" href="https://patents.google.com/patent/CN118297130A/zh" target="_blank" rel="noopener" title="View CN118297130A on Google Patents">CN 118297130 A <i class="fa-solid fa-up-right-from-square"></i></a>
       <span class="patent-badge first">First Inventor</span>
       <span class="patent-badge published">Published</span>
       <span class="patent-inventors"><b>S. Yang</b>, L. Qin, X. Yu, H. Ma, Y. Tian</span>
@@ -149,11 +152,9 @@ description: Research grants and invention patents.
   </div>
 
   <div class="patent-item lead">
-    <div class="patent-head">
-      <span class="patent-title">A Multi-Objective Based Neural Architecture Search Method<span class="patent-cn">一种基于多目标的神经架构搜索方法</span></span>
-      <a class="patent-no" href="https://patents.google.com/patent/CN118070884A/zh" target="_blank" rel="noopener" title="View CN118070884A on Google Patents">CN 118070884 A <i class="fa-solid fa-up-right-from-square"></i></a>
-    </div>
+    <span class="patent-title">A Multi-Objective Based Neural Architecture Search Method<span class="patent-cn">一种基于多目标的神经架构搜索方法</span></span>
     <div class="patent-meta">
+      <a class="patent-no" href="https://patents.google.com/patent/CN118070884A/zh" target="_blank" rel="noopener" title="View CN118070884A on Google Patents">CN 118070884 A <i class="fa-solid fa-up-right-from-square"></i></a>
       <span class="patent-badge first">First Inventor</span>
       <span class="patent-badge published">Published</span>
       <span class="patent-inventors"><b>S. Yang</b>, M. Chen, X. Yu, H. Ma, Y. Tian</span>
@@ -163,11 +164,9 @@ description: Research grants and invention patents.
   </div>
 
   <div class="patent-item">
-    <div class="patent-head">
-      <span class="patent-title">A Distance-Aware Knowledge Tracing Method<span class="patent-cn">一种基于距离感知的知识追踪方法</span></span>
-      <a class="patent-no" href="https://patents.google.com/patent/CN117933301A/zh" target="_blank" rel="noopener" title="View CN117933301A on Google Patents">CN 117933301 A <i class="fa-solid fa-up-right-from-square"></i></a>
-    </div>
+    <span class="patent-title">A Distance-Aware Knowledge Tracing Method<span class="patent-cn">一种基于距离感知的知识追踪方法</span></span>
     <div class="patent-meta">
+      <a class="patent-no" href="https://patents.google.com/patent/CN117933301A/zh" target="_blank" rel="noopener" title="View CN117933301A on Google Patents">CN 117933301 A <i class="fa-solid fa-up-right-from-square"></i></a>
       <span class="patent-badge published">Published</span>
       <span class="patent-inventors">M. Cao, H. Ma, <b>S. Yang</b>, X. Zhang</span>
       <span class="patent-appno">202410121052.8</span>
@@ -176,11 +175,9 @@ description: Research grants and invention patents.
   </div>
 
   <div class="patent-item">
-    <div class="patent-head">
-      <span class="patent-title">A Knowledge Tracing Method for Student Ability Representation Based on Knowledge Spillover Effects<span class="patent-cn">一种基于知识溢出效应的学生能力表征的知识追踪方法</span></span>
-      <a class="patent-no" href="https://patents.google.com/patent/CN117574955A/zh" target="_blank" rel="noopener" title="View CN117574955A on Google Patents">CN 117574955 A <i class="fa-solid fa-up-right-from-square"></i></a>
-    </div>
+    <span class="patent-title">A Knowledge Tracing Method for Student Ability Representation Based on Knowledge Spillover Effects<span class="patent-cn">一种基于知识溢出效应的学生能力表征的知识追踪方法</span></span>
     <div class="patent-meta">
+      <a class="patent-no" href="https://patents.google.com/patent/CN117574955A/zh" target="_blank" rel="noopener" title="View CN117574955A on Google Patents">CN 117574955 A <i class="fa-solid fa-up-right-from-square"></i></a>
       <span class="patent-badge published">Published</span>
       <span class="patent-inventors">H. Ma, Z. Wang, <b>S. Yang</b>, H. Zhang, X. Zhang</span>
       <span class="patent-appno">202311565634.7</span>
@@ -189,11 +186,9 @@ description: Research grants and invention patents.
   </div>
 
   <div class="patent-item">
-    <div class="patent-head">
-      <span class="patent-title">An Image Recognition Method Based on a Gradient-Guided Evolutionary Algorithm<span class="patent-cn">一种基于梯度引导的进化算法的图像识别方法</span></span>
-      <a class="patent-no" href="https://patents.google.com/patent/CN114220127A/zh" target="_blank" rel="noopener" title="View CN114220127A on Google Patents">CN 114220127 A <i class="fa-solid fa-up-right-from-square"></i></a>
-    </div>
+    <span class="patent-title">An Image Recognition Method Based on a Gradient-Guided Evolutionary Algorithm<span class="patent-cn">一种基于梯度引导的进化算法的图像识别方法</span></span>
     <div class="patent-meta">
+      <a class="patent-no" href="https://patents.google.com/patent/CN114220127A/zh" target="_blank" rel="noopener" title="View CN114220127A on Google Patents">CN 114220127 A <i class="fa-solid fa-up-right-from-square"></i></a>
       <span class="patent-badge granted">Granted</span>
       <span class="patent-inventors">Y. Tian, Z. Shi, <b>S. Yang</b>, X. Zhang</span>
       <span class="patent-appno">202111639517.1</span>

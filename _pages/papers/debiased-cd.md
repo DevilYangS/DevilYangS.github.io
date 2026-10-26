@@ -21,6 +21,9 @@ buttons:
   - label: Paper
     url: https://ojs.aaai.org/index.php/AAAI/article/view/39981
     icon: "fa fa-file-pdf pr-1"
+  - label: Code
+    url: https://github.com/sherklock/Intelligent-Education/tree/main/DBCD
+    icon: "fab fa-github pr-1"
   - label: Homepage
     url: /
     icon: "fa fa-home pr-1"
