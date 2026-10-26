@@ -16,6 +16,9 @@ affiliation: "Engineering Applications of Artificial Intelligence, 2019"
 venue: "EAAI 2019"
 teaser: /assets/img/publication_preview/zhang2019indexed.jpg
 buttons:
+  - label: Paper
+    url: https://doi.org/10.1016/j.engappai.2018.09.009
+    icon: "fa fa-file-pdf pr-1"
   - label: Homepage
     url: /
     icon: "fa fa-home pr-1"
@@ -43,6 +46,7 @@ bibtex: >-
     volume   = {77},
     pages   = {9--20},
     year    = {2019},
+    doi     = {10.1016/j.engappai.2018.09.009}
   }
 ---
 
@@ -54,8 +58,12 @@ bibtex: >-
 
 ## Method
 
+![Framework of the proposed method](/assets/img/publication_preview/zhang2019indexed.jpg){: .img-fluid .shadow-sm .rounded }
+
 ISR-MOEA encodes a complete top-k pattern set as one individual using an indexed set representation, and evolves a population under the conflicting objectives of total utility and coverage, returning a Pareto front of diversified recommendation sets.
 
 ## Experimental Results
 
-On six real-world and two synthetic datasets, ISR-MOEA mines pattern sets with clearly higher diversity at comparable utility than single-objective top-k miners, improving user satisfaction in recommendation.
+![Main experimental results](/assets/img/paper_results/zhang2019indexed.jpg){: .img-fluid .shadow-sm .rounded }
+
+Table 3 compares hyper-volume (HV) on 8 datasets against TKO, TKO-Greedy, PSO-Miner, SSDP-Miner, BGSA-Miner, and ISR variants of SPEA2/NSGA2. ISR-MOEA obtains the best HV on almost all datasets, confirming that the indexed set representation with a diversity objective mines more diversified top-k pattern sets.

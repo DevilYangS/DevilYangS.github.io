@@ -14,6 +14,7 @@ authors:
   - name: Xingyi Zhang
 affiliation: "Proceedings of the Fortieth AAAI Conference on Artificial Intelligence (AAAI), 2026"
 venue: "AAAI 2026"
+teaser: /assets/img/publication_preview/yu2026peoat.jpg
 buttons:
   - label: Paper
     url: https://ojs.aaai.org/index.php/AAAI/article/view/40022
@@ -60,8 +61,12 @@ bibtex: >-
 
 ## Method
 
+![Framework of the proposed method](/assets/img/publication_preview/yu2026peoat.jpg){: .img-fluid .shadow-sm .rounded }
+
 PEOAT formulates the selection of the fixed item set as an optimization problem and employs an evolutionary algorithm whose search is guided by personalization signals derived from examinee ability distributions, assembling a item set that covers diverse ability levels and maximizes overall assessment precision.
 
 ## Experimental Results
 
-Experiments show that PEOAT delivers markedly better assessment accuracy than non-adaptive and random baselines, and remains competitive with sequential CAT while eliminating the need for real-time item selection.
+![Main experimental results](/assets/img/paper_results/yu2026peoat.jpg){: .img-fluid .shadow-sm .rounded }
+
+On the JUNYI and PTADisc datasets, PEOAT is compared with heuristic baselines (RAND, MKLI, MAAT, BECAT) and data-driven baselines (BOCAT, NCAT, GMOCAT, UATS) in terms of ACC/AUC at question lengths from 5 to 20. PEOAT delivers the best performance in almost all settings, with average improvements of 7.74%/5.82% in AUC on JUNYI and 6.97%/5.62% in ACC on PTADisc over the second-best method.

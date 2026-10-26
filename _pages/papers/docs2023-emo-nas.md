@@ -60,6 +60,8 @@ bibtex: >-
 
 ## Method
 
+![Framework of the proposed method](/assets/img/publication_preview/docs2023.jpg){: .img-fluid .shadow-sm .rounded }
+
 A multi-objective evolutionary algorithm searches the proposed space, evaluating each candidate architecture on several datasets with different learning behaviors; the aggregated performance objectives drive the search toward architectures that generalize beyond a single dataset.
 
 ## Experimental Results

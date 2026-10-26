@@ -17,6 +17,9 @@ affiliation: "ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)
 venue: "KDD 2025"
 teaser: /assets/img/publication_preview/ma2025patterns.jpg
 buttons:
+  - label: Paper
+    url: https://dl.acm.org/doi/10.1145/3711896.3737021
+    icon: "fa fa-file-pdf pr-1"
   - label: Homepage
     url: /
     icon: "fa fa-home pr-1"
@@ -45,6 +48,7 @@ bibtex: >-
     booktitle = {ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)},
     pages   = {2031--2041},
     year    = {2025},
+    doi     = {10.1145/3711896.3737021}
   }
 ---
 
@@ -56,8 +60,12 @@ bibtex: >-
 
 ## Method
 
+![Framework of the proposed method](/assets/img/publication_preview/ma2025patterns.jpg){: .img-fluid .shadow-sm .rounded }
+
 LPDG first mines recurrent learning patterns from historical interaction sequences, then uses these patterns to guide a sequence regeneration model that synthesizes plausible student–exercise interactions, augmenting sparse training data with pattern-consistent samples.
 
 ## Experimental Results
 
-LPDG improves the prediction accuracy of various KT backbones on several real-world datasets, consistently outperforming model-centric baselines and data augmentation alternatives.
+![Main experimental results](/assets/img/paper_results/ma2025patterns.jpg){: .img-fluid .shadow-sm .rounded }
+
+On three real-world datasets, several mainstream KT backbones are evaluated with and without the proposed LPDG data generation. Plugging LPDG consistently improves prediction accuracy across all backbones and clearly outperforms other data-augmentation strategies, demonstrating the value of learning-pattern-guided training data.

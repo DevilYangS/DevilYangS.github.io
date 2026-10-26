@@ -64,6 +64,8 @@ bibtex: >-
 
 ## Method
 
+![Framework of the proposed method](/assets/img/publication_preview/EMO-NAS-CD.jpg){: .img-fluid .shadow-sm .rounded }
+
 The search space is defined over a general cognitive diagnosis model that accepts three types of inputs; a multi-objective evolutionary algorithm jointly optimizes diagnosis accuracy and model interpretability, returning a Pareto set of architectures from which practitioners can choose.
 
 ## Experimental Results

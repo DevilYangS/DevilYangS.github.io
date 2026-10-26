@@ -14,6 +14,7 @@ authors:
   - name: Ye Tian
 affiliation: "Proceedings of the 34th International Joint Conference on Artificial Intelligence (IJCAI), 2025"
 venue: "IJCAI 2025"
+teaser: /assets/img/publication_preview/yang2025kan.jpg
 buttons:
   - label: Paper
     url: https://www.ijcai.org/proceedings/2025/878
@@ -56,8 +57,12 @@ bibtex: >-
 
 ## Method
 
+![Framework of the proposed method](/assets/img/publication_preview/yang2025kan.jpg){: .img-fluid .shadow-sm .rounded }
+
 KANs replace the black-box MLPs in neural CDMs with learnable activation functions on edges, so that the contribution of each knowledge concept to the predicted response can be read off directly from the learned functions; two integration schemes cover both drop-in replacement and embedding-level processing.
 
 ## Experimental Results
 
-KAN2CD achieves comparable or better prediction accuracy than MLP-based neural CDMs on multiple datasets, while providing human-readable curves that explain how each concept proficiency affects the diagnosis outcome.
+![Main experimental results](/assets/img/paper_results/yang2025kan.jpg){: .img-fluid .shadow-sm .rounded }
+
+Table 1 reports overall comparison against four traditional models (IRT, MIRT, DINA, MF) and eight neural CDMs (NCD/NCD+, KaNCD/KaNCD+, RCD/RCD+, KSCD/KSCD+) on four datasets (Assistments, SLP, JunYi, FreSub) in AUC/ACC. KAN2CD-e ranks best or second-best on nearly all datasets while keeping the diagnosis process interpretable.

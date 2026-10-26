@@ -17,6 +17,9 @@ affiliation: "ACM SIGIR Conference on Research and Development in Information Re
 venue: "SIGIR 2025"
 teaser: /assets/img/publication_preview/yu2025enhancing.jpg
 buttons:
+  - label: Paper
+    url: https://dl.acm.org/doi/10.1145/3726302.3730022
+    icon: "fa fa-file-pdf pr-1"
   - label: Homepage
     url: /
     icon: "fa fa-home pr-1"
@@ -48,6 +51,7 @@ bibtex: >-
     booktitle = {ACM SIGIR Conference on Research and Development in Information Retrieval},
     pages   = {306--315},
     year    = {2025},
+    doi     = {10.1145/3726302.3730022}
   }
 ---
 
@@ -59,8 +63,12 @@ bibtex: >-
 
 ## Method
 
+![Framework of the proposed method](/assets/img/publication_preview/yu2025enhancing.jpg){: .img-fluid .shadow-sm .rounded }
+
 LIGHT first builds a composite concept graph combining prerequisite edges mined from curricula and collaborative edges learned from learner behaviors, then optimizes generated learning sequences against this topology so that recommended paths respect both conceptual dependencies and observed learning regularities.
 
 ## Experimental Results
 
-On real-world learning datasets LIGHT outperforms state-of-the-art learning path recommendation baselines in both recommendation effectiveness and post-learning performance of simulated learners.
+![Main experimental results](/assets/img/paper_results/yu2025enhancing.jpg){: .img-fluid .shadow-sm .rounded }
+
+Table 2 compares learning-path quality (LG) on ASSIST09, ASSIST12, and SLP-Math across path lengths 5-30, against rule-based (RAND, CLUSTER, RANK), RL-based (CSEAL, GEHRL), and sequence-based (GRU4Rec, SRC) baselines. LIGHT obtains the best LG scores in every dataset and length setting, indicating that topology-aware sequence optimization yields genuinely better learning paths.

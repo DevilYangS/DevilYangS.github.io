@@ -20,6 +20,9 @@ buttons:
   - label: Paper
     url: https://proceedings.neurips.cc/paper_files/paper/2023/hash/3e53d82a1113e3d240059a9195668edc-Abstract-Conference.html
     icon: "fa fa-file-pdf pr-1"
+  - label: Code
+    url: https://github.com/DevilYangS/ENAS-KT
+    icon: "fab fa-github pr-1"
   - label: Homepage
     url: /
     icon: "fa fa-home pr-1"
@@ -58,8 +61,12 @@ bibtex: >-
 
 ## Method
 
+![Framework of the proposed method](/assets/img/publication_preview/yang2023transformer.jpg){: .img-fluid .shadow-sm .rounded }
+
 A tailored search space treats input feature selection, convolution placement, and attention configuration as genes; an evolutionary algorithm searches over this space for KT architectures whose global attention captures long-term patterns while local convolutions capture recency/forgetting effects.
 
 ## Experimental Results
 
-The searched architectures consistently outperform manually designed Transformer KT models on multiple knowledge tracing datasets in AUC and accuracy.
+![Main experimental results](/assets/img/paper_results/yang2023transformer.jpg){: .img-fluid .shadow-sm .rounded }
+
+Table 3 compares AUC and model size on the EdNet dataset: ENAS-KT variants vs. CT-NCM, SAKT, AKT, SAINT/SAINT+, and NAS-Cell. The searched models reach 0.8021-0.8059 AUC, consistently above all handcrafted baselines while using far fewer parameters than SAINT+(more) (e.g., 2.5M vs. 4.9M).

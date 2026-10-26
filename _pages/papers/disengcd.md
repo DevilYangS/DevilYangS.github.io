@@ -20,6 +20,9 @@ buttons:
   - label: Paper
     url: https://proceedings.neurips.cc/paper_files/paper/2024/hash/a69d7f3a1340d55c720e572742439eaf-Abstract-Conference.html
     icon: "fa fa-file-pdf pr-1"
+  - label: Code
+    url: https://github.com/BIMK/Intelligent-Education/tree/main/DisenGCD
+    icon: "fab fa-github pr-1"
   - label: Homepage
     url: /
     icon: "fa fa-home pr-1"
@@ -61,8 +64,12 @@ bibtex: >-
 
 ## Method
 
+![Framework of the proposed method](/assets/img/publication_preview/yang2024disengcd.jpg){: .img-fluid .shadow-sm .rounded }
+
 DisenGCD first separates the interaction graph into three task-specific graphs, learns representations on each with dedicated graph neural networks, and uses a meta-learning scheme to fuse the exercise/concept representations into the student representation, so that lower-order information is fully exploited and noise in interactions is filtered out.
 
 ## Experimental Results
 
-DisenGCD achieves state-of-the-art diagnosis accuracy on multiple real-world datasets and shows markedly better robustness when interaction records are corrupted by noise.
+![Main experimental results](/assets/img/paper_results/yang2024disengcd.jpg){: .img-fluid .shadow-sm .rounded }
+
+The curves compare DisenGCD with the representative RCD model on the Math and SLP datasets as the interaction noise ratio increases from 1 to 50, in ACC/RMSE/AUC. DisenGCD degrades far more slowly and keeps a clear advantage under heavy noise; results on sparse interaction settings (Table 7) show the same trend.

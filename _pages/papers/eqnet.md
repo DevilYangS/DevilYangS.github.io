@@ -13,6 +13,7 @@ authors:
   - name: Xingyi Zhang
 affiliation: "Proceedings of the 2023 IEEE/CVF International Conference on Computer Vision (ICCV), 2023"
 venue: "ICCV 2023"
+teaser: /assets/img/publication_preview/xu2023eqnet.jpg
 buttons:
   - label: Paper
     url: https://ieeexplore.ieee.org/abstract/document/10378532
@@ -54,8 +55,12 @@ bibtex: >-
 
 ## Method
 
+![Framework of the proposed method](/assets/img/publication_preview/xu2023eqnet.jpg){: .img-fluid .shadow-sm .rounded }
+
 EQ-Net trains a single weight-sharing quantization supernet in which each sub-network can choose its own bit-width, quantization granularity, and symmetry; two regularization losses align the weight distributions and progressively guide sub-networks so that all quantization configurations remain accurate after a single training run.
 
 ## Experimental Results
 
-EQ-Net matches or exceeds separately-trained quantization models across multiple bit-widths and hardware-friendly configurations while requiring only one training procedure, delivering competitive ImageNet accuracy.
+![Main experimental results](/assets/img/paper_results/xu2023eqnet.jpg){: .img-fluid .shadow-sm .rounded }
+
+Table 2 compares EQ-Net with state-of-the-art quantization approaches (LSQ, EdMIPS, RobustQ, AutoPress, MultiQuant, HAQ) on ResNet18/50, MobileNetV2, and EfficientNetB0 over ImageNet Top-1 accuracy. EQ-Net delivers the best or comparable accuracy at every bit-width with a single training run, e.g., 67.6% Top-1 at 2-bit on ResNet18.

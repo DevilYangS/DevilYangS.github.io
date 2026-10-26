@@ -13,6 +13,7 @@ authors:
   - name: Xingyi Zhang
 affiliation: "Proceedings of the Fortieth AAAI Conference on Artificial Intelligence (AAAI), 2026"
 venue: "AAAI 2026"
+teaser: /assets/img/publication_preview/yang2026debiased.jpg
 buttons:
   - label: Paper
     url: https://ojs.aaai.org/index.php/AAAI/article/view/39981
@@ -60,8 +61,12 @@ bibtex: >-
 
 ## Method
 
+![Framework of the proposed method](/assets/img/publication_preview/yang2026debiased.jpg){: .img-fluid .shadow-sm .rounded }
+
 DBCD treats the biased observations as outcomes contaminated by confounders and constructs counterfactual representations of student responses; a contrastive learning objective over a variational autoencoder separates the genuine knowledge state from the missingness-induced bias, yielding unbiased knowledge mastery estimates.
 
 ## Experimental Results
 
-DBCD consistently improves diagnosis accuracy over strong baselines on real-world datasets with nonrandom missing responses, with the largest gains on student–exercise pairs most affected by selection and exposure bias.
+![Main experimental results](/assets/img/paper_results/yang2026debiased.jpg){: .img-fluid .shadow-sm .rounded }
+
+Table 4 compares DBCD with its CVIB variant and three strong neural CDMs (KaNCD, KSCD, HyperCD) on ASSIST09 and JUNYI, under Full/Random/Uniform item-difficulty conditions measured by ACC/AUC/RMSE. DBCD achieves the best results in almost all settings, confirming that removing nonrandom missingness bias leads to more reliable diagnosis.

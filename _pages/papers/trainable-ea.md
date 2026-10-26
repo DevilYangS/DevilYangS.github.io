@@ -14,6 +14,9 @@ affiliation: "The 8th International Conference on Data-driven Optimization of Co
 venue: "DOCS 2026"
 teaser: /assets/img/publication_preview/docs2026_best_paper.jpg
 buttons:
+  - label: PDF
+    url: https://github.com/DevilYangS/DevilYangS.github.io/raw/main/papers/trainable-evolutionary-algorithms.pdf
+    icon: "fa fa-file-pdf pr-1"
   - label: Homepage
     url: /
     icon: "fa fa-home pr-1"
@@ -49,8 +52,12 @@ bibtex: >-
 
 ## Method
 
+![Framework of the proposed method](/assets/img/publication_preview/docs2026_best_paper.jpg){: .img-fluid .shadow-sm .rounded }
+
 A Soft Actor-Critic (SAC) agent generates parameter configurations for NeuroEA — a neural-network-like modular evolutionary algorithm — while NeuroEA performs the optimization; in the static paradigm parameters are fixed before optimization starts, whereas the dynamic paradigm continuously updates them according to runtime search states.
 
 ## Experimental Results
 
-On BBOB and SOP benchmark problems the proposed framework effectively improves NeuroEA performance and achieves competitive results against representative optimization and configuration baselines.
+![Main experimental results](/assets/img/paper_results/li2026trainable.jpg){: .img-fluid .shadow-sm .rounded }
+
+Fig. 4 reports the generalization ranks of static vs. dynamically configured NeuroEA on seen and unseen BBOB functions: the SAC-based dynamic configuration (D-SAC) attains the best average rank on both. Together with the convergence results on five benchmark problems, the framework clearly improves NeuroEA over GA-based configuration and static baselines.

@@ -15,6 +15,9 @@ affiliation: "IEEE Transactions on Emerging Topics in Computational Intelligence
 venue: "TETCI 2019"
 teaser: /assets/img/publication_preview/tian2019surrogate.jpg
 buttons:
+  - label: Paper
+    url: https://ieeexplore.ieee.org/abstract/document/8482477
+    icon: "fa fa-file-pdf pr-1"
   - label: Homepage
     url: /
     icon: "fa fa-home pr-1"
@@ -52,8 +55,12 @@ bibtex: >-
 
 ## Method
 
+![Framework of the proposed method](/assets/img/publication_preview/tian2019surrogate.jpg){: .img-fluid .shadow-sm .rounded }
+
 Building on the framework of the previous multiobjective EA for task-oriented pattern mining, SMOEA trains an ensemble of RBF surrogate models to estimate the objectives of most offspring, and evaluates only a few selected solutions with the real objective function to update the surrogates.
 
 ## Experimental Results
 
-SMOEA achieves better efficiency than state-of-the-art algorithms on three task-oriented applications (goods match, investment portfolio, and print area recommendation), with runtime growing much more slowly as dataset size increases.
+![Main experimental results](/assets/img/paper_results/tian2019surrogate.jpg){: .img-fluid .shadow-sm .rounded }
+
+Fig. 4 shows the HV convergence profiles of the plain MOEA (MOPM) and its surrogate-assisted versions (SA-MOPM) on the transaction dataset with 500,000 records. The surrogate assistance accelerates convergence substantially and reaches higher final HV with far fewer real function evaluations.

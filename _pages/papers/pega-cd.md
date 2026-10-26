@@ -17,6 +17,9 @@ affiliation: "IEEE Transactions on Emerging Topics in Computational Intelligence
 venue: "TETCI 2023"
 teaser: /assets/img/publication_preview/yang2023assembly.jpg
 buttons:
+  - label: Paper
+    url: https://ieeexplore.ieee.org/abstract/document/10018283
+    icon: "fa fa-file-pdf pr-1"
   - label: Homepage
     url: /
     icon: "fa fa-home pr-1"
@@ -61,8 +64,12 @@ bibtex: >-
 
 ## Method
 
+![Framework of the proposed method](/assets/img/publication_preview/yang2023assembly.jpg){: .img-fluid .shadow-sm .rounded }
+
 Based on the diagnosed ability of each student, PEGA encodes candidate exercise groups as individuals and evolves them under constraints on group size and concept coverage; the evolutionary search returns a set of non-dominated exercise groups adapted to the student's proficiency.
 
 ## Experimental Results
 
-Compared with rule-based and single-objective baselines, PEGA assembles exercise groups whose difficulty better matches each student's ability, leading to improved learning efficiency in simulated practice.
+![Main experimental results](/assets/img/paper_results/yang2023assembly.jpg){: .img-fluid .shadow-sm .rounded }
+
+Fig. 7 visualizes the proportion of assembled exercises over knowledge concepts: the groups assembled by CoE-DCDP cover the concept space much more evenly than the CF baseline and compared EAs (whose distributions collapse onto few concepts), while runtime remains acceptable, demonstrating better novelty, diversity, and personalization.

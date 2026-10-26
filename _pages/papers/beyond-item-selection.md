@@ -16,6 +16,9 @@ affiliation: "ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)
 venue: "KDD 2026"
 teaser: /assets/img/publication_preview/yu2026beyond.jpg
 buttons:
+  - label: Paper
+    url: https://dl.acm.org/doi/abs/10.1145/3770855.3817615
+    icon: "fa fa-file-pdf pr-1"
   - label: Homepage
     url: /
     icon: "fa fa-home pr-1"
@@ -43,6 +46,7 @@ bibtex: >-
     author  = {Yu, Xiaoshan and Li, Jing and Yang*, Shangshang and Wang, Ziwen and Ma, Haiping and Zhang, Xingyi},
     booktitle = {ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)},
     year    = {2026},
+    doi     = {10.1145/3770855.3817615}
   }
 ---
 
@@ -54,8 +58,12 @@ bibtex: >-
 
 ## Method
 
+![Framework of the proposed method](/assets/img/publication_preview/yu2026beyond.jpg){: .img-fluid .shadow-sm .rounded }
+
 The paper models ability estimation as a continuously evolving process during adaptive testing, and compares update mechanisms of varying granularity — updating the ability estimate after each answered item (step-based) versus after a batch of items (batch-based) — analyzing how each strategy affects the convergence and precision of ability estimation.
 
 ## Experimental Results
 
-Experiments on assessment diagnosis tasks show that the choice of update mechanism significantly influences estimation accuracy, and the proposed analysis yields concrete recommendations that improve precision, particularly in the early stages of testing.
+![Main experimental results](/assets/img/paper_results/yu2026beyond.jpg){: .img-fluid .shadow-sm .rounded }
+
+Compared with representative ability-update baselines (In-Batch and MAAT) under four CDMs (MIRT, MAAT, NCD, BORAT) on the Chess and JUNYI datasets with ACC@5/10/20 metrics, the proposed SUAT achieves the best accuracy in almost all settings, showing that finer-grained ability updating translates directly into more precise adaptive testing.

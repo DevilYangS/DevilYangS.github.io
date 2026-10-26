@@ -17,6 +17,9 @@ affiliation: "ACM SIGIR Conference on Research and Development in Information Re
 venue: "SIGIR 2025"
 teaser: /assets/img/publication_preview/ma2025reconciling.jpg
 buttons:
+  - label: Paper
+    url: https://dl.acm.org/doi/10.1145/3726302.3730072
+    icon: "fa fa-file-pdf pr-1"
   - label: Homepage
     url: /
     icon: "fa fa-home pr-1"
@@ -56,6 +59,7 @@ bibtex: >-
     booktitle = {ACM SIGIR Conference on Research and Development in Information Retrieval},
     pages   = {1044--1054},
     year    = {2025},
+    doi     = {10.1145/3726302.3730072}
   }
 ---
 
@@ -67,8 +71,12 @@ bibtex: >-
 
 ## Method
 
+![Framework of the proposed method](/assets/img/publication_preview/ma2025reconciling.jpg){: .img-fluid .shadow-sm .rounded }
+
 An uncertainty-reduction hashing objective trains binary representations under which the expected information gain of candidate exercises is preserved; at test time the next exercise is retrieved via Hamming-distance lookup instead of exhaustively scoring the item bank.
 
 ## Experimental Results
 
-HashCAT matches or exceeds the assessment accuracy of state-of-the-art CAT approaches while reducing exercise selection time by an order of magnitude on large item banks.
+![Main experimental results](/assets/img/paper_results/ma2025reconciling.jpg){: .img-fluid .shadow-sm .rounded }
+
+Table 2 evaluates ACC/AUC and per-exercise selection latency on four public datasets (NIPS-2020, JUNYI, ASSIST2012, PTADISC), against statistical baselines (MKLI, MAAT, BECAT), data-driven baselines (GMOCAT, BOCAT, NCAT, UATS), and HashCAT variants. HashCAT achieves accuracy close to the best baselines while reducing exercise selection time by an order of magnitude; several baselines are even too slow to record at step-20.

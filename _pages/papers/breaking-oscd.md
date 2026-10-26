@@ -13,6 +13,7 @@ authors:
   - name: Xingyi Zhang
 affiliation: "ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026"
 venue: "KDD 2026"
+teaser: /assets/img/publication_preview/wang2026breaking.jpg
 buttons:
   - label: Paper
     url: https://dl.acm.org/doi/abs/10.1145/3770854.3780159
@@ -63,8 +64,12 @@ bibtex: >-
 
 ## Method
 
+![Framework of the proposed method](/assets/img/publication_preview/wang2026breaking.jpg){: .img-fluid .shadow-sm .rounded }
+
 OSCD trains a weight-sharing supernet of cognitive diagnosis models once, and then applies an evolutionary multi-objective search over the supernet to discover architectures that jointly optimize diagnosis accuracy and robustness against noisy response data.
 
 ## Experimental Results
 
-On benchmarks with noisy interaction data, the architectures searched by OSCD consistently outperform manually designed cognitive diagnosis models in both accuracy and robustness, while reducing the total search cost by orders of magnitude compared with conventional ENAS.
+![Main experimental results](/assets/img/paper_results/wang2026breaking.jpg){: .img-fluid .shadow-sm .rounded }
+
+On multiple real-world datasets with noisy responses, the architectures discovered by OSCD are compared with representative handcrafted CDMs and NAS baselines in terms of AUC and ACC. The searched models rank first or second in nearly every setting, and degrade markedly less than manually designed CDMs as the noise level grows.

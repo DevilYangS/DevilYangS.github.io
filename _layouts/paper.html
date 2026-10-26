@@ -153,15 +153,6 @@
         </div>
       </div>
 
-      {% if page.teaser %}
-        <div class="paper-teaser">
-          {% include figure.liquid path=page.teaser class="img-fluid" alt="paper teaser" zoomable=true %}
-          {% if page.teaser_caption %}
-            <div class="caption">{{ page.teaser_caption }}</div>
-          {% endif %}
-        </div>
-      {% endif %}
-
       {% if page.abstract %}
         <div class="paper-section">
           <h2>Abstract</h2>

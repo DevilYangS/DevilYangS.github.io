@@ -17,6 +17,9 @@ affiliation: "IEEE Transactions on Emerging Topics in Computational Intelligence
 venue: "TETCI 2024"
 teaser: /assets/img/publication_preview/yang2024hybrid.jpg
 buttons:
+  - label: Paper
+    url: https://ieeexplore.ieee.org/abstract/document/10541069
+    icon: "fa fa-file-pdf pr-1"
   - label: Homepage
     url: /
     icon: "fa fa-home pr-1"
@@ -59,8 +62,12 @@ bibtex: >-
 
 ## Method
 
+![Framework of the proposed method](/assets/img/publication_preview/yang2024hybrid.jpg){: .img-fluid .shadow-sm .rounded }
+
 HA-ENAS defines a search space in which a single network may contain both convolutional and self-attention blocks; a multi-objective evolutionary algorithm searches for architectures balancing clean accuracy and robustness under adversarial attacks.
 
 ## Experimental Results
 
-The evolved hybrid networks are significantly more robust than single-type CNN or ViT architectures against both white-box and transferred adversarial attacks, without sacrificing clean accuracy.
+![Main experimental results](/assets/img/paper_results/yang2024hybrid.jpg){: .img-fluid .shadow-sm .rounded }
+
+Fig. 7 plots the validation adversarial accuracy against clean accuracy of the evolved architectures. The best-found HA-Net achieves the most favorable robustness-accuracy trade-off compared with manually designed CNN/ViT hybrids and NAS baselines, and the block-composition analysis reveals a balanced mixture of conv and attention stages.

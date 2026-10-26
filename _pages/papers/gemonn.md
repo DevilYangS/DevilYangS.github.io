@@ -17,6 +17,9 @@ affiliation: "IEEE Transactions on Neural Networks and Learning Systems, 2021"
 venue: "TNNLS 2021"
 teaser: /assets/img/publication_preview/yang2021gradient.jpg
 buttons:
+  - label: Paper
+    url: https://ieeexplore.ieee.org/abstract/document/9369973
+    icon: "fa fa-file-pdf pr-1"
   - label: Homepage
     url: /
     icon: "fa fa-home pr-1"
@@ -56,8 +59,12 @@ bibtex: >-
 
 ## Method
 
+![Framework of the proposed method](/assets/img/publication_preview/yang2021gradient.jpg){: .img-fluid .shadow-sm .rounded }
+
 GEMONN maintains a population of weight vectors and, at each generation, uses back-propagated gradients to bias the variation operator: offspring weights are perturbed along gradient-informed directions while the population mechanism preserves diversity to escape local optima.
 
 ## Experimental Results
 
-GEMONN outperforms gradient descent, its variants, and pure evolutionary training on image classification benchmarks, achieving better final accuracy and more stable convergence across network depths.
+![Main experimental results](/assets/img/paper_results/yang2021gradient.jpg){: .img-fluid .shadow-sm .rounded }
+
+Fig. 16 reports mean CIFAR-10 test accuracy on four architectures (LeNet-5, LeNet-deeper, Vgg-8-variant, Cell-4NN) against SGD/Adam/RMSprop variants and pure EA training. GEMONN achieves the highest accuracy on all four architectures, validating the gradient-guided genetic operator.
