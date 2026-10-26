@@ -17,6 +17,9 @@ affiliation: "IEEE Transactions on Neural Networks and Learning Systems, 2021"
 venue: "TNNLS 2021"
 teaser: /assets/img/publication_preview/yang2021gradient.jpg
 buttons:
+  - label: PDF
+    url: /assets/pdf/yang2021gradient.pdf
+    icon: "fa fa-file-pdf pr-1"
   - label: Paper
     url: https://ieeexplore.ieee.org/abstract/document/9369973
     icon: "fa fa-file-pdf pr-1"
@@ -59,7 +62,7 @@ bibtex: >-
 
 ## Method
 
-![Framework of the proposed method](/assets/img/publication_preview/yang2021gradient.jpg){: .img-fluid .shadow-sm .rounded }
+![Framework of the proposed method](/assets/img/paper_method/yang2021gradient.jpg){: .img-fluid .shadow-sm .rounded }
 
 GEMONN maintains a population of weight vectors and, at each generation, uses back-propagated gradients to bias the variation operator: offspring weights are perturbed along gradient-informed directions while the population mechanism preserves diversity to escape local optima.
 

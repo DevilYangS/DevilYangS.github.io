@@ -1,6 +1,6 @@
 ---
 layout: page
-title: fundings & patents
+title: Fundings & Patents
 permalink: /funding/
 nav: true
 nav_order: 4

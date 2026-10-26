@@ -17,6 +17,9 @@ affiliation: "Advances in Neural Information Processing Systems 36 (NeurIPS), 20
 venue: "NeurIPS 2023"
 teaser: /assets/img/publication_preview/yang2023transformer.jpg
 buttons:
+  - label: PDF
+    url: /assets/pdf/yang2023transformer.pdf
+    icon: "fa fa-file-pdf pr-1"
   - label: Paper
     url: https://proceedings.neurips.cc/paper_files/paper/2023/hash/3e53d82a1113e3d240059a9195668edc-Abstract-Conference.html
     icon: "fa fa-file-pdf pr-1"
@@ -61,7 +64,7 @@ bibtex: >-
 
 ## Method
 
-![Framework of the proposed method](/assets/img/publication_preview/yang2023transformer.jpg){: .img-fluid .shadow-sm .rounded }
+![Framework of the proposed method](/assets/img/paper_method/yang2023transformer.jpg){: .img-fluid .shadow-sm .rounded }
 
 A tailored search space treats input feature selection, convolution placement, and attention configuration as genes; an evolutionary algorithm searches over this space for KT architectures whose global attention captures long-term patterns while local convolutions capture recency/forgetting effects.
 

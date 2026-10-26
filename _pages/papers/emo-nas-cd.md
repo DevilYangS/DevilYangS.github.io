@@ -18,6 +18,9 @@ affiliation: "IEEE Transactions on Evolutionary Computation, 2024"
 venue: "TEVC 2024"
 teaser: /assets/img/publication_preview/EMO-NAS-CD.jpg
 buttons:
+  - label: PDF
+    url: /assets/pdf/yang2024emonascd.pdf
+    icon: "fa fa-file-pdf pr-1"
   - label: Paper
     url: https://ieeexplore.ieee.org/abstract/document/10599558/
     icon: "fa fa-file-pdf pr-1"
@@ -64,7 +67,7 @@ bibtex: >-
 
 ## Method
 
-![Framework of the proposed method](/assets/img/publication_preview/EMO-NAS-CD.jpg){: .img-fluid .shadow-sm .rounded }
+![Framework of the proposed method](/assets/img/paper_method/yang2024emonascd.jpg){: .img-fluid .shadow-sm .rounded }
 
 The search space is defined over a general cognitive diagnosis model that accepts three types of inputs; a multi-objective evolutionary algorithm jointly optimizes diagnosis accuracy and model interpretability, returning a Pareto set of architectures from which practitioners can choose.
 

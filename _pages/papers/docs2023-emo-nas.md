@@ -25,6 +25,7 @@ buttons:
     url: /
     icon: "fa fa-home pr-1"
 award: Best Paper
+award_img: /assets/img/awards/docs2023_best_paper.jpg
 abstract: >
   Cognitive diagnosis models (CDMs) with high generalization are essential for intelligent
   education systems to reveal students' knowledge states in multiple datasets. However, existing
@@ -59,8 +60,6 @@ bibtex: >-
 - Automatically designs CDM architectures with high generalization across datasets.
 
 ## Method
-
-![Framework of the proposed method](/assets/img/publication_preview/docs2023.jpg){: .img-fluid .shadow-sm .rounded }
 
 A multi-objective evolutionary algorithm searches the proposed space, evaluating each candidate architecture on several datasets with different learning behaviors; the aggregated performance objectives drive the search toward architectures that generalize beyond a single dataset.
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: awards
+title: Awards
 permalink: /awards/
 nav: true
 nav_order: 5
@@ -8,12 +8,10 @@ nav_order: 5
 
 <div class="post">
 
-<h3>Honors and Awards</h3>
-
 <div class="award-group">
   <div class="award-year">2026</div>
   <ul class="award-list">
-    <li class="award-item has-cert" data-img="/assets/img/awards/docs2026_best_paper.jpg"><span class="award-rank">Best Paper Award</span> &mdash; <span class="award-org">DOCS 2026</span><span class="award-tag paper">Paper Award</span><span class="cert-hint"><i class="far fa-images"></i></span></li>
+    <li class="award-item has-cert" data-img="/assets/img/awards/docs2026_best_paper.jpg"><span class="award-rank">Best Paper Award</span> &mdash; <span class="award-org">DOCS 2026</span><span class="award-tag paper">Paper Award</span><span class="cert-hint"><i class="far fa-images"></i></span><div class="award-paper">&ldquo;Trainable Evolutionary Algorithms: A Reinforcement Learning Perspective on Algorithm Configuration&rdquo; &mdash; W. Li, <b>S. Yang</b>, Y. Tian, Z. Sheng &middot; The 8th International Conference on Data-driven Optimization of Complex Systems, Aug. 2026</div></li>
     <li><span class="award-rank">Best Reviewer Award</span> &mdash; <span class="award-org">KDD 2026</span><span class="award-tag paper">Reviewer Award</span></li>
     <li><span class="award-rank">Gold Reviewer Award</span> &mdash; <span class="award-org">ICML 2026</span><span class="award-tag paper">Reviewer Award</span></li>
     <li class="award-item has-cert" data-img="/assets/img/awards/wcci2026_gnbg.jpg"><span class="award-rank">Joint First Winner</span> &mdash; <span class="award-org">GNBG-III Numerical Global Optimization Competition</span>, IEEE WCCI 2026<span class="award-tag comp">Competition</span><span class="cert-hint"><i class="far fa-images"></i></span></li>
@@ -47,7 +45,7 @@ nav_order: 5
 <div class="award-group">
   <div class="award-year">2023</div>
   <ul class="award-list">
-    <li class="award-item has-cert" data-img="/assets/img/awards/docs2023_best_paper.jpg"><span class="award-rank">Best Paper</span> &mdash; <span class="award-org">DOCS 2023</span><span class="award-tag paper">Paper Award</span><span class="cert-hint"><i class="far fa-images"></i></span></li>
+    <li class="award-item has-cert" data-img="/assets/img/awards/docs2023_best_paper.jpg"><span class="award-rank">Best Paper</span> &mdash; <span class="award-org">DOCS 2023</span><span class="award-tag paper">Paper Award</span><span class="cert-hint"><i class="far fa-images"></i></span><div class="award-paper">&ldquo;Evolutionary Multi-Objective Neural Architecture Search for Generalized Cognitive Diagnosis Models&rdquo; &mdash; <b>S. Yang</b>, C. Zhen, Y. Tian, H. Ma, Y. Liu, P. Zhang, X. Zhang &middot; 2023 International Conference on Data-driven Optimization of Complex Systems, 2023</div></li>
     <li class="award-item has-cert" data-img="/assets/img/awards/cec2023_winner.jpg"><span class="award-rank">Winner</span> &mdash; <span class="award-org">Large-scale Continuous Optimization for Non-contact Measurement (MO Optimization)</span>, IEEE CEC 2023<span class="award-tag comp">Competition</span><span class="cert-hint"><i class="far fa-images"></i></span></li>
   </ul>
 </div>
@@ -55,7 +53,7 @@ nav_order: 5
 <div class="award-group">
   <div class="award-year">2022</div>
   <ul class="award-list">
-    <li class="award-item has-cert" data-img="/assets/img/awards/ahsai2022_poster.jpg"><span class="award-rank">Best Poster Paper</span> &mdash; <span class="award-org">2022 Annual Conference of Anhui Artificial Intelligence Society</span><span class="award-tag paper">Paper Award</span><span class="cert-hint"><i class="far fa-images"></i></span></li>
+    <li class="award-item has-cert" data-img="/assets/img/awards/ahsai2022_poster.jpg"><span class="award-rank">Best Poster Paper</span> &mdash; <span class="award-org">2022 Annual Conference of Anhui Artificial Intelligence Society</span><span class="award-tag paper">Paper Award</span><span class="cert-hint"><i class="far fa-images"></i></span><div class="award-paper">&ldquo;Accelerating Evolutionary Neural Architecture Search via Multi-Fidelity Evaluation&rdquo; &mdash; <b>S. Yang</b>, Y. Tian, X. Xiang, S. Peng, X. Zhang &middot; Dec. 2022 (journal version: IEEE TCDS, 14(4): 1778&ndash;1792)</div></li>
     <li class="award-item has-cert" data-img="/assets/img/awards/anhui2022_silver.jpg"><span class="award-rank">Silver Award</span> &mdash; <span class="award-org">8th Anhui Province &ldquo;Internet+&rdquo; College Students&rsquo; Innovation and Entrepreneurship Competition</span> <span class="award-level provincial">Provincial Level</span> <span class="award-note">(as advisor)</span><span class="award-tag advisor">Student Competition</span><span class="cert-hint"><i class="far fa-images"></i></span></li>
   </ul>
 </div>

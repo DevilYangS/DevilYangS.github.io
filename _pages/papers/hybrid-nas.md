@@ -17,6 +17,9 @@ affiliation: "IEEE Transactions on Emerging Topics in Computational Intelligence
 venue: "TETCI 2024"
 teaser: /assets/img/publication_preview/yang2024hybrid.jpg
 buttons:
+  - label: PDF
+    url: /assets/pdf/yang2024hybrid.pdf
+    icon: "fa fa-file-pdf pr-1"
   - label: Paper
     url: https://ieeexplore.ieee.org/abstract/document/10541069
     icon: "fa fa-file-pdf pr-1"
@@ -62,7 +65,7 @@ bibtex: >-
 
 ## Method
 
-![Framework of the proposed method](/assets/img/publication_preview/yang2024hybrid.jpg){: .img-fluid .shadow-sm .rounded }
+![Framework of the proposed method](/assets/img/paper_method/yang2024hybrid.jpg){: .img-fluid .shadow-sm .rounded }
 
 HA-ENAS defines a search space in which a single network may contain both convolutional and self-attention blocks; a multi-objective evolutionary algorithm searches for architectures balancing clean accuracy and robustness under adversarial attacks.
 

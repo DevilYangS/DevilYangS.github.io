@@ -16,6 +16,9 @@ affiliation: "ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)
 venue: "KDD 2026"
 teaser: /assets/img/publication_preview/yu2026beyond.jpg
 buttons:
+  - label: PDF
+    url: /assets/pdf/yu2026beyond.pdf
+    icon: "fa fa-file-pdf pr-1"
   - label: Paper
     url: https://dl.acm.org/doi/abs/10.1145/3770855.3817615
     icon: "fa fa-file-pdf pr-1"
@@ -58,7 +61,7 @@ bibtex: >-
 
 ## Method
 
-![Framework of the proposed method](/assets/img/publication_preview/yu2026beyond.jpg){: .img-fluid .shadow-sm .rounded }
+![Framework of the proposed method](/assets/img/paper_method/yu2026beyond.jpg){: .img-fluid .shadow-sm .rounded }
 
 The paper models ability estimation as a continuously evolving process during adaptive testing, and compares update mechanisms of varying granularity — updating the ability estimate after each answered item (step-based) versus after a batch of items (batch-based) — analyzing how each strategy affects the convergence and precision of ability estimation.
 

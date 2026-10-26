@@ -21,7 +21,7 @@
         font-size: 1.05rem;
         color: var(--global-text-color);
       }
-      .paper-authors .me { font-weight: 600; }
+      .paper-authors .me { font-weight: 700; }
       .paper-authors sup { color: #d04a4a; }
       .paper-affil {
         margin-top: 0.6rem;
@@ -142,6 +142,12 @@
 
         {% if page.award %}
           <div><span class="paper-award-badge">🏆 {{ page.award }}</span></div>
+        {% endif %}
+
+        {% if page.award_img %}
+        <a href="{{ page.award_img }}" target="_blank">
+          <img src="{{ page.award_img }}" alt="Award certificate" class="img-fluid rounded shadow-sm" style="max-width: 460px; margin: 0.6rem 0;">
+        </a>
         {% endif %}
 
         <div class="paper-buttons">

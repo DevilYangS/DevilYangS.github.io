@@ -1,6 +1,6 @@
 ---
 layout: page
-title: invited talks
+title: Invited Talks
 permalink: /talks/
 nav: true
 nav_order: 6
@@ -47,6 +47,9 @@ ul.timeline li.timeline-item .timeline-marker { position: absolute; left: -0.5re
       <a href="https://ieeexplore.ieee.org/abstract/document/10599558/" target="_blank">[Paper]</a>
       <a href="https://www.bilibili.com/video/BV1934y1P7vd/" target="_blank">[Video]</a>
     </p>
+    <a href="https://www.bilibili.com/video/BV1934y1P7vd/" target="_blank" title="Watch on Bilibili">
+      <img src="{{ '/assets/img/nice2023_title.jpg' | relative_url }}" alt="Title slide of the NICE Seminar talk" class="img-fluid rounded shadow-sm" style="max-width: 640px; margin: 0.5rem 0;">
+    </a>
   </li>
 
 </ul>

@@ -17,6 +17,9 @@ affiliation: "Proceedings of the Thirty-Eighth AAAI Conference on Artificial Int
 venue: "AAAI 2024"
 teaser: /assets/img/publication_preview/ma2024enhancing.jpg
 buttons:
+  - label: PDF
+    url: /assets/pdf/ma2024enhancing.pdf
+    icon: "fa fa-file-pdf pr-1"
   - label: Paper
     url: https://ojs.aaai.org/index.php/AAAI/article/view/28735
     icon: "fa fa-file-pdf pr-1"
@@ -58,7 +61,7 @@ bibtex: >-
 
 ## Method
 
-![Framework of the proposed method](/assets/img/publication_preview/ma2024enhancing.jpg){: .img-fluid .shadow-sm .rounded }
+![Framework of the proposed method](/assets/img/paper_method/ma2024enhancing.jpg){: .img-fluid .shadow-sm .rounded }
 
 CMES mines collaborative relations between exercises, samples informative un-interacted exercises connected to a student's answered ones, and mixes them with the observed responses during training, so that knowledge concepts lacking direct interactions still receive supervised signals.
 

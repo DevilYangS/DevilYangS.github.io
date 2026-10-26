@@ -16,6 +16,9 @@ affiliation: "Engineering Applications of Artificial Intelligence, 2019"
 venue: "EAAI 2019"
 teaser: /assets/img/publication_preview/zhang2019indexed.jpg
 buttons:
+  - label: PDF
+    url: /assets/pdf/zhang2019indexed.pdf
+    icon: "fa fa-file-pdf pr-1"
   - label: Paper
     url: https://doi.org/10.1016/j.engappai.2018.09.009
     icon: "fa fa-file-pdf pr-1"
@@ -58,7 +61,7 @@ bibtex: >-
 
 ## Method
 
-![Framework of the proposed method](/assets/img/publication_preview/zhang2019indexed.jpg){: .img-fluid .shadow-sm .rounded }
+![Framework of the proposed method](/assets/img/paper_method/zhang2019indexed.jpg){: .img-fluid .shadow-sm .rounded }
 
 ISR-MOEA encodes a complete top-k pattern set as one individual using an indexed set representation, and evolves a population under the conflicting objectives of total utility and coverage, returning a Pareto front of diversified recommendation sets.
 

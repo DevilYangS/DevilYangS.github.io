@@ -16,6 +16,9 @@ affiliation: "Proceedings of the Fortieth AAAI Conference on Artificial Intellig
 venue: "AAAI 2026"
 teaser: /assets/img/publication_preview/yu2026peoat.jpg
 buttons:
+  - label: PDF
+    url: /assets/pdf/yu2026peoat.pdf
+    icon: "fa fa-file-pdf pr-1"
   - label: Paper
     url: https://ojs.aaai.org/index.php/AAAI/article/view/40022
     icon: "fa fa-file-pdf pr-1"
@@ -61,7 +64,7 @@ bibtex: >-
 
 ## Method
 
-![Framework of the proposed method](/assets/img/publication_preview/yu2026peoat.jpg){: .img-fluid .shadow-sm .rounded }
+![Framework of the proposed method](/assets/img/paper_method/yu2026peoat.jpg){: .img-fluid .shadow-sm .rounded }
 
 PEOAT formulates the selection of the fixed item set as an optimization problem and employs an evolutionary algorithm whose search is guided by personalization signals derived from examinee ability distributions, assembling a item set that covers diverse ability levels and maximizes overall assessment precision.
 

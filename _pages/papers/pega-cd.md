@@ -17,6 +17,9 @@ affiliation: "IEEE Transactions on Emerging Topics in Computational Intelligence
 venue: "TETCI 2023"
 teaser: /assets/img/publication_preview/yang2023assembly.jpg
 buttons:
+  - label: PDF
+    url: /assets/pdf/yang2023assembly.pdf
+    icon: "fa fa-file-pdf pr-1"
   - label: Paper
     url: https://ieeexplore.ieee.org/abstract/document/10018283
     icon: "fa fa-file-pdf pr-1"
@@ -64,7 +67,7 @@ bibtex: >-
 
 ## Method
 
-![Framework of the proposed method](/assets/img/publication_preview/yang2023assembly.jpg){: .img-fluid .shadow-sm .rounded }
+![Framework of the proposed method](/assets/img/paper_method/yang2023assembly.jpg){: .img-fluid .shadow-sm .rounded }
 
 Based on the diagnosed ability of each student, PEGA encodes candidate exercise groups as individuals and evolves them under constraints on group size and concept coverage; the evolutionary search returns a set of non-dominated exercise groups adapted to the student's proficiency.
 

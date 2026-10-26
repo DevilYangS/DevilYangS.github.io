@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Associate Professor at <a href='https://cs.ahu.edu.cn/'>School of Computer Science and Technology</a>, <a href='https://www.ahu.edu.cn/'>Anhui University</a>
 
@@ -36,16 +36,16 @@ My research interests include automated machine learning, neural architecture se
     <i class="ai ai-google-scholar"></i> Google Scholar
   </a>
   <a class="scholar-stat" href="https://scholar.google.com.hk/citations?user=arzbiNUAAAAJ&amp;hl=en" target="_blank" rel="noopener" title="Total citations on Google Scholar">
-    <span class="v">1,325</span><span class="k">Citations</span>
+    <span class="v">{{ site.data.scholar_metrics.citations | default: "1,325" }}</span><span class="k">Citations</span>
   </a>
   <a class="scholar-stat" href="https://scholar.google.com.hk/citations?user=arzbiNUAAAAJ&amp;hl=en" target="_blank" rel="noopener" title="h-index on Google Scholar">
-    <span class="v">22</span><span class="k">h-index</span>
+    <span class="v">{{ site.data.scholar_metrics.h_index | default: 22 }}</span><span class="k">h-index</span>
   </a>
   <a class="scholar-stat" href="https://scholar.google.com.hk/citations?user=arzbiNUAAAAJ&amp;hl=en" target="_blank" rel="noopener" title="i10-index on Google Scholar">
-    <span class="v">32</span><span class="k">i10-index</span>
+    <span class="v">{{ site.data.scholar_metrics.i10_index | default: 32 }}</span><span class="k">i10-index</span>
   </a>
 </div>
-<p class="scholar-note">Google Scholar metrics as of Oct. 2026 &middot; 1,301 citations since 2021.</p>
+<p class="scholar-note">Google Scholar metrics as of {{ site.data.scholar_metrics.last_updated | default: "Oct. 26, 2026" }} &middot; {{ site.data.scholar_metrics.citations_since | default: "1,301" }} citations since 2021. Auto-refreshed periodically.</p>
 
 <div class="profile-links" markdown="0">
   <a class="profile-link" href="https://orcid.org/0000-0003-0837-5424" target="_blank" rel="noopener" title="ORCID iD: 0000-0003-0837-5424">
@@ -78,6 +78,22 @@ My research interests include automated machine learning, neural architecture se
 - **Ph.D.**: *Sep. 2017 - Dec. 2022*, Computer Science and Technology, Anhui University
 - **Visiting Ph.D.**: *Mar. 2022 - Sep. 2022*, Bielefeld University, Germany
 - **B.E.**: *Sep. 2013 - Jun. 2017*, Network Engineering, Anhui University
+
+<span class='anchor' id='mambo'></span>
+## 🚀 Mambo Research Group
+
+<div class="mambo-intro" markdown="0">
+  <a href="https://github.com/MamboAuto" target="_blank" rel="noopener" class="mambo-logo-link">
+    <img src="{{ '/assets/img/mambo_logo.png' | relative_url }}" alt="Mambo Research Group logo" class="mambo-logo">
+  </a>
+  <p>
+    I am a member of <a href="https://bimk.ahu.edu.cn/main.htm" target="_blank">BIMK</a> (Institute of Artificial Intelligence, Anhui University) and the leader of the <b>Mambo Research Group</b> (曼波课题组, <i>MamboML&amp;Opt</i>).
+    The group focuses on <b>machine learning &amp; optimization</b> — including evolutionary computation, neural architecture search, and trustworthy intelligent education — and open-sources its work on
+    <a href="https://github.com/MamboAuto" target="_blank" rel="noopener">GitHub <i class="fa-brands fa-github"></i></a>
+    (e.g., <a href="https://github.com/MamboAuto/FedCD" target="_blank">FedCD</a>, <a href="https://github.com/MamboAuto/NeuroEA-RL" target="_blank">NeuroEA-RL</a>).
+    Prospective students interested in these directions are welcome to reach out by email.
+  </p>
+</div>
 
 <span class='anchor' id='work-experience'></span>
 ## 💼 Work Experience

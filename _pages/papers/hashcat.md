@@ -17,6 +17,9 @@ affiliation: "ACM SIGIR Conference on Research and Development in Information Re
 venue: "SIGIR 2025"
 teaser: /assets/img/publication_preview/ma2025reconciling.jpg
 buttons:
+  - label: PDF
+    url: /assets/pdf/ma2025reconciling.pdf
+    icon: "fa fa-file-pdf pr-1"
   - label: Paper
     url: https://dl.acm.org/doi/10.1145/3726302.3730072
     icon: "fa fa-file-pdf pr-1"
@@ -71,7 +74,7 @@ bibtex: >-
 
 ## Method
 
-![Framework of the proposed method](/assets/img/publication_preview/ma2025reconciling.jpg){: .img-fluid .shadow-sm .rounded }
+![Framework of the proposed method](/assets/img/paper_method/ma2025reconciling.jpg){: .img-fluid .shadow-sm .rounded }
 
 An uncertainty-reduction hashing objective trains binary representations under which the expected information gain of candidate exercises is preserved; at test time the next exercise is retrieved via Hamming-distance lookup instead of exhaustively scoring the item bank.
 

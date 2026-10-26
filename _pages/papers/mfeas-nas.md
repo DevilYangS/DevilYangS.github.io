@@ -16,6 +16,9 @@ affiliation: "IEEE Transactions on Cognitive and Developmental Systems, 2022"
 venue: "TCDS 2022"
 teaser: /assets/img/publication_preview/yang2022accelerating.jpg
 buttons:
+  - label: PDF
+    url: /assets/pdf/yang2022accelerating.pdf
+    icon: "fa fa-file-pdf pr-1"
   - label: Paper
     url: https://ieeexplore.ieee.org/abstract/document/9786036
     icon: "fa fa-file-pdf pr-1"
@@ -23,6 +26,7 @@ buttons:
     url: /
     icon: "fa fa-home pr-1"
 award: Best Poster Paper
+award_img: /assets/img/awards/ahsai2022_poster.jpg
 abstract: >
   Evolutionary neural architecture search (ENAS) has recently received increasing attention by
   effectively ﬁnd- ing high-quality neural architectures, which however consumes high
@@ -61,7 +65,7 @@ bibtex: >-
 
 ## Method
 
-![Framework of the proposed method](/assets/img/publication_preview/yang2022accelerating.jpg){: .img-fluid .shadow-sm .rounded }
+![Framework of the proposed method](/assets/img/paper_method/yang2022accelerating.jpg){: .img-fluid .shadow-sm .rounded }
 
 Instead of fully training every individual, MFENAS evaluates architectures at low fidelity (few epochs) and uses a selection mechanism that promotes individuals whose early-training performance indicates high final quality; only the most promising architectures are trained at higher fidelity.
 

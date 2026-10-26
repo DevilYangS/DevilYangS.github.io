@@ -301,3 +301,26 @@ a.patent-no i {
 }
 a.patent-no:hover { text-decoration: underline !important; }
 a.patent-no:hover i { opacity: 0.95; }
+
+/* ===== 奖项对应论文的完整信息行 ===== */
+.award-paper {
+  margin: 0.18rem 0 0.1rem;
+  font-size: 0.86rem;
+  line-height: 1.5;
+  color: var(--global-text-color-light);
+}
+.award-paper b { color: var(--global-highlight-color); }
+
+/* ===== Mambo 课题组介绍 ===== */
+.mambo-intro { display: flex; gap: 1.2rem; align-items: flex-start; }
+.mambo-logo-link { flex: 0 0 auto; }
+.mambo-logo {
+  width: 150px;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.12);
+  transition: transform 0.16s ease;
+}
+.mambo-logo:hover { transform: scale(1.03); }
+.mambo-intro p { margin: 0; line-height: 1.7; }
+@media (max-width: 575px) { .mambo-intro { flex-direction: column; } }

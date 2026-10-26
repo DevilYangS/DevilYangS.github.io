@@ -17,6 +17,9 @@ affiliation: "Advances in Neural Information Processing Systems 37 (NeurIPS), 20
 venue: "NeurIPS 2024"
 teaser: /assets/img/publication_preview/yang2024disengcd.jpg
 buttons:
+  - label: PDF
+    url: /assets/pdf/yang2024disengcd.pdf
+    icon: "fa fa-file-pdf pr-1"
   - label: Paper
     url: https://proceedings.neurips.cc/paper_files/paper/2024/hash/a69d7f3a1340d55c720e572742439eaf-Abstract-Conference.html
     icon: "fa fa-file-pdf pr-1"
@@ -64,7 +67,7 @@ bibtex: >-
 
 ## Method
 
-![Framework of the proposed method](/assets/img/publication_preview/yang2024disengcd.jpg){: .img-fluid .shadow-sm .rounded }
+![Framework of the proposed method](/assets/img/paper_method/yang2024disengcd.jpg){: .img-fluid .shadow-sm .rounded }
 
 DisenGCD first separates the interaction graph into three task-specific graphs, learns representations on each with dedicated graph neural networks, and uses a meta-learning scheme to fuse the exercise/concept representations into the student representation, so that lower-order information is fully exploited and noise in interactions is filtered out.
 

@@ -15,6 +15,9 @@ affiliation: "Proceedings of the Fortieth AAAI Conference on Artificial Intellig
 venue: "AAAI 2026"
 teaser: /assets/img/publication_preview/yang2026debiased.jpg
 buttons:
+  - label: PDF
+    url: /assets/pdf/yang2026debiased.pdf
+    icon: "fa fa-file-pdf pr-1"
   - label: Paper
     url: https://ojs.aaai.org/index.php/AAAI/article/view/39981
     icon: "fa fa-file-pdf pr-1"
@@ -61,7 +64,7 @@ bibtex: >-
 
 ## Method
 
-![Framework of the proposed method](/assets/img/publication_preview/yang2026debiased.jpg){: .img-fluid .shadow-sm .rounded }
+![Framework of the proposed method](/assets/img/paper_method/yang2026debiased.jpg){: .img-fluid .shadow-sm .rounded }
 
 DBCD treats the biased observations as outcomes contaminated by confounders and constructs counterfactual representations of student responses; a contrastive learning objective over a variational autoencoder separates the genuine knowledge state from the missingness-induced bias, yielding unbiased knowledge mastery estimates.
 

@@ -15,6 +15,9 @@ affiliation: "IEEE Transactions on Emerging Topics in Computational Intelligence
 venue: "TETCI 2019"
 teaser: /assets/img/publication_preview/tian2019surrogate.jpg
 buttons:
+  - label: PDF
+    url: /assets/pdf/tian2019surrogate.pdf
+    icon: "fa fa-file-pdf pr-1"
   - label: Paper
     url: https://ieeexplore.ieee.org/abstract/document/8482477
     icon: "fa fa-file-pdf pr-1"
@@ -55,7 +58,7 @@ bibtex: >-
 
 ## Method
 
-![Framework of the proposed method](/assets/img/publication_preview/tian2019surrogate.jpg){: .img-fluid .shadow-sm .rounded }
+![Framework of the proposed method](/assets/img/paper_method/tian2019surrogate.jpg){: .img-fluid .shadow-sm .rounded }
 
 Building on the framework of the previous multiobjective EA for task-oriented pattern mining, SMOEA trains an ensemble of RBF surrogate models to estimate the objectives of most offspring, and evaluates only a few selected solutions with the real objective function to update the surrogates.
 

@@ -17,6 +17,9 @@ affiliation: "ACM SIGIR Conference on Research and Development in Information Re
 venue: "SIGIR 2025"
 teaser: /assets/img/publication_preview/yu2025enhancing.jpg
 buttons:
+  - label: PDF
+    url: /assets/pdf/yu2025enhancing.pdf
+    icon: "fa fa-file-pdf pr-1"
   - label: Paper
     url: https://dl.acm.org/doi/10.1145/3726302.3730022
     icon: "fa fa-file-pdf pr-1"
@@ -63,7 +66,7 @@ bibtex: >-
 
 ## Method
 
-![Framework of the proposed method](/assets/img/publication_preview/yu2025enhancing.jpg){: .img-fluid .shadow-sm .rounded }
+![Framework of the proposed method](/assets/img/paper_method/yu2025enhancing.jpg){: .img-fluid .shadow-sm .rounded }
 
 LIGHT first builds a composite concept graph combining prerequisite edges mined from curricula and collaborative edges learned from learner behaviors, then optimizes generated learning sequences against this topology so that recommended paths respect both conceptual dependencies and observed learning regularities.
 

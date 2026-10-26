@@ -61,6 +61,19 @@ jobs:
           fi
           set -e
 
+      - name: Run aggregate metrics update script
+        shell: bash
+        run: |
+          set +e
+          timeout 120 python bin/update_scholar_metrics.py
+          status=$?
+          if [ $status -eq 0 ]; then
+            echo "✅ Scholar metrics update succeeded." >> $GITHUB_STEP_SUMMARY
+          else
+            echo "❌ Scholar metrics update failed (exit $status)." >> $GITHUB_STEP_SUMMARY
+          fi
+          set -e
+
       - name: Save new citations.yml hash
         id: after
         run: |
@@ -93,9 +106,9 @@ jobs:
 
       - name: Commit and push if changed
         run: |
-          git add _data/citations.yml
+          git add _data/citations.yml _data/scholar_metrics.yml
           git diff --staged --quiet || (
             echo "📤 Committing and pushing changes..."
-            git commit -m "Update Google Scholar citations"
+            git commit -m "Update Google Scholar citations and metrics"
             git push
           )

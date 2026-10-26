@@ -16,6 +16,9 @@ affiliation: "Proceedings of the 34th International Joint Conference on Artifici
 venue: "IJCAI 2025"
 teaser: /assets/img/publication_preview/yang2025kan.jpg
 buttons:
+  - label: PDF
+    url: /assets/pdf/yang2025kan.pdf
+    icon: "fa fa-file-pdf pr-1"
   - label: Paper
     url: https://www.ijcai.org/proceedings/2025/878
     icon: "fa fa-file-pdf pr-1"
@@ -57,7 +60,7 @@ bibtex: >-
 
 ## Method
 
-![Framework of the proposed method](/assets/img/publication_preview/yang2025kan.jpg){: .img-fluid .shadow-sm .rounded }
+![Framework of the proposed method](/assets/img/paper_method/yang2025kan.jpg){: .img-fluid .shadow-sm .rounded }
 
 KANs replace the black-box MLPs in neural CDMs with learnable activation functions on edges, so that the contribution of each knowledge concept to the predicted response can be read off directly from the learned functions; two integration schemes cover both drop-in replacement and embedding-level processing.
 

@@ -15,6 +15,9 @@ affiliation: "Proceedings of the 2023 IEEE/CVF International Conference on Compu
 venue: "ICCV 2023"
 teaser: /assets/img/publication_preview/xu2023eqnet.jpg
 buttons:
+  - label: PDF
+    url: /assets/pdf/xu2023eqnet.pdf
+    icon: "fa fa-file-pdf pr-1"
   - label: Paper
     url: https://ieeexplore.ieee.org/abstract/document/10378532
     icon: "fa fa-file-pdf pr-1"
@@ -55,7 +58,7 @@ bibtex: >-
 
 ## Method
 
-![Framework of the proposed method](/assets/img/publication_preview/xu2023eqnet.jpg){: .img-fluid .shadow-sm .rounded }
+![Framework of the proposed method](/assets/img/paper_method/xu2023eqnet.jpg){: .img-fluid .shadow-sm .rounded }
 
 EQ-Net trains a single weight-sharing quantization supernet in which each sub-network can choose its own bit-width, quantization granularity, and symmetry; two regularization losses align the weight distributions and progressively guide sub-networks so that all quantization configurations remain accurate after a single training run.
 

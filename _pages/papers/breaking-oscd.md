@@ -15,6 +15,9 @@ affiliation: "ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)
 venue: "KDD 2026"
 teaser: /assets/img/publication_preview/wang2026breaking.jpg
 buttons:
+  - label: PDF
+    url: /assets/pdf/wang2026breaking.pdf
+    icon: "fa fa-file-pdf pr-1"
   - label: Paper
     url: https://dl.acm.org/doi/abs/10.1145/3770854.3780159
     icon: "fa fa-file-pdf pr-1"
@@ -64,7 +67,7 @@ bibtex: >-
 
 ## Method
 
-![Framework of the proposed method](/assets/img/publication_preview/wang2026breaking.jpg){: .img-fluid .shadow-sm .rounded }
+![Framework of the proposed method](/assets/img/paper_method/wang2026breaking.jpg){: .img-fluid .shadow-sm .rounded }
 
 OSCD trains a weight-sharing supernet of cognitive diagnosis models once, and then applies an evolutionary multi-objective search over the supernet to discover architectures that jointly optimize diagnosis accuracy and robustness against noisy response data.
 

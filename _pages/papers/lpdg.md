@@ -17,6 +17,9 @@ affiliation: "ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)
 venue: "KDD 2025"
 teaser: /assets/img/publication_preview/ma2025patterns.jpg
 buttons:
+  - label: PDF
+    url: /assets/pdf/ma2025patterns.pdf
+    icon: "fa fa-file-pdf pr-1"
   - label: Paper
     url: https://dl.acm.org/doi/10.1145/3711896.3737021
     icon: "fa fa-file-pdf pr-1"
@@ -60,7 +63,7 @@ bibtex: >-
 
 ## Method
 
-![Framework of the proposed method](/assets/img/publication_preview/ma2025patterns.jpg){: .img-fluid .shadow-sm .rounded }
+![Framework of the proposed method](/assets/img/paper_method/ma2025patterns.jpg){: .img-fluid .shadow-sm .rounded }
 
 LPDG first mines recurrent learning patterns from historical interaction sequences, then uses these patterns to guide a sequence regeneration model that synthesizes plausible student–exercise interactions, augmenting sparse training data with pattern-consistent samples.
 
