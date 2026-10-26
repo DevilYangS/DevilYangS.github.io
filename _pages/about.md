@@ -87,7 +87,7 @@ My research interests include automated machine learning, neural architecture se
     <img src="{{ '/assets/img/mambo_logo.png' | relative_url }}" alt="Mambo Research Group logo" class="mambo-logo">
   </a>
   <p>
-    I am a member of <a href="https://bimk.ahu.edu.cn/main.htm" target="_blank">BIMK</a> (Institute of Artificial Intelligence, Anhui University) and the leader of the <b>Mambo Research Group</b> (曼波课题组, <b>M</b>achine learning <b>A</b>nd <b>M</b>ultiobjective <b>B</b>io-inspired <b>O</b>ptimization).
+    I am a member of <a href="https://bimk.ahu.edu.cn/main.htm" target="_blank">BIMK</a> (Institute of Artificial Intelligence, Anhui University) and the leader of the <b>Mambo Research Group</b> (曼波课题组, <b>M</b>achine learning <b>A</b>ugmented <b>M</b>etaheuristics: <b>B</b>eyond <b>O</b>ptimization).
     The group focuses on <b>machine learning &amp; optimization</b> — including evolutionary computation, neural architecture search, and trustworthy intelligent education — and open-sources its work on
     <a href="https://github.com/MamboAuto" target="_blank" rel="noopener">GitHub <i class="fa-brands fa-github"></i></a>
     (e.g., <a href="https://github.com/MamboAuto/FedCD" target="_blank">FedCD</a>, <a href="https://github.com/MamboAuto/NeuroEA-RL" target="_blank">NeuroEA-RL</a>).
