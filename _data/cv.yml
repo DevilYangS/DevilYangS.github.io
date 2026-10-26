@@ -101,12 +101,30 @@
 - title: Patents
   type: time_table
   contents:
-    - title: CN 118070884A, "A Multi-objective Based Neural Architecture Search Method" (一种基于多目标的神经架构搜索方法)
+    - title: CN 121745144A, "A Reinforcement-Learning-Assisted Evolutionary Algorithm for Parameter Optimization in Algorithm Configuration" (一种用于算法配置中的参数优化的强化学习辅助进化算法)
+      year: 2025
+      description: Appl. No. 202511813036.6, Anhui University
+    - title: CN 120449994A, "Architecture Search for General Cognitive Diagnosis Models Based on Evolutionary Multi-Task Optimization" (基于进化多任务优化的通用认知诊断模型架构搜索方法)
+      year: 2025
+      description: Appl. No. 202510385961.7, Anhui University
+    - title: CN 120144950A, "A Cognitive Diagnosis Method Based on Imbalance-Aware Heterogeneous Graph Learning" (基于不平衡感知的异构图学习的认知诊断方法)
+      year: 2025
+      description: Appl. No. 202510198137.0, Anhui University
+    - title: CN 118297130A, "A Knowledge Tracing Method Based on Transformer Neural Architecture Search" (一种基于Transformer神经架构搜索的知识追踪方法) &mdash; first inventor
       year: 2024
-      description: Filed Apr. 2024, published May 2024
-    - title: CN 118297130A, "A Knowledge Tracing Method Based on Transformer Neural Architecture Search" (一种基于Transformer神经架构搜索的知识追踪方法)
+      description: Appl. No. 202410388534.X, Anhui University
+    - title: CN 118070884A, "A Multi-objective Based Neural Architecture Search Method" (一种基于多目标的神经架构搜索方法) &mdash; first inventor
       year: 2024
-      description: Filed Apr. 2024, published Jul. 2024
+      description: Appl. No. 202410410014.4, Anhui University
+    - title: CN 117933301A, "A Distance-Aware Knowledge Tracing Method" (一种基于距离感知的知识追踪方法)
+      year: 2024
+      description: Appl. No. 202410121052.8, Anhui University
+    - title: CN 117574955A, "A Knowledge Tracing Method for Student Ability Representation Based on Knowledge Spillover Effects" (一种基于知识溢出效应的学生能力表征的知识追踪方法)
+      year: 2023
+      description: Appl. No. 202311565634.7, Anhui University
+    - title: CN 114220127A, "An Image Recognition Method Based on a Gradient-Guided Evolutionary Algorithm" (一种基于梯度引导的进化算法的图像识别方法) &mdash; granted
+      year: 2021
+      description: Appl. No. 202111639517.1, Anhui University
 
 - title: Reviewers
   type: nested_list

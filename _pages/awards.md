@@ -146,6 +146,7 @@ li.award-item.has-cert:hover .cert-hint { color: var(--global-theme-color); }
 .fund-badge.provincial { color: #1a9c6b; }
 .patent-badge.granted { color: #1a9c6b; }
 .patent-badge.published { color: #2c7be5; }
+.patent-badge.first { color: #ffffff; background: var(--global-highlight-color); border-color: var(--global-highlight-color); }
 .fund-grant, .patent-no {
   font-weight: 600;
   color: var(--global-theme-color);
@@ -154,7 +155,34 @@ li.award-item.has-cert:hover .cert-hint { color: var(--global-theme-color); }
 }
 .fund-note { font-size: 0.80rem; }
 .fund-note::before { content: "\00b7  "; }
-.patent-inventors b { color: var(--global-text-color); }
+.patent-inventors b { color: var(--global-highlight-color); font-weight: 700; }
+/* ===== 专利：第一发明人突出 + 申请号 ===== */
+.patent-item.lead {
+  border-left-width: 4px;
+  border-left-color: var(--global-highlight-color);
+  background: linear-gradient(90deg, rgba(220, 53, 69, 0.055), transparent 72%), var(--global-code-bg-color);
+}
+.patent-item.lead .patent-title { font-weight: 700; }
+.patent-cn {
+  display: block;
+  margin-top: 0.14rem;
+  font-size: 0.80rem;
+  font-weight: 400;
+  color: var(--global-text-color-light);
+}
+.patent-appno {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  font-size: 0.74rem;
+  letter-spacing: -0.01em;
+  color: var(--global-text-color-light);
+}
+.patent-appno::before { content: "Appl. "; font-family: inherit; opacity: 0.75; }
+.patent-summary {
+  margin: -0.35rem 0 0.85rem;
+  font-size: 0.82rem;
+  color: var(--global-text-color-light);
+}
+.patent-summary b { color: var(--global-highlight-color); }
 /* 奖项类别小标签 */
 .award-tag {
   display: inline-block;
@@ -317,62 +345,113 @@ li.award-item.has-cert:hover .cert-hint { color: var(--global-theme-color); }
 
 <h3 class="section-title">Patents</h3>
 
+<p class="patent-summary"><b>8</b> invention patents (China) &middot; <b>2</b> as <b>first inventor</b> &middot; <b>1</b> granted &middot; all assigned to Anhui University.</p>
+
 <div class="patent-list">
 
   <div class="patent-item">
     <div class="patent-head">
-      <span class="patent-title">A Multi-objective Based Neural Architecture Search Method <span class="fund-note">(一种基于多目标的神经架构搜索方法)</span></span>
-      <span class="patent-no">CN 118070884 A</span>
+      <span class="patent-title">A Reinforcement-Learning-Assisted Evolutionary Algorithm for Parameter Optimization in Algorithm Configuration<span class="patent-cn">一种用于算法配置中的参数优化的强化学习辅助进化算法</span></span>
+      <span class="patent-no">CN 121745144 A</span>
     </div>
     <div class="patent-meta">
       <span class="patent-badge published">Published</span>
-      <span class="patent-inventors"><b>S. Yang</b>, M. Chen, X. Yu, H. Ma, Y. Tian</span>
-      <span>filed Apr. 2024 &middot; published May 2024</span>
+      <span class="patent-inventors">X. Zhang, Z. Yang, <b>S. Yang</b></span>
+      <span class="patent-appno">202511813036.6</span>
+      <span>Anhui University &middot; filed 2025</span>
     </div>
   </div>
 
   <div class="patent-item">
     <div class="patent-head">
-      <span class="patent-title">A Knowledge Tracing Method Based on Transformer Neural Architecture Search <span class="fund-note">(一种基于Transformer神经架构搜索的知识追踪方法)</span></span>
-      <span class="patent-no">CN 118297130 A</span>
+      <span class="patent-title">Architecture Search for General Cognitive Diagnosis Models Based on Evolutionary Multi-Task Optimization<span class="patent-cn">基于进化多任务优化的通用认知诊断模型架构搜索方法</span></span>
+      <span class="patent-no">CN 120449994 A</span>
     </div>
     <div class="patent-meta">
       <span class="patent-badge published">Published</span>
-      <span class="patent-inventors"><b>S. Yang</b>, L. Qin, X. Yu, H. Ma, Y. Tian</span>
-      <span>filed Apr. 2024 &middot; published Jul. 2024</span>
+      <span class="patent-inventors">X. Zhang, L. Qin, <b>S. Yang</b></span>
+      <span class="patent-appno">202510385961.7</span>
+      <span>Anhui University &middot; filed 2025</span>
     </div>
   </div>
 
   <div class="patent-item">
     <div class="patent-head">
-      <span class="patent-title">An Image Recognition Method Based on a Gradient-Guided Evolutionary Algorithm <span class="fund-note">(一种基于梯度引导进化算法的图像识别方法)</span></span>
-      <span class="patent-no">ZL 202111639517.1</span>
-    </div>
-    <div class="patent-meta">
-      <span class="patent-badge granted">Granted</span>
-      <span class="patent-inventors">Y. Tian, Z. Shi, <b>S. Yang</b>, X. Zhang</span>
-    </div>
-  </div>
-
-  <div class="patent-item">
-    <div class="patent-head">
-      <span class="patent-title">A Cognitive Diagnosis Method for Heterogeneous Graph Learning Based on Imbalance Perception <span class="fund-note">(一种基于不平衡感知的异构图学习认知诊断方法)</span></span>
+      <span class="patent-title">A Cognitive Diagnosis Method Based on Imbalance-Aware Heterogeneous Graph Learning<span class="patent-cn">基于不平衡感知的异构图学习的认知诊断方法</span></span>
       <span class="patent-no">CN 120144950 A</span>
     </div>
     <div class="patent-meta">
       <span class="patent-badge published">Published</span>
       <span class="patent-inventors">X. Zhang, J. Li, <b>S. Yang</b>, X. Yu, H. Ma</span>
+      <span class="patent-appno">202510198137.0</span>
+      <span>Anhui University &middot; filed 2025</span>
+    </div>
+  </div>
+
+  <div class="patent-item lead">
+    <div class="patent-head">
+      <span class="patent-title">A Knowledge Tracing Method Based on Transformer Neural Architecture Search<span class="patent-cn">一种基于 Transformer 神经架构搜索的知识追踪方法</span></span>
+      <span class="patent-no">CN 118297130 A</span>
+    </div>
+    <div class="patent-meta">
+      <span class="patent-badge first">First Inventor</span>
+      <span class="patent-badge published">Published</span>
+      <span class="patent-inventors"><b>S. Yang</b>, L. Qin, X. Yu, H. Ma, Y. Tian</span>
+      <span class="patent-appno">202410388534.X</span>
+      <span>Anhui University &middot; filed Apr. 2024</span>
+    </div>
+  </div>
+
+  <div class="patent-item lead">
+    <div class="patent-head">
+      <span class="patent-title">A Multi-Objective Based Neural Architecture Search Method<span class="patent-cn">一种基于多目标的神经架构搜索方法</span></span>
+      <span class="patent-no">CN 118070884 A</span>
+    </div>
+    <div class="patent-meta">
+      <span class="patent-badge first">First Inventor</span>
+      <span class="patent-badge published">Published</span>
+      <span class="patent-inventors"><b>S. Yang</b>, M. Chen, X. Yu, H. Ma, Y. Tian</span>
+      <span class="patent-appno">202410410014.4</span>
+      <span>Anhui University &middot; filed Apr. 2024</span>
     </div>
   </div>
 
   <div class="patent-item">
     <div class="patent-head">
-      <span class="patent-title">Distance-Aware Knowledge Tracing <span class="fund-note">(一种距离感知的知识追踪方法)</span></span>
+      <span class="patent-title">A Distance-Aware Knowledge Tracing Method<span class="patent-cn">一种基于距离感知的知识追踪方法</span></span>
       <span class="patent-no">CN 117933301 A</span>
     </div>
     <div class="patent-meta">
       <span class="patent-badge published">Published</span>
       <span class="patent-inventors">M. Cao, H. Ma, <b>S. Yang</b>, X. Zhang</span>
+      <span class="patent-appno">202410121052.8</span>
+      <span>Anhui University &middot; filed Feb. 2024</span>
+    </div>
+  </div>
+
+  <div class="patent-item">
+    <div class="patent-head">
+      <span class="patent-title">A Knowledge Tracing Method for Student Ability Representation Based on Knowledge Spillover Effects<span class="patent-cn">一种基于知识溢出效应的学生能力表征的知识追踪方法</span></span>
+      <span class="patent-no">CN 117574955 A</span>
+    </div>
+    <div class="patent-meta">
+      <span class="patent-badge published">Published</span>
+      <span class="patent-inventors">H. Ma, Z. Wang, <b>S. Yang</b>, H. Zhang, X. Zhang</span>
+      <span class="patent-appno">202311565634.7</span>
+      <span>Anhui University &middot; filed Nov. 2023</span>
+    </div>
+  </div>
+
+  <div class="patent-item">
+    <div class="patent-head">
+      <span class="patent-title">An Image Recognition Method Based on a Gradient-Guided Evolutionary Algorithm<span class="patent-cn">一种基于梯度引导的进化算法的图像识别方法</span></span>
+      <span class="patent-no">CN 114220127 A</span>
+    </div>
+    <div class="patent-meta">
+      <span class="patent-badge granted">Granted</span>
+      <span class="patent-inventors">Y. Tian, Z. Shi, <b>S. Yang</b>, X. Zhang</span>
+      <span class="patent-appno">202111639517.1</span>
+      <span>Anhui University &middot; filed Dec. 2021</span>
     </div>
   </div>
 
