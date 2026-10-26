@@ -69,4 +69,10 @@ Instead of fully training every individual, MFENAS evaluates architectures at lo
 
 ![Main experimental results](/assets/img/paper_results/yang2022accelerating.jpg){: .img-fluid .shadow-sm .rounded }
 
-Table III compares MFENAS with 22 peer competitors — manual designs, RL-based (NASNet-A, NASBOT...), gradient-based (DARTS, SNAS...), and evolution-based (AmoebaNet-A, Genetic-CNN, AE-CNN...) approaches — on CIFAR-10 in test error, parameters, and search cost. MFENAS attains the lowest test error (2.39%) with only 0.6 GPU-days of search cost.
+**Compared algorithms:** 22 peer competitors: manual designs, RL-based (NASNet-A, NASBOT), gradient-based (DARTS, SNAS), and evolutionary (AmoebaNet-A, Genetic-CNN, AE-CNN) approaches.
+
+**Datasets:** CIFAR-10.
+
+**Metrics:** Test error, number of parameters, and search cost (GPU-days).
+
+**Overall results:** MFENAS attains the lowest test error (2.39%) with only 0.6 GPU-days of search cost.

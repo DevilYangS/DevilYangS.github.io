@@ -79,4 +79,10 @@ An uncertainty-reduction hashing objective trains binary representations under w
 
 ![Main experimental results](/assets/img/paper_results/ma2025reconciling.jpg){: .img-fluid .shadow-sm .rounded }
 
-Table 2 evaluates ACC/AUC and per-exercise selection latency on four public datasets (NIPS-2020, JUNYI, ASSIST2012, PTADISC), against statistical baselines (MKLI, MAAT, BECAT), data-driven baselines (GMOCAT, BOCAT, NCAT, UATS), and HashCAT variants. HashCAT achieves accuracy close to the best baselines while reducing exercise selection time by an order of magnitude; several baselines are even too slow to record at step-20.
+**Compared algorithms:** Statistical selectors (MKLI, MAAT, BECAT) and data-driven selectors (GMOCAT, BOCAT, NCAT, UATS).
+
+**Datasets:** NIPS-2020, JUNYI, ASSIST2012, and PTADISC.
+
+**Metrics:** ACC, AUC, and per-exercise selection latency.
+
+**Overall results:** HashCAT keeps accuracy close to the best baselines while cutting selection time by an order of magnitude; several baselines are even too slow to record at step-20.

@@ -63,4 +63,10 @@ EQ-Net trains a single weight-sharing quantization supernet in which each sub-ne
 
 ![Main experimental results](/assets/img/paper_results/xu2023eqnet.jpg){: .img-fluid .shadow-sm .rounded }
 
-Table 2 compares EQ-Net with state-of-the-art quantization approaches (LSQ, EdMIPS, RobustQ, AutoPress, MultiQuant, HAQ) on ResNet18/50, MobileNetV2, and EfficientNetB0 over ImageNet Top-1 accuracy. EQ-Net delivers the best or comparable accuracy at every bit-width with a single training run, e.g., 67.6% Top-1 at 2-bit on ResNet18.
+**Compared algorithms:** State-of-the-art quantization approaches: LSQ, EdMIPS, RobustQ, AutoPress, MultiQuant, and HAQ.
+
+**Datasets:** ImageNet.
+
+**Metrics:** Top-1 accuracy at 2/3/4-bit on ResNet18/50, MobileNetV2, and EfficientNetB0.
+
+**Overall results:** EQ-Net delivers the best or comparable accuracy at every bit-width with a single training run, e.g., 67.6% Top-1 at 2-bit on ResNet18.

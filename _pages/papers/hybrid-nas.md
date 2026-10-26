@@ -70,4 +70,10 @@ HA-ENAS defines a search space in which a single network may contain both convol
 
 ![Main experimental results](/assets/img/paper_results/yang2024hybrid.jpg){: .img-fluid .shadow-sm .rounded }
 
-Fig. 7 plots the validation adversarial accuracy against clean accuracy of the evolved architectures. The best-found HA-Net achieves the most favorable robustness-accuracy trade-off compared with manually designed CNN/ViT hybrids and NAS baselines, and the block-composition analysis reveals a balanced mixture of conv and attention stages.
+**Compared algorithms:** Handcrafted CNN/ViT/hybrid backbones (VGG, ResNet, RobNet, AdvRush, CRoZe, ViT-S/B-16, ResMLP, Mixer, BoTNet-50).
+
+**Datasets:** CIFAR-100.
+
+**Metrics:** Clean accuracy and adversarial accuracy under FGSM, MI-FGSM, and PGD transfer attacks (averaged over 30 runs).
+
+**Overall results:** The evolved HA-Net-A1-C100 clearly surpasses all compared networks under every attack (e.g., 37.88% FGSM accuracy on ViT-B/16 surrogates and the best PGD robustness), achieving the most favorable robustness-accuracy trade-off.

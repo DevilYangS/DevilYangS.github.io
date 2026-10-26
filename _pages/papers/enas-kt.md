@@ -69,4 +69,10 @@ A tailored search space treats input feature selection, convolution placement, a
 
 ![Main experimental results](/assets/img/paper_results/yang2023transformer.jpg){: .img-fluid .shadow-sm .rounded }
 
-Table 3 compares AUC and model size on the EdNet dataset: ENAS-KT variants vs. CT-NCM, SAKT, AKT, SAINT/SAINT+, and NAS-Cell. The searched models reach 0.8021-0.8059 AUC, consistently above all handcrafted baselines while using far fewer parameters than SAINT+(more) (e.g., 2.5M vs. 4.9M).
+**Compared algorithms:** CT-NCM, SAKT, AKT, SAINT/SAINT+, and the NAS-Cell baseline.
+
+**Datasets:** EdNet.
+
+**Metrics:** AUC and model size (number of parameters).
+
+**Overall results:** The searched models reach 0.8021–0.8059 AUC, consistently above all handcrafted baselines, while using far fewer parameters than SAINT+ (more) (e.g., 2.5M vs. 4.9M).

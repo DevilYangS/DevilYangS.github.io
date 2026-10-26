@@ -66,4 +66,10 @@ The paper models ability estimation as a continuously evolving process during ad
 
 ![Main experimental results](/assets/img/paper_results/yu2026beyond.jpg){: .img-fluid .shadow-sm .rounded }
 
-Compared with representative ability-update baselines (In-Batch and MAAT) under four CDMs (MIRT, MAAT, NCD, BORAT) on the Chess and JUNYI datasets with ACC@5/10/20 metrics, the proposed SUAT achieves the best accuracy in almost all settings, showing that finer-grained ability updating translates directly into more precise adaptive testing.
+**Compared algorithms:** Three representative update strategies — MKLI, MAAT, and BOCAT — each instantiated with STEP, BATCH, and In-Batch updating variants, combined with three question selection models (QSM).
+
+**Datasets:** ASSIST12 and JUNYI.
+
+**Metrics:** ACC and AUC at testing lengths of 5/10/20 questions plus the average.
+
+**Overall results:** SUAT achieves the best ACC/AUC in almost all CDM–strategy–length combinations (e.g., 84.61/85.55 average ACC on JUNYI under MAAT), showing that finer-grained ability updating translates directly into more precise adaptive testing.

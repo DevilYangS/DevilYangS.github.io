@@ -67,4 +67,10 @@ GEMONN maintains a population of weight vectors and, at each generation, uses ba
 
 ![Main experimental results](/assets/img/paper_results/yang2021gradient.jpg){: .img-fluid .shadow-sm .rounded }
 
-Fig. 16 reports mean CIFAR-10 test accuracy on four architectures (LeNet-5, LeNet-deeper, Vgg-8-variant, Cell-4NN) against SGD/Adam/RMSprop variants and pure EA training. GEMONN achieves the highest accuracy on all four architectures, validating the gradient-guided genetic operator.
+**Compared algorithms:** Four SAE trainers (EUDNN, SSAE, SCAE, SDAE) for stacked autoencoders, and SGD/Adam-trained LSTMs.
+
+**Datasets:** Ten image benchmarks (MNIST variants, Rectangles, Convex, Cifar10-bw).
+
+**Metrics:** Correct classification rate (CCR).
+
+**Overall results:** GEMONN obtains the best CCR on nearly all ten SAE benchmarks and the largest average CCR on four of six LSTM datasets, validating the gradient-guided genetic operator.

@@ -66,4 +66,10 @@ A multi-objective evolutionary algorithm searches the proposed space, evaluating
 
 ## Experimental Results
 
-The searched generalized CDMs achieve better cross-dataset performance than handcrafted models, winning the Best Paper Award of DOCS 2023.
+**Compared algorithms:** Handcrafted cognitive diagnosis models.
+
+**Datasets:** Multiple datasets covering diverse learning behaviors.
+
+**Metrics:** Cross-dataset diagnosis performance.
+
+**Overall results:** The searched generalized CDMs achieve better cross-dataset performance than handcrafted models; the paper won the Best Paper Award of DOCS 2023.

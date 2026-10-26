@@ -61,4 +61,10 @@ EMOFM encodes community centers as individuals and evolves them under multiple o
 
 ## Experimental Results
 
-Compared with six state-of-the-art overlapping community detection approaches on synthetic and real-world networks of different scales, EMOFM obtains the best results on most test instances (code available at github.com/DevilYangS/EMOFM).
+**Compared algorithms:** Six state-of-the-art overlapping community detection approaches.
+
+**Datasets:** Synthetic and real-world networks of different scales.
+
+**Metrics:** Overlapping community detection quality.
+
+**Overall results:** EMOFM obtains the best results on most test instances (code at github.com/DevilYangS/EMOFM).

@@ -72,4 +72,10 @@ OSCD trains a weight-sharing supernet of cognitive diagnosis models once, and th
 
 ![Main experimental results](/assets/img/paper_results/wang2026breaking.jpg){: .img-fluid .shadow-sm .rounded }
 
-On multiple real-world datasets with noisy responses, the architectures discovered by OSCD are compared with representative handcrafted CDMs and NAS baselines in terms of AUC and ACC. The searched models rank first or second in nearly every setting, and degrade markedly less than manually designed CDMs as the noise level grows.
+**Compared algorithms:** Ten handcrafted CDMs (DINA, IRT, MIRT, MF, NCD, RCD, KSCD, KaNCD, ReCD, ORCDF) and the EMO-NAS-CD search baseline.
+
+**Datasets:** ASSIST09 and SLP-Math under four train/val/test splits (50/20/30 – 80/10/10).
+
+**Metrics:** ACC, AUC, and RMSE.
+
+**Overall results:** The architectures found by OSCD rank first on nearly every split and shrink the least as training data decreases; on SLP-Math OSCD variants take the best ACC/AUC in all four settings.

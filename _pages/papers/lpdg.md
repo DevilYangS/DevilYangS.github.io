@@ -68,4 +68,10 @@ LPDG first mines recurrent learning patterns from historical interaction sequenc
 
 ![Main experimental results](/assets/img/paper_results/ma2025patterns.jpg){: .img-fluid .shadow-sm .rounded }
 
-On three real-world datasets, several mainstream KT backbones are evaluated with and without the proposed LPDG data generation. Plugging LPDG consistently improves prediction accuracy across all backbones and clearly outperforms other data-augmentation strategies, demonstrating the value of learning-pattern-guided training data.
+**Compared algorithms:** Mainstream KT backbones each trained with and without LPDG, together with other data-augmentation strategies.
+
+**Datasets:** Three real-world knowledge tracing datasets.
+
+**Metrics:** Response-prediction accuracy (AUC/ACC).
+
+**Overall results:** Plugging LPDG consistently improves prediction accuracy across all backbones and clearly outperforms other augmentation strategies.

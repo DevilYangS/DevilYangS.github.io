@@ -63,4 +63,10 @@ Building on the framework of the previous multiobjective EA for task-oriented pa
 
 ![Main experimental results](/assets/img/paper_results/tian2019surrogate.jpg){: .img-fluid .shadow-sm .rounded }
 
-Fig. 4 shows the HV convergence profiles of the plain MOEA (MOPM) and its surrogate-assisted versions (SA-MOPM) on the transaction dataset with 500,000 records. The surrogate assistance accelerates convergence substantially and reaches higher final HV with far fewer real function evaluations.
+**Compared algorithms:** Classical miners DOFIA and MAFIA, and the plain multiobjective EA (MOPM).
+
+**Datasets:** Taobao shopping and print-area transaction datasets.
+
+**Metrics:** Precision, recall, and F1; hypervolume (HV) convergence.
+
+**Overall results:** SA-MOPM attains the best precision (32.26) with F1 far above DOFIA/MAFIA, and reaches higher final HV with far fewer real function evaluations thanks to the RBF ensemble surrogate.

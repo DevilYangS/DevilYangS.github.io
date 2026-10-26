@@ -69,4 +69,10 @@ PEOAT formulates the selection of the fixed item set as an optimization problem 
 
 ![Main experimental results](/assets/img/paper_results/yu2026peoat.jpg){: .img-fluid .shadow-sm .rounded }
 
-On the JUNYI and PTADisc datasets, PEOAT is compared with heuristic baselines (RAND, MKLI, MAAT, BECAT) and data-driven baselines (BOCAT, NCAT, GMOCAT, UATS) in terms of ACC/AUC at question lengths from 5 to 20. PEOAT delivers the best performance in almost all settings, with average improvements of 7.74%/5.82% in AUC on JUNYI and 6.97%/5.62% in ACC on PTADisc over the second-best method.
+**Compared algorithms:** Heuristic selectors (RAND, MKLI, MAAT, BECAT) and data-driven selectors (BOCAT, NCAT, GMOCAT, UATS).
+
+**Datasets:** JUNYI and PTADisc.
+
+**Metrics:** ACC and AUC at quiz lengths from 5 to 20.
+
+**Overall results:** PEOAT delivers the best performance in almost all settings, with average improvements of 7.74%/5.82% in AUC on JUNYI and 6.97%/5.62% in ACC on PTADisc over the second-best method.

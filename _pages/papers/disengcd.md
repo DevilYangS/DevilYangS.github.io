@@ -72,4 +72,10 @@ DisenGCD first separates the interaction graph into three task-specific graphs, 
 
 ![Main experimental results](/assets/img/paper_results/yang2024disengcd.jpg){: .img-fluid .shadow-sm .rounded }
 
-The curves compare DisenGCD with the representative RCD model on the Math and SLP datasets as the interaction noise ratio increases from 1 to 50, in ACC/RMSE/AUC. DisenGCD degrades far more slowly and keeps a clear advantage under heavy noise; results on sparse interaction settings (Table 7) show the same trend.
+**Compared algorithms:** Five CDMs: DINA, MIRT, NCD, ECD, and RCD.
+
+**Datasets:** ASSISTments and Math under four data-splitting ratios (40/10/50 – 70/10/20).
+
+**Metrics:** ACC, RMSE, and AUC.
+
+**Overall results:** DisenGCD is the best in every column on both datasets; it also degrades far more slowly than RCD as interaction noise grows.

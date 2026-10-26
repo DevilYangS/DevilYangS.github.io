@@ -66,4 +66,10 @@ ISR-MOEA encodes a complete top-k pattern set as one individual using an indexed
 
 ![Main experimental results](/assets/img/paper_results/zhang2019indexed.jpg){: .img-fluid .shadow-sm .rounded }
 
-Table 3 compares hyper-volume (HV) on 8 datasets against TKO, TKO-Greedy, PSO-Miner, SSDP-Miner, BGSA-Miner, and ISR variants of SPEA2/NSGA2. ISR-MOEA obtains the best HV on almost all datasets, confirming that the indexed set representation with a diversity objective mines more diversified top-k pattern sets.
+**Compared algorithms:** TKO, TKO-Greedy, PSO-Miner, SSDP-Miner, BGSA-Miner, and ISR variants of SPEA2/NSGA2.
+
+**Datasets:** Six real-world and two synthetic datasets.
+
+**Metrics:** Hypervolume (HV) of the mined top-k pattern sets.
+
+**Overall results:** ISR-MOEA obtains the best HV on almost all datasets, confirming that the indexed set representation with a diversity objective mines more diversified top-k pattern sets.

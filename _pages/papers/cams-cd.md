@@ -66,4 +66,10 @@ CMES mines collaborative relations between exercises, samples informative un-int
 
 ![Main experimental results](/assets/img/paper_results/ma2024enhancing.jpg){: .img-fluid .shadow-sm .rounded }
 
-Table 2 evaluates six representative CDMs (IRT, MIRT, NCD, CDGK, ECD, RCD), each trained with original sampling vs. the proposed CMES, on the ASSISTments and MATH datasets in ACC/RMSE/AUC. CMES-CDMs significantly outperform their original versions (p < 0.01) across all models and metrics, with the largest gains on sparse, long-tail interactions.
+**Compared algorithms:** Six representative CDMs (IRT, MIRT, NCD, CDGK, ECD, RCD), each trained with original sampling vs. the proposed CMES.
+
+**Datasets:** ASSISTments and MATH.
+
+**Metrics:** ACC, RMSE, and AUC.
+
+**Overall results:** CMES-trained CDMs significantly outperform their original versions (p < 0.01) across all models and metrics, with the largest gains on sparse, long-tail interactions.

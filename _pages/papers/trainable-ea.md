@@ -60,4 +60,10 @@ A Soft Actor-Critic (SAC) agent generates parameter configurations for NeuroEA â
 
 ![Main experimental results](/assets/img/paper_results/li2026trainable.jpg){: .img-fluid .shadow-sm .rounded }
 
-Fig. 4 reports the generalization ranks of static vs. dynamically configured NeuroEA on seen and unseen BBOB functions: the SAC-based dynamic configuration (D-SAC) attains the best average rank on both. Together with the convergence results on five benchmark problems, the framework clearly improves NeuroEA over GA-based configuration and static baselines.
+**Compared algorithms:** GA, PSO, GA+ARSBX, APSO, RefPo_GA, POM, RLDE-ATL, Q-Mumba, ConfigX, and the restricted static S-SAC configurator.
+
+**Datasets:** BBOB (F1â€“F10) and SOP benchmark problems (D = 10).
+
+**Metrics:** Mean fitness (standard deviation) over independent runs with significance signs; average rank on unseen functions.
+
+**Overall results:** D-SAC attains the best mean results on most problems (4/42 significant wins with none lost) and the best unseen average rank, showing that dynamic RL-based configuration transfers well to unseen landscapes.

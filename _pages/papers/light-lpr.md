@@ -71,4 +71,10 @@ LIGHT first builds a composite concept graph combining prerequisite edges mined 
 
 ![Main experimental results](/assets/img/paper_results/yu2025enhancing.jpg){: .img-fluid .shadow-sm .rounded }
 
-Table 2 compares learning-path quality (LG) on ASSIST09, ASSIST12, and SLP-Math across path lengths 5-30, against rule-based (RAND, CLUSTER, RANK), RL-based (CSEAL, GEHRL), and sequence-based (GRU4Rec, SRC) baselines. LIGHT obtains the best LG scores in every dataset and length setting, indicating that topology-aware sequence optimization yields genuinely better learning paths.
+**Compared algorithms:** Rule-based (RAND, CLUSTER, RANK), RL-based (CSEAL, GEHRL), and sequence-based (GRU4Rec, SRC) methods.
+
+**Datasets:** ASSIST09, ASSIST12, and SLP-Math.
+
+**Metrics:** Learning-path gain (LG) at path lengths from 5 to 30.
+
+**Overall results:** LIGHT obtains the best LG scores in every dataset and length setting, indicating that topology-aware sequence optimization yields genuinely better learning paths.

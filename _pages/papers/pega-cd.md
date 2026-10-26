@@ -72,4 +72,10 @@ Based on the diagnosed ability of each student, PEGA encodes candidate exercise 
 
 ![Main experimental results](/assets/img/paper_results/yang2023assembly.jpg){: .img-fluid .shadow-sm .rounded }
 
-Fig. 7 visualizes the proportion of assembled exercises over knowledge concepts: the groups assembled by CoE-DCDP cover the concept space much more evenly than the CF baseline and compared EAs (whose distributions collapse onto few concepts), while runtime remains acceptable, demonstrating better novelty, diversity, and personalization.
+**Compared algorithms:** Collaborative filtering (CF, SGL) and six MOEA-based approaches (MOEA-Probs/SparseEA/CCMO combined with NCD or ENCD).
+
+**Datasets:** ASSISTments, JunYi, and SLP (100 students each).
+
+**Metrics:** Pearson/Spearman/Kendall correlations between true ability and exercise difficulty (lower is better).
+
+**Overall results:** CoE-DCDP attains the lowest correlations on nearly all dataset–metric pairs (e.g., −0.5589 Pearson on ASSISTments), meaning its assembled exercise groups match students' actual ability far better.

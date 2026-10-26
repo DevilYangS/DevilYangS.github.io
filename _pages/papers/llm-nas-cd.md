@@ -74,4 +74,10 @@ The operator uses structured prompts that define the LLM's role, constrain the a
 
 ## Experimental Results
 
-Models searched by the proposed approach outperform both handcrafted and automatically-designed CD models on several datasets, and the LLM-assisted operator demonstrably accelerates convergence.
+**Compared algorithms:** Handcrafted CD models and automatically designed CD baselines, including non-LLM NAS variants and ablated operator settings.
+
+**Datasets:** Several real-world educational datasets.
+
+**Metrics:** Diagnosis accuracy (AUC/ACC) and convergence speed.
+
+**Overall results:** The LLM-assisted search outperforms both handcrafted and automatically designed baselines, and the role-switching operator demonstrably accelerates convergence.

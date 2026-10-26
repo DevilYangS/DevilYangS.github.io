@@ -65,4 +65,10 @@ KANs replace the black-box MLPs in neural CDMs with learnable activation functio
 
 ![Main experimental results](/assets/img/paper_results/yang2025kan.jpg){: .img-fluid .shadow-sm .rounded }
 
-Table 1 reports overall comparison against four traditional models (IRT, MIRT, DINA, MF) and eight neural CDMs (NCD/NCD+, KaNCD/KaNCD+, RCD/RCD+, KSCD/KSCD+) on four datasets (Assistments, SLP, JunYi, FreSub) in AUC/ACC. KAN2CD-e ranks best or second-best on nearly all datasets while keeping the diagnosis process interpretable.
+**Compared algorithms:** Four traditional models (IRT, MIRT, DINA, MF) and eight neural CDMs (NCD/NCD+, KaNCD/KaNCD+, RCD/RCD+, KSCD/KSCD+).
+
+**Datasets:** Assistments, SLP, JunYi, and FreSub.
+
+**Metrics:** AUC and ACC.
+
+**Overall results:** KAN2CD-e ranks best or second-best on nearly all datasets while keeping the diagnosis process interpretable.

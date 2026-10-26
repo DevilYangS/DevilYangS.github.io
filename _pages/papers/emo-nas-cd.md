@@ -70,4 +70,10 @@ The search space is defined over a general cognitive diagnosis model that accept
 
 ## Experimental Results
 
-The evolved CDMs outperform representative manually-designed models on multiple datasets while offering explicit interpretability, demonstrating that automated multi-objective search yields models better suited to intricate modern educational data.
+**Compared algorithms:** Representative manually-designed cognitive diagnosis models.
+
+**Datasets:** Multiple real-world educational datasets.
+
+**Metrics:** Diagnosis accuracy and model interpretability.
+
+**Overall results:** The evolved CDMs outperform the manual designs while offering explicit interpretability, showing that automated multi-objective search yields models better suited to intricate modern educational data.

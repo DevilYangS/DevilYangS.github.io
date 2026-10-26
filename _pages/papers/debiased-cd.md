@@ -69,4 +69,10 @@ DBCD treats the biased observations as outcomes contaminated by confounders and 
 
 ![Main experimental results](/assets/img/paper_results/yang2026debiased.jpg){: .img-fluid .shadow-sm .rounded }
 
-Table 4 compares DBCD with its CVIB variant and three strong neural CDMs (KaNCD, KSCD, HyperCD) on ASSIST09 and JUNYI, under Full/Random/Uniform item-difficulty conditions measured by ACC/AUC/RMSE. DBCD achieves the best results in almost all settings, confirming that removing nonrandom missingness bias leads to more reliable diagnosis.
+**Compared algorithms:** The CVIB variant of DBCD and three strong neural CDMs (KaNCD, KSCD, HyperCD).
+
+**Datasets:** ASSIST09 and JUNYI under Full/Random/Uniform item-difficulty conditions.
+
+**Metrics:** ACC, AUC, and RMSE.
+
+**Overall results:** DBCD achieves the best results in almost all settings, confirming that removing non-random missingness bias leads to more reliable diagnosis.
