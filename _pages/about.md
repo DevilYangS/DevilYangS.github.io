@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # news block is included manually inside the content (above Education)
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -30,6 +30,11 @@ I work as an <b>Associate Professor</b> at the [BIMK Research Group](https://bim
 I graduated from [the School of Computer Science and Technology](https://cs.ahu.edu.cn/), Anhui University with a bachelor's degree and a doctoral degree. I was also a [Visiting Ph.D. student](https://pub.uni-bielefeld.de/person/371292748) at Bielefeld University, Germany in 2022.
 
 My research interests include automated machine learning, neural architecture search, and evolutionary computation for smart education applications. I have authored/coauthored <b>50+ peer-reviewed papers</b>, with <b>30+ papers</b> published in prestigious IEEE Trans. (TNNLS, TEVC, TETCI, etc.) and top-tier conferences (NeurIPS, AAAI, IJCAI, KDD, SIGIR, etc.). I have received the National Scholarship for Postgraduate (2019), multiple best paper/poster awards at top conferences, and the Postdoctoral Fellowship Program (Grade B) of the China Postdoctoral Science Foundation.
+
+<span class='anchor' id='news'></span>
+<h2><a href="{{ '/news/' | relative_url }}" style="color: inherit">📰 News</a></h2>
+
+{% include news.liquid limit=true %}
 
 <span class='anchor' id='education'></span>
 ## 📖 Education
