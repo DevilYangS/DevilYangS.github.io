@@ -1,0 +1,195 @@
+// 自定义区块样式：Awards / Fundings / Patents（原内联在 awards.md 中）
+
+.award-group { margin-bottom: 1.2rem; }
+.award-year {
+  font-size: 1.02rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  color: var(--global-theme-color);
+  margin-bottom: 0.35rem;
+  padding-bottom: 0.15rem;
+  border-bottom: 1px solid var(--global-divider-color);
+}
+ul.award-list { list-style: none; padding-left: 0; margin: 0; }
+ul.award-list > li { position: relative; padding: 0.24rem 0 0.24rem 1rem; line-height: 1.55; }
+ul.award-list > li::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0.75rem;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background: var(--global-theme-color);
+  opacity: 0.65;
+}
+/* 奖项等级：标红 + 加粗 */
+.award-rank { font-weight: 700; color: var(--global-highlight-color); }
+/* 授予单位 / 赛事：加粗 */
+.award-org { font-weight: 600; }
+/* 补充说明：弱化 */
+.award-note { color: var(--global-text-color-light); font-size: 0.92em; }
+/* 级别标注：加粗 + 下划线 */
+.award-level {
+  font-weight: 700;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  text-decoration-thickness: 1px;
+}
+.award-level.national { color: var(--global-highlight-color); }
+.award-level.provincial { color: #2c7be5; }
+.award-level.regional { color: #1a9c6b; }
+/* 证书提示角标 */
+li.award-item.has-cert { cursor: pointer; border-radius: 6px; transition: background 0.15s; }
+li.award-item.has-cert:hover { background: var(--global-code-background-color); }
+li.award-item.has-cert:hover .award-tag { filter: brightness(1.1); }
+.cert-hint {
+  font-size: 0.72rem;
+  color: var(--global-text-color-light);
+  margin-left: 0.35rem;
+  white-space: nowrap;
+}
+.cert-hint i { font-size: 0.74rem; }
+li.award-item.has-cert:hover .cert-hint { color: var(--global-theme-color); }
+/* 证书预览浮层 */
+.award-preview {
+  display: none;
+  position: fixed;
+  z-index: 9999;
+  max-width: min(720px, 92vw);
+  background: #fff;
+  padding: 10px;
+  border-radius: 12px;
+  box-shadow: 0 12px 40px rgba(0,0,0,0.28);
+  border: 1px solid var(--global-divider-color);
+}
+.award-preview img {
+  display: block;
+  max-width: 100%;
+  max-height: 70vh;
+  width: auto;
+  height: auto;
+  border-radius: 8px;
+}
+/* ===== 区块标题（字距展开，类似 F U N D I N G） ===== */
+.section-title {
+  font-size: 0.92rem;
+  font-weight: 700;
+  letter-spacing: 0.26em;
+  text-transform: uppercase;
+  color: var(--global-theme-color);
+  border-bottom: 2px solid var(--global-divider-color);
+  padding-bottom: 0.32rem;
+  margin: 2.4rem 0 1.1rem;
+}
+/* ===== 基金卡片 ===== */
+.fund-list, .patent-list { display: grid; gap: 0.55rem; }
+.fund-item, .patent-item {
+  background: var(--global-code-bg-color);
+  border-left: 3px solid var(--global-theme-color);
+  border-radius: 0 6px 6px 0;
+  padding: 0.62rem 0.88rem;
+  transition: box-shadow 0.16s ease, transform 0.16s ease;
+}
+.fund-item:hover, .patent-item:hover {
+  box-shadow: 0 3px 12px rgba(0, 0, 0, 0.10);
+  transform: translateY(-1px);
+}
+.fund-head, .patent-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 0.9rem;
+  flex-wrap: wrap;
+}
+.fund-name, .patent-title { font-weight: 600; line-height: 1.4; }
+.fund-amount {
+  font-weight: 700;
+  color: var(--global-highlight-color);
+  white-space: nowrap;
+  font-variant-numeric: tabular-nums;
+}
+.fund-project {
+  margin-top: 0.26rem;
+  font-size: 0.92em;
+  font-style: italic;
+  color: var(--global-text-color-light);
+  line-height: 1.45;
+}
+.fund-meta, .patent-meta {
+  margin-top: 0.38rem;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.45rem;
+  font-size: 0.82rem;
+  color: var(--global-text-color-light);
+}
+.fund-badge, .patent-badge {
+  padding: 0.04rem 0.46rem;
+  border-radius: 0.7rem;
+  border: 1px solid currentColor;
+  font-size: 0.70rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  white-space: nowrap;
+}
+.fund-badge.national { color: var(--global-highlight-color); }
+.fund-badge.postdoc { color: #2c7be5; }
+.fund-badge.provincial { color: #1a9c6b; }
+.patent-badge.granted { color: #1a9c6b; }
+.patent-badge.published { color: #2c7be5; }
+.patent-badge.first { color: #ffffff; background: var(--global-highlight-color); border-color: var(--global-highlight-color); }
+.fund-grant, .patent-no {
+  font-weight: 600;
+  color: var(--global-theme-color);
+  white-space: nowrap;
+  font-variant-numeric: tabular-nums;
+}
+.fund-note { font-size: 0.80rem; }
+.fund-note::before { content: "\00b7  "; }
+.patent-inventors b { color: var(--global-highlight-color); font-weight: 700; }
+/* ===== 专利：第一发明人突出 + 申请号 ===== */
+.patent-item.lead {
+  border-left-width: 4px;
+  border-left-color: var(--global-highlight-color);
+  background: linear-gradient(90deg, rgba(220, 53, 69, 0.055), transparent 72%), var(--global-code-bg-color);
+}
+.patent-item.lead .patent-title { font-weight: 700; }
+.patent-cn {
+  display: block;
+  margin-top: 0.14rem;
+  font-size: 0.80rem;
+  font-weight: 400;
+  color: var(--global-text-color-light);
+}
+.patent-appno {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  font-size: 0.74rem;
+  letter-spacing: -0.01em;
+  color: var(--global-text-color-light);
+}
+.patent-appno::before { content: "Appl. "; font-family: inherit; opacity: 0.75; }
+.patent-summary {
+  margin: -0.35rem 0 0.85rem;
+  font-size: 0.82rem;
+  color: var(--global-text-color-light);
+}
+.patent-summary b { color: var(--global-highlight-color); }
+/* 奖项类别小标签 */
+.award-tag {
+  display: inline-block;
+  margin-left: 0.45rem;
+  padding: 0.02rem 0.42rem;
+  font-size: 0.70rem;
+  font-weight: 600;
+  line-height: 1.5;
+  border-radius: 0.7rem;
+  border: 1px solid currentColor;
+  vertical-align: 0.06rem;
+  white-space: nowrap;
+}
+.award-tag.paper { color: var(--global-highlight-color); }
+.award-tag.comp { color: #2c7be5; }
+.award-tag.advisor { color: #1a9c6b; }
+.award-tag.fund { color: #8a6d3b; }
