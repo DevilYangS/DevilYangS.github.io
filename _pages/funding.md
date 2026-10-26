@@ -91,14 +91,14 @@ description: Research grants and invention patents.
 
 <h3 class="section-title">Patents</h3>
 
-<p class="patent-summary"><b>8</b> invention patents (China) &middot; <b>2</b> as <b>first inventor</b> &middot; <b>1</b> granted &middot; all assigned to Anhui University.</p>
+<p class="patent-summary"><b>8</b> invention patents (China) &middot; <b>2</b> as <b>first inventor</b> &middot; <b>1</b> granted &middot; all assigned to Anhui University.<br>Click any publication number to open the full text on Google Patents.</p>
 
 <div class="patent-list">
 
   <div class="patent-item">
     <div class="patent-head">
       <span class="patent-title">A Reinforcement-Learning-Assisted Evolutionary Algorithm for Parameter Optimization in Algorithm Configuration<span class="patent-cn">一种用于算法配置中的参数优化的强化学习辅助进化算法</span></span>
-      <span class="patent-no">CN 121745144 A</span>
+      <a class="patent-no" href="https://patents.google.com/patent/CN121745144A/zh" target="_blank" rel="noopener" title="View CN121745144A on Google Patents">CN 121745144 A <i class="fa-solid fa-up-right-from-square"></i></a>
     </div>
     <div class="patent-meta">
       <span class="patent-badge published">Published</span>
@@ -111,7 +111,7 @@ description: Research grants and invention patents.
   <div class="patent-item">
     <div class="patent-head">
       <span class="patent-title">Architecture Search for General Cognitive Diagnosis Models Based on Evolutionary Multi-Task Optimization<span class="patent-cn">基于进化多任务优化的通用认知诊断模型架构搜索方法</span></span>
-      <span class="patent-no">CN 120449994 A</span>
+      <a class="patent-no" href="https://patents.google.com/patent/CN120449994A/zh" target="_blank" rel="noopener" title="View CN120449994A on Google Patents">CN 120449994 A <i class="fa-solid fa-up-right-from-square"></i></a>
     </div>
     <div class="patent-meta">
       <span class="patent-badge published">Published</span>
@@ -124,7 +124,7 @@ description: Research grants and invention patents.
   <div class="patent-item">
     <div class="patent-head">
       <span class="patent-title">A Cognitive Diagnosis Method Based on Imbalance-Aware Heterogeneous Graph Learning<span class="patent-cn">基于不平衡感知的异构图学习的认知诊断方法</span></span>
-      <span class="patent-no">CN 120144950 A</span>
+      <a class="patent-no" href="https://patents.google.com/patent/CN120144950A/zh" target="_blank" rel="noopener" title="View CN120144950A on Google Patents">CN 120144950 A <i class="fa-solid fa-up-right-from-square"></i></a>
     </div>
     <div class="patent-meta">
       <span class="patent-badge published">Published</span>
@@ -137,7 +137,7 @@ description: Research grants and invention patents.
   <div class="patent-item lead">
     <div class="patent-head">
       <span class="patent-title">A Knowledge Tracing Method Based on Transformer Neural Architecture Search<span class="patent-cn">一种基于 Transformer 神经架构搜索的知识追踪方法</span></span>
-      <span class="patent-no">CN 118297130 A</span>
+      <a class="patent-no" href="https://patents.google.com/patent/CN118297130A/zh" target="_blank" rel="noopener" title="View CN118297130A on Google Patents">CN 118297130 A <i class="fa-solid fa-up-right-from-square"></i></a>
     </div>
     <div class="patent-meta">
       <span class="patent-badge first">First Inventor</span>
@@ -151,7 +151,7 @@ description: Research grants and invention patents.
   <div class="patent-item lead">
     <div class="patent-head">
       <span class="patent-title">A Multi-Objective Based Neural Architecture Search Method<span class="patent-cn">一种基于多目标的神经架构搜索方法</span></span>
-      <span class="patent-no">CN 118070884 A</span>
+      <a class="patent-no" href="https://patents.google.com/patent/CN118070884A/zh" target="_blank" rel="noopener" title="View CN118070884A on Google Patents">CN 118070884 A <i class="fa-solid fa-up-right-from-square"></i></a>
     </div>
     <div class="patent-meta">
       <span class="patent-badge first">First Inventor</span>
@@ -165,7 +165,7 @@ description: Research grants and invention patents.
   <div class="patent-item">
     <div class="patent-head">
       <span class="patent-title">A Distance-Aware Knowledge Tracing Method<span class="patent-cn">一种基于距离感知的知识追踪方法</span></span>
-      <span class="patent-no">CN 117933301 A</span>
+      <a class="patent-no" href="https://patents.google.com/patent/CN117933301A/zh" target="_blank" rel="noopener" title="View CN117933301A on Google Patents">CN 117933301 A <i class="fa-solid fa-up-right-from-square"></i></a>
     </div>
     <div class="patent-meta">
       <span class="patent-badge published">Published</span>
@@ -178,7 +178,7 @@ description: Research grants and invention patents.
   <div class="patent-item">
     <div class="patent-head">
       <span class="patent-title">A Knowledge Tracing Method for Student Ability Representation Based on Knowledge Spillover Effects<span class="patent-cn">一种基于知识溢出效应的学生能力表征的知识追踪方法</span></span>
-      <span class="patent-no">CN 117574955 A</span>
+      <a class="patent-no" href="https://patents.google.com/patent/CN117574955A/zh" target="_blank" rel="noopener" title="View CN117574955A on Google Patents">CN 117574955 A <i class="fa-solid fa-up-right-from-square"></i></a>
     </div>
     <div class="patent-meta">
       <span class="patent-badge published">Published</span>
@@ -191,7 +191,7 @@ description: Research grants and invention patents.
   <div class="patent-item">
     <div class="patent-head">
       <span class="patent-title">An Image Recognition Method Based on a Gradient-Guided Evolutionary Algorithm<span class="patent-cn">一种基于梯度引导的进化算法的图像识别方法</span></span>
-      <span class="patent-no">CN 114220127 A</span>
+      <a class="patent-no" href="https://patents.google.com/patent/CN114220127A/zh" target="_blank" rel="noopener" title="View CN114220127A on Google Patents">CN 114220127 A <i class="fa-solid fa-up-right-from-square"></i></a>
     </div>
     <div class="patent-meta">
       <span class="patent-badge granted">Granted</span>

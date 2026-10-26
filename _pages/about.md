@@ -31,74 +31,6 @@ I graduated from [the School of Computer Science and Technology](https://cs.ahu.
 
 My research interests include automated machine learning, neural architecture search, and evolutionary computation for smart education applications. I have authored/coauthored <b>50+ peer-reviewed papers</b>, with <b>30+ papers</b> published in prestigious IEEE Trans. (TNNLS, TEVC, TETCI, etc.) and top-tier conferences (NeurIPS, AAAI, IJCAI, KDD, SIGIR, etc.). I have received the National Scholarship for Postgraduate (2019), multiple best paper/poster awards at top conferences, and the Postdoctoral Fellowship Program (Grade B) of the China Postdoctoral Science Foundation.
 
-<style>
-  .scholar-strip {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: stretch;
-    gap: 0.48rem;
-    margin: 1.1rem 0 0.2rem;
-  }
-  .scholar-btn {
-    display: inline-flex;
-    align-items: center;
-    gap: 0.42rem;
-    padding: 0.38rem 0.9rem;
-    border-radius: 0.5rem;
-    border: 1px solid var(--global-theme-color);
-    background: var(--global-theme-color);
-    color: #fff !important;
-    font-size: 0.9rem;
-    font-weight: 600;
-    line-height: 1.5;
-    text-decoration: none !important;
-    white-space: nowrap;
-    transition: box-shadow 0.16s ease, transform 0.16s ease;
-  }
-  .scholar-btn:hover {
-    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.18);
-    transform: translateY(-1px);
-  }
-  .scholar-btn i { font-size: 1.05rem; }
-  .scholar-stat {
-    display: inline-flex;
-    flex-direction: column;
-    justify-content: center;
-    min-width: 5.3rem;
-    padding: 0.3rem 0.82rem;
-    border-radius: 0.5rem;
-    border-left: 3px solid var(--global-highlight-color);
-    background: var(--global-code-bg-color);
-    line-height: 1.2;
-    text-decoration: none !important;
-    transition: box-shadow 0.16s ease, transform 0.16s ease;
-  }
-  .scholar-stat:hover {
-    box-shadow: 0 3px 12px rgba(0, 0, 0, 0.12);
-    transform: translateY(-1px);
-  }
-  .scholar-stat .v {
-    font-size: 1.05rem;
-    font-weight: 700;
-    color: var(--global-theme-color);
-    font-variant-numeric: tabular-nums;
-  }
-  .scholar-stat .k {
-    font-size: 0.67rem;
-    letter-spacing: 0.07em;
-    text-transform: uppercase;
-    color: var(--global-text-color-light);
-  }
-  .scholar-note {
-    margin: 0.42rem 0 0;
-    font-size: 0.74rem;
-    color: var(--global-text-color-light);
-  }
-  @media (max-width: 575px) {
-    .scholar-stat { flex: 1 1 4.6rem; min-width: 0; }
-  }
-</style>
-
 <div class="scholar-strip" markdown="0">
   <a class="scholar-btn" href="https://scholar.google.com.hk/citations?user=arzbiNUAAAAJ&amp;hl=en" target="_blank" rel="noopener">
     <i class="ai ai-google-scholar"></i> Google Scholar
@@ -114,6 +46,27 @@ My research interests include automated machine learning, neural architecture se
   </a>
 </div>
 <p class="scholar-note">Google Scholar metrics as of Oct. 2026 &middot; 1,301 citations since 2021.</p>
+
+<div class="profile-links" markdown="0">
+  <a class="profile-link" href="https://orcid.org/0000-0003-0837-5424" target="_blank" rel="noopener" title="ORCID iD: 0000-0003-0837-5424">
+    <i class="ai ai-orcid"></i>ORCID
+  </a>
+  <a class="profile-link" href="https://dblp.org/pid/232/8063.html" target="_blank" rel="noopener" title="DBLP publication list">
+    <i class="ai ai-dblp"></i>DBLP
+  </a>
+  <a class="profile-link" href="https://scholar.google.com.hk/citations?user=arzbiNUAAAAJ&amp;hl=en" target="_blank" rel="noopener" title="Google Scholar profile">
+    <i class="ai ai-google-scholar"></i>Scholar
+  </a>
+  <a class="profile-link" href="https://github.com/DevilYangS" target="_blank" rel="noopener" title="GitHub">
+    <i class="fa-brands fa-github"></i>GitHub
+  </a>
+  <a class="profile-link" href="mailto:yangshang0308@gmail.com" title="Email me">
+    <i class="fa-solid fa-envelope"></i>Email
+  </a>
+  <a class="profile-link" href="{{ '/assets/pdf/CV-ShangshangYang.pdf' | relative_url }}" target="_blank" title="Curriculum Vitae (PDF)">
+    <i class="ai ai-cv"></i>CV (PDF)
+  </a>
+</div>
 
 <span class='anchor' id='news'></span>
 <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit">📰 News</a></h2>
