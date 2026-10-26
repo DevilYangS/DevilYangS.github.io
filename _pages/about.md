@@ -64,7 +64,7 @@ My research interests include automated machine learning, neural architecture se
     <i class="fa-solid fa-envelope"></i>Email
   </a>
   <a class="profile-link" href="{{ '/assets/pdf/CV-ShangshangYang.pdf' | relative_url }}" target="_blank" title="Curriculum Vitae (PDF)">
-    <i class="ai ai-cv"></i>CV (PDF)
+    <i class="fa-solid fa-file-pdf"></i>CV (PDF)
   </a>
 </div>
 
