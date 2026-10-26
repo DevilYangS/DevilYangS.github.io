@@ -69,6 +69,18 @@ ul.timeline li.timeline-item .timeline-marker { position: absolute; left: -0.5re
       <img src="{{ '/assets/img/kdd2026_aied_schedule.jpg' | relative_url }}" alt="KDD 2026 AI for Education Day session schedule" class="img-fluid rounded shadow-sm" style="max-width: 640px; margin: 0.5rem 0;">
     </a>
   </li>
+  <li class="timeline-item">
+    <span class="timeline-marker"></span>
+    <h4 class="timeline-title">NICE Seminar (Invited Talk)</h4>
+    <p class="timeline-period">Sep. 2023 &middot; Online</p>
+    <p>
+      Invited talk at the <b>NICE Seminar</b>, presenting
+      <i>&ldquo;Designing Novel Cognitive Diagnosis Models by Evolutionary Multi-Objective Neural Architecture Search.&rdquo;</i>
+      <a href="https://arxiv.org/pdf/2307.04429" target="_blank">[arXiv]</a>
+      <a href="https://ieeexplore.ieee.org/abstract/document/10599558/" target="_blank">[Paper]</a>
+      <a href="https://www.bilibili.com/video/BV1934y1P7vd/" target="_blank">[Video]</a>
+    </p>
+  </li>
 </ul>
 
 </div>

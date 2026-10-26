@@ -78,6 +78,83 @@ li.award-item.has-cert:hover .cert-hint { color: var(--global-theme-color); }
   height: auto;
   border-radius: 8px;
 }
+/* ===== 区块标题（字距展开，类似 F U N D I N G） ===== */
+.section-title {
+  font-size: 0.92rem;
+  font-weight: 700;
+  letter-spacing: 0.26em;
+  text-transform: uppercase;
+  color: var(--global-theme-color);
+  border-bottom: 2px solid var(--global-divider-color);
+  padding-bottom: 0.32rem;
+  margin: 2.4rem 0 1.1rem;
+}
+/* ===== 基金卡片 ===== */
+.fund-list, .patent-list { display: grid; gap: 0.55rem; }
+.fund-item, .patent-item {
+  background: var(--global-code-bg-color);
+  border-left: 3px solid var(--global-theme-color);
+  border-radius: 0 6px 6px 0;
+  padding: 0.62rem 0.88rem;
+  transition: box-shadow 0.16s ease, transform 0.16s ease;
+}
+.fund-item:hover, .patent-item:hover {
+  box-shadow: 0 3px 12px rgba(0, 0, 0, 0.10);
+  transform: translateY(-1px);
+}
+.fund-head, .patent-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 0.9rem;
+  flex-wrap: wrap;
+}
+.fund-name, .patent-title { font-weight: 600; line-height: 1.4; }
+.fund-amount {
+  font-weight: 700;
+  color: var(--global-highlight-color);
+  white-space: nowrap;
+  font-variant-numeric: tabular-nums;
+}
+.fund-project {
+  margin-top: 0.26rem;
+  font-size: 0.92em;
+  font-style: italic;
+  color: var(--global-text-color-light);
+  line-height: 1.45;
+}
+.fund-meta, .patent-meta {
+  margin-top: 0.38rem;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.45rem;
+  font-size: 0.82rem;
+  color: var(--global-text-color-light);
+}
+.fund-badge, .patent-badge {
+  padding: 0.04rem 0.46rem;
+  border-radius: 0.7rem;
+  border: 1px solid currentColor;
+  font-size: 0.70rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  white-space: nowrap;
+}
+.fund-badge.national { color: var(--global-highlight-color); }
+.fund-badge.postdoc { color: #2c7be5; }
+.fund-badge.provincial { color: #1a9c6b; }
+.patent-badge.granted { color: #1a9c6b; }
+.patent-badge.published { color: #2c7be5; }
+.fund-grant, .patent-no {
+  font-weight: 600;
+  color: var(--global-theme-color);
+  white-space: nowrap;
+  font-variant-numeric: tabular-nums;
+}
+.fund-note { font-size: 0.80rem; }
+.fund-note::before { content: "\00b7  "; }
+.patent-inventors b { color: var(--global-text-color); }
 /* 奖项类别小标签 */
 .award-tag {
   display: inline-block;
@@ -158,23 +235,148 @@ li.award-item.has-cert:hover .cert-hint { color: var(--global-theme-color); }
   </ul>
 </div>
 
-<h3>Fundings</h3>
+<h3 class="section-title">Fundings</h3>
 
-<ul>
-  <li>The National Natural Science Foundation of China (General Project), 2027&ndash;2030, 500K RMB</li>
-  <li>The National Natural Science Foundation of China (Youth Project), No. 62302019, "Efficient Evolutionary Neural Architecture Search Methods for Student Cognitive Diagnosis Models in Intelligent Education", 2024&ndash;2026, 300K RMB</li>
-  <li>The Postdoctoral Fellowship Program (Grade B), China Postdoctoral Science Foundation, No. GZB20240002, 2024&ndash;2026, 360K RMB</li>
-  <li>2025 Postdoctoral Research Performance Assessment (Tier 2), China Postdoctoral Science Foundation, No. YJB20250190, 2025&ndash;2026, 60K RMB</li>
-  <li>The China Postdoctoral Science Foundation (74th Batch of General Funding), 2023&ndash;2025, 80K RMB</li>
-  <li>Anhui Province Key Laboratory of Intelligent Computing and Applications, No. AFZNJS2024KF01, 2024&ndash;2025, 50K RMB</li>
-</ul>
+<div class="fund-list">
 
-<h3>Patents</h3>
+  <div class="fund-item">
+    <div class="fund-head">
+      <span class="fund-name">National Natural Science Foundation of China &middot; General Project</span>
+      <span class="fund-amount">¥500K</span>
+    </div>
+    <div class="fund-meta">
+      <span class="fund-badge national">National</span>
+      <span class="fund-period">2027 &ndash; 2030</span>
+      <span>Principal Investigator</span>
+    </div>
+  </div>
 
-<ul>
-  <li>CN 118070884A, "A Multi-objective Based Neural Architecture Search Method" (一种基于多目标的神经架构搜索方法), filed Apr. 2024, published May 2024</li>
-  <li>CN 118297130A, "A Knowledge Tracing Method Based on Transformer Neural Architecture Search" (一种基于Transformer神经架构搜索的知识追踪方法), filed Apr. 2024, published Jul. 2024</li>
-</ul>
+  <div class="fund-item">
+    <div class="fund-head">
+      <span class="fund-name">National Natural Science Foundation of China &middot; Youth Project</span>
+      <span class="fund-amount">¥300K</span>
+    </div>
+    <div class="fund-project">&ldquo;Efficient Evolutionary Neural Architecture Search Methods for Student Cognitive Diagnosis Models in Intelligent Education&rdquo;</div>
+    <div class="fund-meta">
+      <span class="fund-badge national">National</span>
+      <span class="fund-grant">No. 62302019</span>
+      <span class="fund-period">2024 &ndash; 2026</span>
+    </div>
+  </div>
+
+  <div class="fund-item">
+    <div class="fund-head">
+      <span class="fund-name">Postdoctoral Fellowship Program (Grade B) &middot; China Postdoctoral Science Foundation</span>
+      <span class="fund-amount">¥360K</span>
+    </div>
+    <div class="fund-meta">
+      <span class="fund-badge postdoc">Postdoctoral</span>
+      <span class="fund-grant">No. GZB20240002</span>
+      <span class="fund-period">2024 &ndash; 2026</span>
+      <span class="fund-note">≈1000 awardees nationwide (≈500 Grade A)</span>
+    </div>
+  </div>
+
+  <div class="fund-item">
+    <div class="fund-head">
+      <span class="fund-name">China Postdoctoral Science Foundation &middot; 74th Batch of General Funding</span>
+      <span class="fund-amount">¥80K</span>
+    </div>
+    <div class="fund-meta">
+      <span class="fund-badge postdoc">Postdoctoral</span>
+      <span class="fund-period">2023 &ndash; 2025</span>
+      <span class="fund-note">success rate ≈17%</span>
+    </div>
+  </div>
+
+  <div class="fund-item">
+    <div class="fund-head">
+      <span class="fund-name">2025 Postdoctoral Research Performance Assessment (Tier 2, Top 5%) &middot; China Postdoctoral Science Foundation</span>
+      <span class="fund-amount">¥60K</span>
+    </div>
+    <div class="fund-meta">
+      <span class="fund-badge postdoc">Postdoctoral</span>
+      <span class="fund-grant">No. YJB20250190</span>
+      <span class="fund-period">2025 &ndash; 2026</span>
+    </div>
+  </div>
+
+  <div class="fund-item">
+    <div class="fund-head">
+      <span class="fund-name">Anhui Province Key Laboratory of Intelligent Computing and Applications</span>
+      <span class="fund-amount">¥50K</span>
+    </div>
+    <div class="fund-meta">
+      <span class="fund-badge provincial">Provincial</span>
+      <span class="fund-grant">No. AFZNJS2024KF01</span>
+      <span class="fund-period">2024 &ndash; 2025</span>
+    </div>
+  </div>
+
+</div>
+
+<h3 class="section-title">Patents</h3>
+
+<div class="patent-list">
+
+  <div class="patent-item">
+    <div class="patent-head">
+      <span class="patent-title">A Multi-objective Based Neural Architecture Search Method <span class="fund-note">(一种基于多目标的神经架构搜索方法)</span></span>
+      <span class="patent-no">CN 118070884 A</span>
+    </div>
+    <div class="patent-meta">
+      <span class="patent-badge published">Published</span>
+      <span class="patent-inventors"><b>S. Yang</b>, M. Chen, X. Yu, H. Ma, Y. Tian</span>
+      <span>filed Apr. 2024 &middot; published May 2024</span>
+    </div>
+  </div>
+
+  <div class="patent-item">
+    <div class="patent-head">
+      <span class="patent-title">A Knowledge Tracing Method Based on Transformer Neural Architecture Search <span class="fund-note">(一种基于Transformer神经架构搜索的知识追踪方法)</span></span>
+      <span class="patent-no">CN 118297130 A</span>
+    </div>
+    <div class="patent-meta">
+      <span class="patent-badge published">Published</span>
+      <span class="patent-inventors"><b>S. Yang</b>, L. Qin, X. Yu, H. Ma, Y. Tian</span>
+      <span>filed Apr. 2024 &middot; published Jul. 2024</span>
+    </div>
+  </div>
+
+  <div class="patent-item">
+    <div class="patent-head">
+      <span class="patent-title">An Image Recognition Method Based on a Gradient-Guided Evolutionary Algorithm <span class="fund-note">(一种基于梯度引导进化算法的图像识别方法)</span></span>
+      <span class="patent-no">ZL 202111639517.1</span>
+    </div>
+    <div class="patent-meta">
+      <span class="patent-badge granted">Granted</span>
+      <span class="patent-inventors">Y. Tian, Z. Shi, <b>S. Yang</b>, X. Zhang</span>
+    </div>
+  </div>
+
+  <div class="patent-item">
+    <div class="patent-head">
+      <span class="patent-title">A Cognitive Diagnosis Method for Heterogeneous Graph Learning Based on Imbalance Perception <span class="fund-note">(一种基于不平衡感知的异构图学习认知诊断方法)</span></span>
+      <span class="patent-no">CN 120144950 A</span>
+    </div>
+    <div class="patent-meta">
+      <span class="patent-badge published">Published</span>
+      <span class="patent-inventors">X. Zhang, J. Li, <b>S. Yang</b>, X. Yu, H. Ma</span>
+    </div>
+  </div>
+
+  <div class="patent-item">
+    <div class="patent-head">
+      <span class="patent-title">Distance-Aware Knowledge Tracing <span class="fund-note">(一种距离感知的知识追踪方法)</span></span>
+      <span class="patent-no">CN 117933301 A</span>
+    </div>
+    <div class="patent-meta">
+      <span class="patent-badge published">Published</span>
+      <span class="patent-inventors">M. Cao, H. Ma, <b>S. Yang</b>, X. Zhang</span>
+    </div>
+  </div>
+
+</div>
 
 <div id="award-preview" class="award-preview"><img src="" alt="Award certificate"></div>
 
