@@ -48,3 +48,7 @@
 "EAAI":
   url: https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence
   color: "#c97b1e"
+
+"TOIS":
+  url: https://dl.acm.org/journal/tois
+  color: "#b02a37"
