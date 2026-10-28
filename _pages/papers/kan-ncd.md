@@ -11,6 +11,7 @@ authors:
   - name: Ziwen Wang
   - name: Xueming Yan
   - name: Haiping Ma
+    star: true
   - name: Ye Tian
 affiliation: "Proceedings of the 34th International Joint Conference on Artificial Intelligence (IJCAI), 2025"
 venue: "IJCAI 2025"

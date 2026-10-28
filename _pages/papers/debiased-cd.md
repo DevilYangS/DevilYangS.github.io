@@ -10,6 +10,7 @@ authors:
   - name: Xiaoshan Yu
   - name: Ziwen Wang
   - name: Haiping Ma
+    star: true
   - name: Xingyi Zhang
 affiliation: "Proceedings of the Fortieth AAAI Conference on Artificial Intelligence (AAAI), 2026"
 venue: "AAAI 2026"

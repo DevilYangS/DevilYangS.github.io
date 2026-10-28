@@ -130,7 +130,7 @@
 
         <div class="paper-authors">
           {% for author in page.authors %}
-            {% if author.me %}<span class="me">{{ author.name }}<sup>*</sup></span>{% elsif author.star %}{{ author.name }}<sup>*</sup>{% else %}{{ author.name }}{% endif %}{% unless forloop.last %}, {% endunless %}
+            {% if author.me %}<span class="me">{{ author.name }}</span>{% if author.star %}<sup>*</sup>{% endif %}{% elsif author.star %}{{ author.name }}<sup>*</sup>{% else %}{{ author.name }}{% endif %}{% unless forloop.last %}, {% endunless %}
           {% endfor %}
         </div>
 
