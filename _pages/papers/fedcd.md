@@ -14,7 +14,7 @@ authors:
     star: true
   - name: Xingyi Zhang
   - name: Geyong Min
-affiliation: "ACM Transactions on Information Systems, 2026"
+affiliation: "ACM Transactions on Information Systems, 2026, Article 3860629"
 venue: "TOIS 2026"
 teaser: /assets/img/publication_preview/yang2026fedcd.jpg
 buttons:
@@ -39,10 +39,11 @@ abstract: >
   presents opportunities for cognitive diagnosis (CD) to assess students' mastery of knowledge
   concepts while also raising significant data privacy and security challenges. To cope with
   this issue, federated learning (FL) becomes a promising solution by jointly training models
-  across multiple local clients without sharing their original data. However, the data quality
-  problem, caused by the ability differences and educational context differences between
-  different groups/schools of students, further poses a challenge to the client fairness of
-  models. To address this challenge, this paper proposes a fairness-aware federated cognitive
+  across multiple local clients without sharing their original data. However, heterogeneous
+  response distributions across different schools, arising from differences in student
+  populations, educational contexts, and learning behaviors, pose an additional challenge
+  to client fairness in federated CD. To address this challenge, this paper proposes a
+  fairness-aware federated cognitive
   diagnosis framework (FedCD) to jointly train CD models built upon a novel parameter
   decoupling-based personalization strategy, preserving privacy of data and achieving precise
   and fair diagnosis of students on each client. As an FL paradigm, FedCD trains a local CD
