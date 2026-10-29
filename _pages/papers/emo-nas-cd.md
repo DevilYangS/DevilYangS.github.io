@@ -73,6 +73,8 @@ The search space is defined over a general cognitive diagnosis model that accept
 
 ## Experimental Results
 
+![Boxplots for AUC values of comparison CDMs and seven found architectures](/assets/img/paper_results/yang2024emonascd.jpg){: .img-fluid .shadow-sm .rounded }
+
 **Compared algorithms:** Representative manually-designed cognitive diagnosis models.
 
 **Datasets:** Multiple real-world educational datasets.
